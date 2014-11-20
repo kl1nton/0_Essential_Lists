@@ -1,55 +1,213 @@
 ---
-title: "1 Anaesthetics and ITU"
-author: "Kenneth N. Linton"
-date: "20 November 2014"
-output: html_document
+title:          "EL1: Anaesthetics and ITU"
+# author:         "Kenneth N. Linton"
+# date:           "20th November 2014"
+classoption:    a4paper
+output:         pdf_document
+fontsize:       12pt
+geometry:       margin=1in
 ---
 
-# Anaesthetics & ICU
+## Systemic Inflammatory Response Syndrome (SIRS) 
+(Harmful and excessive response to an insult in the acute phase)
 
-## Systemic Inflammatory Response Syndrome
-- ?
-- ?
+### Two or more of the following (T3W)
+- Tachycardia       > 90 bpm
+- Tachypnoea        > 20 bpm
+- Temperature       < 36C **or** > 38C
+- White Cell Count  < 4 x 10^3/mm **or** > 12 x 10^3/mm
 
-## Causes of Acute Inflammatory Response Syndrome
-- ?
-- ?
+## Causes of Acute Respiratory Distress Syndrome (ARDS)
+(Refactory hypoxia in appropriate clinical setting with bilateral diffuse pulmonary infiltrates and a PAWP < 18 mmHg and PaO2/FiO2 < 200)
+
+### Direct (7)
+- Aspiration
+- Pulmonary contusion
+- Toxic gas inhalation
+- Near drowning
+- Pneumonia
+- Fat embolus
+- Radiation
+
+### Indirect (8)
+- Sepsis
+- Disseminated Intravascular Coagulation (DIC)
+- Trauma
+- Cardiopulmonary bypass
+- Blood transfusion
+- Pancreatitis
+- Repurfusion injury
+- Burns
 
 ## NYHA Assessment of Cardiovascular Function
-- ?
-- ?
+1. No limitation of ordinary physical activity
+2. Slight limitation of ordinary physical activity **or** ordinary activity result in palpilations, dyspnoea or angina
+3. Marked limitation of physical activity. Less than ordinary activity results in palpitations, dyspnoea or angina
+4. Inability to carry out _any_ physical activity without discomfort, which may occur at rest
 
-## ASA Grading (+E for Emergency)
-- ?
-- ?
+## American Society of Anaesthesiologists (ASA) Grading (+E for Emergency)
+1. Healthy individual
+2. **Mild** systemic disease
+3. **Severe** systemic disease that limits activity but is not incapacitating
+4. **Incapacitating** disease that is a constant threat to life
+5. **Moribund** -- not expected to survive with or without an operation
 
 ## Post-MI Risk of Re-Infarction Peri-Operatively
-- ?
-- ?
+- \< 3/52: 80%
+- 3/52 to 3/12: 20--30%
+- 3/12 to 6/12: 5--15%
+- \> 6/12: 1--4%
+- Perioperative MI mortality = 50%
+
+### Baseline peri-operative MI rate is 0.2%
+- Half are silent, and 
+- Most are on 3-day post-op
 
 ## Benefits of Epidural Post-Op
+------------------------------|----------------------------
+Improved respiratory function | *L* Sympathetic stimulation
+*L* diaphragmatic splinting   | *L* Cardiac workload
+*L* DVT                       | *L* Vascular resistance
+*L* Urinary retention         | *H* Splanchnic blood flow
+Earlier mobilisation          | --
 
 ## Endocrine Response to Stress/Surgery
 
+- Catecholamines -- adrenal *medulla*
+    - Inotropic and chronotropic
+    - Lipolysis
+    - Gluconeogenesis
+
+- Cortisol -- adrenal *cortex*
+    - Proteolysis > Lipolysis
+    - Gluconeogenesis
+
+- Aldosterone -- adrenal *cortex*
+    - Na+ and H20 retention
+
+- Antidiuretic Hormone (ADH) -- *posterior* pituitary
+    - H2O retention
+
+- Growth Hormine (GH) -- *anterior* pituitary
+    - Gluconeogenesis
+    - Insulin resistance
+- Glucagon (pancreatic G-cells)
+    - Gluconeogenesis
+    - *L* Insulin secretion
+
 ## Suxamethonium Side Effects
 
-## Complications of General Anaesthesia
+-------------|-----------------------
+Muscle pain  | HyPERkalaemia
+Bradycardia  | HyPO / HyPERtension
+Bronchospasm | Malignant HyPERpyrexia
 
-## Complications of Ventilations
+## Complications of General Anaesthesia
+----------------------|-------------------------------------
+Aspiration            | Atelectasis
+*H* Sputum production | Segmental collapse (V/Q mismatching)
+*L* Cough reflexes    | *H* CO2
+*L* Ciliary activity  | ARDS
+
+## Complications of Ventilation
+- Barotrauma -- pneumomediastinum/thorax, subcutaneous emphysema
+- Volutrauma
+- Air embolism
+- *L* Cardiac output (CO)
+- Nosocomial pneumonia
+- Parenchymal lung damage
 
 ## Complications of Intubations
 
-## Indications for Intubations
+--------------------------------|---------------------------
+Trauma to teeth or upper airway | Blockage
+Procedural hypoxia              | Misplacement
+Aspiration                      | Cuff puncture/displacement
+Haemorrhage                     | --
+
+## Indications for Intubation
+--------------------------------|----------------------
+*L* GCS/impaired gag reflex     | Hypoxia
+High risk of airway obstruction | Metabolic acidosis
+Airway protection               | CO2 retention
+Brochial toilet                 | To counteract *H* ICP
 
 ## Problems with Pulse Oximetry
+- Measures oxygenation not ventilation
+- Inaccurate at O2 saturations < 90%
+- Read out is 2--3 seconds behind read-time
+
+### Interference with 
+- *Abnormal* haemoglobin
+    - CO poisoning
+    - Smokers
+    - Bilirubin
+    - Methaemoglobin
+- *Signal*
+    - Shivering
+    - Diathermy
+    - Bright light
+    - Nail varnish
+- *Flow*
+    - Hypotension
+    - Hypovoleamia
+    - Vasoconstriction
 
 ## Shifts O2/Saturation Curve RIGHT (decreases affinity of Hb for PaO2)
 
+------------|-----------------------
+*L* PaO2    | Pyrexia
+*H* H+      | Haemoglobin F (foetal)
+*H* 2,3 DPG | Altitude
+
 ## Respiratory Failure
-### Type I: ?
-### Type II: ?
+
+### Type I -- PaO2 < 8 kPa *and* PaCO2 < 6.7 kPa
+---------------|--------------------
+Acute asthma   | ARDS
+COPD/Emphysema | PE
+Pneumonia      | Pulmonary fibrosis
+Atelectasis    | Haemo/pneumo-thorax
+
+### Type II -- PaO2 < 8 kPa *and* PaCO2 > 6.7 kPa
+----------------------|------------------------
+Severe asthma         | Spinal injury
+Severe COPD/Emphysema | Head injury
+Bronchiectasis        | *H* ICP
+Kyphoscoliosis        | Coma
+Chest wall trauma     | Opiods
+Abdominal distension  | Muscular dystrophy
+Phrenic nerve injury  | Myasthenia gravis
+Sleep apnoea          | Guillian-Barre syndrome
 
 ## Acid Base Disorders
+
+### Respiratory 
+
+**Acidosis**           | **Alkalosis**
+-----------------------|-----------------------------------
+CVA                    | CVA
+CNS tumour             | PE
+Encephalitis           | Encephalitis 
+Sedation/opioids       | Hypoxia in COPD
+*H* ICP                | HyPERventilation/panic attack
+Neuromuscular disease  | Exercise
+Trauma/surgery         | Altitude
+Ankylosing spondylitis | Salicyclate (*early* in poisoning)
+COPD                   | Amphetamine
+Pneumonia              | Pulmonary oedema
+
+### Metabolic
+
+**Acidosis**                     | **Alkalosis**
+---------------------------------|---------------------------
+Ketoacidosis                     | Vomiting
+Acute renal failure              | Chronic renal failure
+Lactic acidosis (see below)      | HyPERaldosteronism
+Methanol/ethanol                 | Iatrogenic: e.g. diuretics
+Fistulae/diarrhoea               | Alkali abuse
+Total Parenteral Nutrition (TPN) | --
+Salicylate (late in poisoning)   | --
 
 ## Cases of Lactic Acidosis
 
@@ -114,3 +272,11 @@ output: html_document
 ## Normal Commensal Organisms
 
 ## Classifications of Wound
+
+## Tumours in HIV
+
+## Acute Abdomen in HIV
+
+## Toxins
+
+------
