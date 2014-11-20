@@ -209,19 +209,76 @@ Fistulae/diarrhoea               | Alkali abuse
 Total Parenteral Nutrition (TPN) | --
 Salicylate (late in poisoning)   | --
 
-## Cases of Lactic Acidosis
+## Causes of Lactic Acidosis
+- Shock (see below)
+- Pancreatitis
+- Liver impairment/failure
+- Renal impairment/failure
+- Excessive exercise
+- Leukaemia
+- Biguanides
 
 ## Post-Op Hypoxia
+------------------------|------------------------
+Penumonia               | Opiodis
+Atelectasis             | ARDS/ALI
+Bronchospasm            | Pulmonary Embolism (PE)
+Pneuomothorax           | Pulmonary oedema
+Diaphragmatic splinting | Tracheal compression
+Poor analgesia          | --
 
 ## IV Fluids
+### Crystalloids (mmol/L)
 
-## Types of Shock
+IV Fluids            | Na^+^ | Cl^-^ | Dex g/L | K^+^ | **Osmolality**
+---------------------|------:|------:|--------:|-----:|--------------:
+**Normal Saline**    |   154 |   154 |       0 |    0 | 308
+Dextrose             |     0 |     0 |      50 |    0 | 252
+20% Normal Saline    |    30 |    30 |      40 |    0 | 286
+**Hartmann's (CSL)** |   131 |   111 |       0 |    5 | 279
+Ringers Lactate      |   147 |   156 |       0 |    4 | 273
 
-## Classes of Chock
+### Colloids
+- Albumin
+- Gelofusine
+- Dextrans (40, 70)
+- Penta/Hetastarch
+
+## Types of Shock (%)
+
+Category     | Temp    | CVP | BP  | TPR
+-------------|---------|-----|-----|----
+HyPOvolaemia | --/*L*  | *L* | *L* | *H*
+Septic       | *H*/*L* | *L* | *L* | *L*
+Cardiogenic  | --/*L*  | *H* | *L* | *H*
+Anaphylactic | *H*/--  | *L* | *L* | *L*
+Neurogenic   | --      | *L* | *L* | *L*
+
+## Classes of Shock (4 x 9)
+
+**Class**      | **I**           | **II**         | **III**       | **IV**
+---------------|:---------------:|:--------------:|:-------------:|:--------------:
+Volume Loss    | 10--15% (0.75L) | 30--40% (1.5L) | 30--40% (<2L) | >40% (>2L)
+HR             | < 100           | > 100          | 120           | >140
+BP             | --              | --             | *L*           | *L*
+Pulse Pressure | --              | *L*            | *L*           | *L*
+Urine output   | >30             | >20            | >5            | 0
+RR             | <20             | <30            | <40           | >40
+Consciousness  | Restless        | Anxious        | Confused      | Lethargic/Coma
+IV Fluid       | Crystalloid     | Cry/Col        | Col/Blood     | Colloid/Blood
+Skin           | Normal          | Clammy         | *H* CRT       | Pale/Cold
 
 ## Indications for Swan Ganz Catheter (i.e. CVP != LA pressure)
+- Valvular Heart Disease (VHD)
+- LVF and Interstitial Pulmonary Oedema
+- Chronic Severe Lung Disease
+- Assessing haemodynamic response to therapeies
+- Dx & Ax of Pulmonary Hypertension
+- Dx & Ax of Shock States
+- Dx & Ax of ARDS/MODS
+- Instability after Cardiac Surgery
 
-## Causes of Raised CVP
+## Causes of Raised CVP - HERE
 
 ## Features of Tension Pneumothorax
 
