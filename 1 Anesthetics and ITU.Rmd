@@ -1,0 +1,116 @@
+---
+title: "1 Anaesthetics and ITU"
+author: "Kenneth N. Linton"
+date: "20 November 2014"
+output: html_document
+---
+
+# Anaesthetics & ICU
+
+## Systemic Inflammatory Response Syndrome
+- ?
+- ?
+
+## Causes of Acute Inflammatory Response Syndrome
+- ?
+- ?
+
+## NYHA Assessment of Cardiovascular Function
+- ?
+- ?
+
+## ASA Grading (+E for Emergency)
+- ?
+- ?
+
+## Post-MI Risk of Re-Infarction Peri-Operatively
+- ?
+- ?
+
+## Benefits of Epidural Post-Op
+
+## Endocrine Response to Stress/Surgery
+
+## Suxamethonium Side Effects
+
+## Complications of General Anaesthesia
+
+## Complications of Ventilations
+
+## Complications of Intubations
+
+## Indications for Intubations
+
+## Problems with Pulse Oximetry
+
+## Shifts O2/Saturation Curve RIGHT (decreases affinity of Hb for PaO2)
+
+## Respiratory Failure
+### Type I: ?
+### Type II: ?
+
+## Acid Base Disorders
+
+## Cases of Lactic Acidosis
+
+## Post-Op Hypoxia
+
+## IV Fluids
+
+## Types of Shock
+
+## Classes of Chock
+
+## Indications for Swan Ganz Catheter (i.e. CVP != LA pressure)
+
+## Causes of Raised CVP
+
+## Features of Tension Pneumothorax
+
+## Features of Cardiac Tamponade
+
+## Cardiac Support (Inotropes)
+
+## Indications for Renal Replacement Therapy in Renal Failure
+
+## Renal Failure
+
+## Child's Classification of Severity in Chronic Liver Disease
+
+## Surgical Problems Associated with Obesity
+
+## Feed Types
+
+## Advantages of Enteral Nutrition (EN) over Total Parenteral Nutrition (TPN)
+
+## Functions of Elements in Feeds
+
+## Complications of EN
+
+## Complications of TPN
+
+## Steroid Equivalence
+
+## Transplant Rejections
+
+## Autoimmune Disease
+
+## Causes of Immunosuppression
+### Congenital
+### Acquired
+
+## Causes of Post-Operative Pyrexia
+
+## Risk Factors for Wound Infection
+
+## Antibiotics
+### Bactericidal
+### Bacteriostatic
+
+## Sterilisation -- kills everything include viruses and spores
+
+## Disinfection -- kills everything except some viruses and spores
+
+## Normal Commensal Organisms
+
+## Classifications of Wound
