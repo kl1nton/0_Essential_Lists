@@ -1,54 +1,44 @@
-## Systemic Inflammatory Response Syndrome (SIRS)
-(Harmful and excessive response to an insult in the acute phase)
+Essential Lists: 1 Anaesthetics and ITC
+=======================================
 
-- one
-- two 
-- three
-- one
-- two 
-- three
-- one
-- two 
-- three
-- one
-- two 
-- three
+## Systemic Inflammatory Response Syndrome (SIRS)
+SIRS = Harmful and excessive response to an insult in the acute phase
 
 ### Two or more of the following (T3W)
-- Tachycardia       > 90 bpm
-- Tachypnoea        > 20 bpm
-- Temperature       < 36C **or** > 38C
-- White Cell Count  < 4 x 10^3/mm **or** > 12 x 10^3/mm
+
+Criteria    | Value 
+------------|-------------------:
+Tachycardia | > 90 bpm
+Tachypnoea  | > 20 bpm
+Temperature | < 36ºC **or** > 38ºC
+White Cells | < 4 x 10^3 /mm **or** > 12 x 10^3 /mm
 
 ## Causes of Acute Respiratory Distress Syndrome (ARDS)
-(Refractory hypoxia in appropriate clinical setting with bilateral diffuse pulmonary infiltrates and a PAWP < 18 mmHg and PaO2/FiO2 < 200)
 
-### Direct (7)
-- Aspiration
-- Pulmonary contusion
-- Toxic gas inhalation
-- Near drowning
-- Pneumonia
-- Fat embolus
-- Radiation
+ARDS = Refractory hypoxia in appropriate clinical setting with bilateral diffuse pulmonary infiltrates 
+- PAWP < 18 mmHg and 
+- PaO2/FiO2 < 200%
 
-### Indirect (8)
-- Sepsis
-- Disseminated Intravascular Coagulation (DIC)
-- Trauma
-- Cardiopulmonary bypass
-- Blood transfusion
-- Pancreatitis
-- Repurfusion injury
-- Burns
+Direct (7)           | Indirect (8)
+---------------------|---------------------------------------------
+Aspiration           | Sepsis
+Pulmonary contusion  | Disseminated Intravascular Coagulation (DIC)
+Toxic gas inhalation | Trauma
+Near drowning        | Cardiopulmonary bypass
+Pneumonia			 | Blood transfusion
+Fat embolus			 | Pancreatitis
+Radiation			 | Reperfusion injury
+                     | Burns
 
 ## NYHA Assessment of Cardiovascular Function
+
 1. **No** limitation of ordinary physical activity
 2. **Slight** limitation of ordinary physical activity **or** ordinary activity result in palpitations, dyspnoea or angina
 3. **Marked** limitation of physical activity. Less than ordinary activity results in palpitations, dyspnoea or angina
 4. **Inability** to carry out _any_ physical activity without discomfort, which may occur at rest
 
 ## American Society of Anaesthesiologists (ASA) Grading (+E for Emergency)
+
 1. Healthy individual
 2. **Mild** systemic disease
 3. **Severe** systemic disease that limits activity but is not incapacitating
@@ -56,23 +46,27 @@
 5. **Moribund** -- not expected to survive with or without an operation
 
 ## Post-MI Risk of Re-Infarction Peri-Operatively
-- \< 3/52: 80%
-- 3/52 to 3/12: 20--30%
-- 3/12 to 6/12: 5--15%
-- \> 6/12: 1--4%
 - Perioperative MI mortality = 50%
 
+Time Frame | Risk %
+-----------|-------
+\< 3wk     | 80%
+3wk to 3mo | 20--30%
+3mo to 6mo | 5--15%
+\> 6mo     | 1--4%
+
 ### Baseline peri-operative MI rate is 0.2%
-- Half are silent, and 
-- Most are on 3-day post-op
+- Half are silent
+- Most occur 3-day post-op
 
 ## Benefits of Epidural Post-Op
-------------------------------|----------------------------
-Improved respiratory function | *L* Sympathetic stimulation
-*L* diaphragmatic splinting   | *L* Cardiac workload
-*L* DVT                       | *L* Vascular resistance
-*L* Urinary retention         | *H* Splanchnic blood flow
-Earlier mobilisation          | --
+                              |                               |
+------------------------------|-------------------------------|
+Improved respiratory function | **L** Sympathetic stimulation |
+**L** diaphragmatic splinting | **L** Cardiac workload        |
+**L** DVT                     | **L** Vascular resistance     |
+**L** Urinary retention       | **H** Splanchnic blood flow   |
+Earlier mobilisation          |  						      |
 
 ## Endocrine Response to Stress/Surgery
 
@@ -99,14 +93,15 @@ Earlier mobilisation          | --
     - *L* Insulin secretion
 
 ## Suxamethonium Side Effects
-
--------------|-----------------------
+             |                        |
+-------------|------------------------|
 Muscle pain  | HyPERkalaemia
 Bradycardia  | HyPO / HyPERtension
 Bronchospasm | Malignant HyPERpyrexia
 
 ## Complications of General Anaesthesia
-----------------------|-------------------------------------
+                      |                                      |
+----------------------|--------------------------------------|
 Aspiration            | Atelectasis
 *H* Sputum production | Segmental collapse (V/Q mismatching)
 *L* Cough reflexes    | *H* CO2
@@ -116,24 +111,25 @@ Aspiration            | Atelectasis
 - Barotrauma -- pneumomediastinum/thorax, subcutaneous emphysema
 - Volutrauma
 - Air embolism
-- *L* Cardiac output (CO)
+- **L** Cardiac output (CO)
 - Nosocomial pneumonia
 - Parenchymal lung damage
 
-## Complications of Intubations
-
---------------------------------|---------------------------
+## Complications of Intubations (7)
+                                |                            |
+--------------------------------|----------------------------|
 Trauma to teeth or upper airway | Blockage
 Procedural hypoxia              | Misplacement
 Aspiration                      | Cuff puncture/displacement
 Haemorrhage                     | --
 
-## Indications for Intubation
---------------------------------|----------------------
-*L* GCS/impaired gag reflex     | Hypoxia
+## Indications for Intubation (8)
+                                |                        |
+--------------------------------|------------------------|
+**L** GCS/impaired gag reflex   | Hypoxia
 High risk of airway obstruction | Metabolic acidosis
 Airway protection               | CO2 retention
-Brochial toilet                 | To counteract *H* ICP
+Brochial toilet                 | To counteract **H** ICP
 
 ## Problems with Pulse Oximetry
 - Measures oxygenation not ventilation
@@ -156,24 +152,26 @@ Brochial toilet                 | To counteract *H* ICP
     - Hypovoleamia
     - Vasoconstriction
 
-## Shifts O2/Saturation Curve RIGHT (decreases affinity of Hb for PaO2)
-
-------------|-----------------------
-*L* PaO2    | Pyrexia
-*H* H+      | Haemoglobin F (foetal)
-*H* 2,3 DPG | Altitude
+## Shifts O2/Saturation Curve RIGHT (_decreases_ affinity of Hb for PaO2)
+              |                        |
+--------------|------------------------|
+**L** PaO2    | Pyrexia
+**H** H+      | Haemoglobin F (foetal)
+**H** 2,3 DPG | Altitude
 
 ## Respiratory Failure
 
-### Type I -- PaO2 < 8 kPa *and* PaCO2 < 6.7 kPa
----------------|--------------------
+### Type I -- PaO2 < 8kPa *and* PaCO2 < 6.7kPa
+               |                     |
+---------------|---------------------|
 Acute asthma   | ARDS
 COPD/Emphysema | PE
 Pneumonia      | Pulmonary fibrosis
 Atelectasis    | Haemo/pneumo-thorax
 
-### Type II -- PaO2 < 8 kPa *and* PaCO2 > 6.7 kPa
-----------------------|------------------------
+### Type II -- PaO2 < 8kPa *and* PaCO2 > 6.7kPa
+                      |                         |
+----------------------|-------------------------|
 Severe asthma         | Spinal injury
 Severe COPD/Emphysema | Head injury
 Bronchiectasis        | *H* ICP
@@ -209,8 +207,8 @@ Acute renal failure              | Chronic renal failure
 Lactic acidosis (see below)      | HyPERaldosteronism
 Methanol/ethanol                 | Iatrogenic: e.g. diuretics
 Fistulae/diarrhoea               | Alkali abuse
-Total Parenteral Nutrition (TPN) | --
-Salicylate (late in poisoning)   | --
+Total Parenteral Nutrition (TPN) | 
+Salicylate (late in poisoning)   | 
 
 ## Causes of Lactic Acidosis
 - Shock (see below)
@@ -222,8 +220,9 @@ Salicylate (late in poisoning)   | --
 - Biguanides
 
 ## Post-Op Hypoxia
-------------------------|------------------------
-Penumonia               | Opiodis
+                        |                        |
+------------------------|------------------------|
+Penumonia               | Opioids
 Atelectasis             | ARDS/ALI
 Bronchospasm            | Pulmonary Embolism (PE)
 Pneuomothorax           | Pulmonary oedema
@@ -233,8 +232,8 @@ Poor analgesia          | --
 ## IV Fluids
 ### Crystalloids (mmol/L)
 
-IV Fluids            | Na^+^ | Cl^-^ | Dex g/L | K^+^ | **Osmolality**
----------------------|------:|------:|--------:|-----:|--------------:
+IV Fluids            | Na^+  | Cl^-  | Dex g/L | K^+  | **Osmolality**
+---------------------|------:|------:|--------:|-----:|---------------:
 **Normal Saline**    |   154 |   154 |       0 |    0 | 308
 Dextrose             |     0 |     0 |      50 |    0 | 252
 20% Normal Saline    |    30 |    30 |      40 |    0 | 286
@@ -247,13 +246,13 @@ Ringers Lactate      |   147 |   156 |       0 |    4 | 273
 - Dextrans (40, 70)
 - Penta/Hetastarch
 
-## Types of Shock (%)
+## Types of Shock (%) - HERE
 
-Category     | Temp    | CVP | BP  | TPR
--------------|---------|-----|-----|----
-HyPOvolaemia | --/*L*  | *L* | *L* | *H*
-Septic       | *H*/*L* | *L* | *L* | *L*
-Cardiogenic  | --/*L*  | *H* | *L* | *H*
+Category     | Temp     | CVP | BP  | TPR
+-------------|----------|-----|-----|----
+HyPOvolaemia | --/**L**    | **L** | **L** | **H**
+Septic       | **H**/**L** | **L** | **L** | **L**
+Cardiogenic  | --/**L**    | **H** | **L** | **H**
 Anaphylactic | *H*/--  | *L* | *L* | *L*
 Neurogenic   | --      | *L* | *L* | *L*
 
