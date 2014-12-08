@@ -550,17 +550,38 @@ GU			| Enterobacteriacea, enterococci, bacterioides, clostridium, yeasts		|
 
 ## Classifications of Wound
 
-Class 				| Description |
---------------------|-------------|
-Clean 				| 
-Clean/Contaminated	|
-Contaminated		|
-Dirty				|
+Class 				| Infection | Description 										 |
+--------------------|-----------|----------------------------------------------------|
+Clean 				| <2%		| Un-inflamed tissue with no GIT/GUT entery 		 |
+Clean/Contaminated	| 8–10%		| Entry to hollow viscus other than colon 			 |
+Contaminated		| 12–20%	| Spillage from hollow viscus (colon), open #, bites | 
+Dirty				| >25%		| Frank pus, perforated viscus, traumatic wound		 |
 
-## Tumours in HIV
+## Tumours in HIV (4)
+								|   							|
+--------------------------------|-------------------------------|
+Lymphoma 						| non-Hodgkin's lymphoma (NHL)	|
+Squamous Cell Carcinoma (SCC) 	| skin, cervix, larynx			|
+Kaposi's sarcoma 				| —								|
+Squamous cell papilloma			| —								|
 
-## Acute Abdomen in HIV
+## Acute Abdomen in HIV (6)
+- Bacterial enteritis
+- Megacolon 2º to Cytomegalovirus (CMV)
+- Haemorrhage 2º to GI involvement by Kaposi's sarcoma, lyphoma
+- Pancreatitis 2º to anti-retroviral therapy
+- Tuberculous disease of the GI tract
+- Normal surgical disease in HIV POS patient
 
-## Toxins
+## Toxins (6x2)
+
+Criteria 	| Exotoxin 			| Endotoxin 			|
+------------|-------------------|-----------------------|
+Bacteria 	| Gram POS & NEG 	| Gram NEG 				|
+Source 		| Intracellular 	| Cell Wall 			|
+Structure	| Polypeptide 		| Lipopolysaccharide	|
+Effect		| Variable 			| Septic Shock 			|
+Vaccine		| YES				| NO					|
+Heat stable	| NO				| YES					|
 
 ------
