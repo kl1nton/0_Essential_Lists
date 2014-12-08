@@ -325,17 +325,56 @@ Isoprenaline  | –   | –   | +++ | +++ | –   | –
 
 ## Renal Failure
 
-Class       | | |
-------------|---|---|
-Pre-Renal   | 
-Intra-Renal |
-Post-Renal  |
+Class       | 							 | 								  |
+------------|----------------------------|--------------------------------|
+Pre-Renal   | HyPOvolaemic shock 	     | Renal artery trauma/embolus
+        	| Septic shock 		 	     | Renal artery stenosis
+        	| Cardiogenic shock  	     | Compartment/crush syndrome
+        	| Anaphylactic shock 	     | –
+Intra-Renal | ATN                	     | Vasculitis
+			| Hypertension		 	     | Interstitial nephritis
+			| Diabetic disease   	   	 | Goodpasture's syndrome
+			| Glomerulonephritis       	 | Renal vein thrombosis/embolism
+			| Infection/pyelonephritis   |
+Post-Renal  | Bladder outlet obstruction | Stricture
+			| Stones					 | Retroperitoneal fibrosis
+			| Blocked Catheter			 | Neoplasm
+			| Infection
 
 ## Child's Classification of Severity in Chronic Liver Disease
 
+Criteria           | 1    | 2        | 3
+-------------------|:----:|:--------:|:--------:|
+Bilirubin (µmol/L) | <35  | 35–50    | >50      |
+Albumin (g/L)      | >35  | 30–35    | <30      |
+Ascites            | None | Mild     | Marked   |
+Encephalopathy     | None | Mild     | Advanced |
+Nutrition          | Good | Moderate | Poor     |          
+PT prolonged (s)   | >4   | 4–6      | >6       |
+
+- 3: Patient is grouped from A to C where A: <7, B: 7–9, C: >9
+
 ## Surgical Problems Associated with Obesity
+    				 |   							  |
+---------------------|--------------------------------|
+DM                   | More wound infections          |
+IHD                  | **H** DVT/PE     			  |
+Atelectasis          | **H** Dissection/tissue trauma |
+H Risk of aspiration | Longer duration of surgery     |
+Difficult intubation | Larger wounds                  |
 
 ## Feed Types
+
+Type             |                                             |
+-----------------|---------------------------------------------|
+Enteral (EN)     | Oral
+			 	 | Nasogastric (NG)
+			 	 | Percutaneous endoscopic gastrostomy (PEG)
+			 	 | Nasojejunal (NJ)
+			 	 | Jejunostomy
+Parenteral (TPN} | Peripheral line
+				 | Peripherally-inserted central catheter (PICC)
+				 | Central line
 
 ## Advantages of Enteral Nutrition (EN) over Total Parenteral Nutrition (TPN)
 
