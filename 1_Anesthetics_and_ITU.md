@@ -377,38 +377,185 @@ Parenteral (TPN} | Peripheral line
 				 | Central line
 
 ## Advantages of Enteral Nutrition (EN) over Total Parenteral Nutrition (TPN)
+- Cheaper
+- **H** gut bloodflow
+- **L** gut translocation
+- **L** stress ulceration
+- Maintains gallbladder function
+- More effective energy usage by portal system
+- Fewer infection
+- Less line-associated Cx
 
 ## Functions of Elements in Feeds
 
+Type    | Element      |                                                   |
+--------| -------------|---------------------------------------------------|
+Major   | Carbohydrate | prevents ketosis during a stress response
+        | Proteins     | extracellular matrix
+Vitamin | A            | epithelial cell proliferation and differentiation
+        | B6           | collagen cross-linking
+        | C            | collagen cross-linking & transport
+        | D            | calcium & phosphate metabolism
+Mineral | Zinc         | RNA/DNA synthesis, metalloproteases, antibacterial
+		| Copper       | collagen & elastin cross-linking
+		| Selenium     | anti-oxidant
+
 ## Complications of EN
+
+Type         |                    |                   | 
+-------------|----------------------------------------|
+Tube-related | Misplacement       | Leakage  		  |
+			 | Displacement  	  | Blockage          |
+Feed-related | Diarrhoea          | Nausea/Vomiting   |
+			 | Bloating/colic     | Drug interactions |
+			 | Refeeding syndrome | —				  |
 
 ## Complications of TPN
 
+Type         |                               |                         | 
+-------------|-------------------------------|-------------------------|
+Line-related | Sepsis/infective endocarditis | Thoracic duct injury    |
+		     | Thrombophebitis 			  	 | Chylothorax 			   |
+		     | Pneumothorax 			 	 | Embolism 			   |
+		     | Haemothorax  			 	 | Lost guide wire 		   |
+		     | Nerve injury              	 | Arrhythmia      		   |
+		     | Vascular injury/haematoma 	 | Perforated right atrium |
+Feed-related | **H**/**L** Glucose, Na, K, H | **Fatty liver**		   |
+			 | **H** Ca, Cl					 | Abnormal LFTs		   |
+			 | **L** Folate, Zn, PO4, Mg 	 | Gall bladder stasis	   |
+			 | Fluid overload 			  	 | Refeeding syndrome	   |
+
 ## Steroid Equivalence
+
+Steroid            | Dosage (mg)
+-------------------|-----------:|
+Hydrocortisone     | 20
+Prednisolone       | 5
+Methylprednisolone | 4
+Triamcinaline      | 4
+Betamethasone      | 0.75
+Dexamethasone      | 0.75
 
 ## Transplant Rejections
 
-## Autoimmune Disease
+Class             | Duration | Cause                             |
+------------------|----------|-----------------------------------|
+Hyperacute        | hours    | preformed antibody                |
+Accelerated Acute | days     | secondary antibody response       | 
+Acute             | weeks    | cytotoxic T-cell mediated         |
+Chronic           | months   | antibody-mediated vascular damage |
+
+## Autoimmune Disease (12)
+
+Disease                 			| Notes               		|
+------------------------------------|---------------------------|
+Hashimoto's thyroiditis 			| Thyroglobulin + microsome |
+Graves' disease         			| TSH receptor              |
+Atrophic gastritis      			| Parietal cells            |
+Pernicious anaemia      			| Intrinsic factor          |
+Goodpasture's syndrome  			| Basement membrane         |
+Myasthenia Gravis       			| Acetylcholine receptor    |
+Systemic lupus erthematosus (SLE) 	| DNA smooth muscle 		|
+Rheumatoid arthritis (RA) 			| IgM 						|
+Scleroderma 						| Centromere 				|
+Primary biliary cirrhosis (PBC) 	| Mitochondria 				|
+Insulin-dependent DM (IDDM)     	| Pancreatic islet cells 	|
+Guillian-Barre syndrome         	| Peripheral nerve myelin 	|
 
 ## Causes of Immunosuppression
+
 ### Congenital
+- Agammaglobulinaemia
+- HyPOogammaglobulinaemia
+- IgA deficiency
+- Common variable immunodeficiency
+- Selective antibody deficiency
+
 ### Acquired
 
+Category    | Disease                 									|
+------------|-----------------------------------------------------------|
+Infectious 	| HIV, systemic infection									|
+Iatrogenic 	| Splenectomy, transfusion, radioTx, chemoTx, steroids 		|
+Neoplastic 	| Leukaemia, lymphoma 								   		|
+		 	| myeloproliferative diseases, advanced solid tumours  		|
+Other      	| Hypoxia, DM, alcoholism, poor nutrition, trauma/surgery	|
+
 ## Causes of Post-Operative Pyrexia
+   						|   								|
+------------------------|-----------------------------------|
+Physiological response 	| Respiratory tract infection (RTI)
+Drug-induced       		| Urinary tract infection (UTI)
+DVT/PE					| Wound infection
+Anastomotic leak      	| Cannula site infection
+Abscess					|
 
 ## Risk Factors for Wound Infection
 
+### Operative Factors (10)
+   								|   						|
+--------------------------------|---------------------------|
+Emergency surgery 				| Pre-op shaving 			|
+Extended pre-op admission 		| Necrotic tissue 			|
+Site of incision e.g. peri-anal | Tissue ischaemia 			|
+Excessive tension 				| Faecal peritonitis 		|
+Poor tissue handling 			| Intra-abdominal abscess 	|
+
+### Patient Factors
+						|						|
+------------------------|-----------------------|
+Extremes of age			| Immunosuppression 	|
+Poor nutritional status	| Cardiac failure 		|
+Obesity 				| Renal failure 		|
+Diabetes 				| Hepatic failure 		|
+Alcoholism 				| Respiratory failure	|
+
 ## Antibiotics
-### Bactericidal
-### Bacteriostatic
 
-## Sterilisation -- kills everything include viruses and spores
+Type 			| Class 			|
+----------------|-------------------|
+Bactericidal 	| Beta-lactams 		|
+				| Aminglycosides 	|
+				| Vancomycin 		|
+				| Chloramphenicol	|
+Bacteriostatic	| Tetracycline		|
+				| Erythromycin		|
+				| Clindamycin		|
 
-## Disinfection -- kills everything except some viruses and spores
+## Sterilisation — **kills everything** include viruses and spores (5)
+				|											|
+----------------|-------------------------------------------|
+Autoclave 		| Dry heat 									|
+Ethylene oxide 	| Low temperature steam with formaldehyde 	|
+Irradiation		|											|
+
+## Disinfection — kills everything **except** some viruses and spores
+							|					|
+----------------------------|-------------------|
+Boiling water				| Iodophors/iodine 	|
+Low-temperature steam ALONE | Alcohol 			|
+Formaldehyde				| Hydrogen peroxide	|
 
 ## Normal Commensal Organisms
 
+Anatomy 	| Organisms																|
+------------|-----------------------------------------------------------------------|
+Skin 		| Staph, Strep, corynebacteria, Propionibacter							|
+Nasal		| Staph																	|
+Oral		| Staph, Strep, _Neisseria_, _Haemophilus_, corynebacteria, anaerobes	|
+Upper GIT	| Staph, Strep, _Neisseria_, _Haemophilus_, corynebacteria, clostridium |			| yeasts																|
+Lower GIT	| Enterobacteriacea, enterococci, bacterioides, clostridium, yeasts		|
+GU			| Enterobacteriacea, enterococci, bacterioides, clostridium, yeasts		|
+			| Staph, strep, lacrobacilli, corynebacteria							|
+
 ## Classifications of Wound
+
+Class 				| Description |
+--------------------|-------------|
+Clean 				| 
+Clean/Contaminated	|
+Contaminated		|
+Dirty				|
 
 ## Tumours in HIV
 
