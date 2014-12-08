@@ -5,7 +5,7 @@ Essential Lists: 2 General Surgery and Urology
 
 ### Congenital
 
-### Acquired: I4V-DENTP
+### Acquired (10): I4V-DENTP
 
    				| 						|
 ----------------|-----------------------|
@@ -15,7 +15,7 @@ Immunological	| Neoplastic			|
 Iatrogenic		| Traumatic				|
 Vascular		| Psychogenic			|
 
-## Complications of Diathermy: B-2C-2E-I
+## Complications of Diathermy (6): B-2C-2E-I
 
 Type   			| Description				|
 ----------------|---------------------------|
@@ -26,31 +26,130 @@ Explosion		| alcohol, bowel obstruction
 Electrocution	| patient **or** surgeon
 Interference 	| pacemaker
 
-## Functions of the Peritoneum
+## Functions of the Peritoneum (6)
+- Allows movement of the viscera
+- Suspends viscera
+- Conveys vessels, lymphatics and nerves
+- Stores fat
+- Absorbs contaminants
+- Seals off infected/ulcerated surfaces 
+
+## Lumps (19): 7S-4T-3C-2F-EAR
+ 					| 					|									|
+--------------------|-------------------|-----------------------------------|
+Site 				| Temperature		| Fixity (_superficial_ & _deep_)
+Size				| Tenderness		| Fluctuance 					
+Shape				| Transilluminance 	| Expansile/pulsatile
+Surface				| Thrill/Bruit		| Associated lymph nodes
+Scar				| Compressibility 	| Reducibility
+Skin changes		| Colour			|
+Surround (_edge_)	| Consistency		|
+
+## Causes of Clubbing (4 groups)
+
+1. Lung
+	- Lung cancer
+	- Empyema
+	- Fibrosing alveolitis
+	- Brochiectasis/CF
+	- Mesothelioma
+2. Cardiac
+	- Cyanotic heart disease (CHD)
+	- Atrial myxoma
+	- Infective endocarditis (IE)
+3. GI 
+	- Coeliac disease
+	- Cirrhosis
+	- Inflammatory bowel disease (IBD)
+	- GI lymphoma
+4. Other
+	- Familial 
+	- Axillary aneurysm
+	- Graves' acropathy
+	- Brachial A-V malformation
+
+## Skin Ulcers (4 groups)
+
+1. Edge
+	- Sloping (_healing_)
+	- Punched-out (_ischaemic/neuropathic_)
+	- Undermined (_necrotic_/TB)
+	- Rolled (BCC)
+	- Everted (SCC)
+2. Base
+	- Granulated
+	- Slough
+	- Malignant
+3. Floor
+	- Fascia
+	- Muscle
+	- Bone
+4. Discharge
+	- Serous
+	- Sanguineous
+	- Purulent
+
+## Granulomatous Diseases (9)
+							|							|
+----------------------------|---------------------------|
+TB (_caseating_)			| Churg-Strauss syndrome
+Fungal infections 			| Sarcoidosis
+Helminth infections			| Wegener's granulomatosis
+Langerhan's histocytosis	| Hypersensitivity
+Malignancy					|
+
+## Gynaecological Causes of Abdominal Pain (8)
+								|									|
+--------------------------------|-----------------------------------|
+Ruptured ectopic pregnancy		| Mittelschmerz						
+Endometriosis					| Pelvic inflammatory disease (PID) 
+Torsion/rupture of ovarian cyst	| Adenomycosis
+Uterine fibroids				| Tubo-ovarian abscess
+
+## Neonatal Causes of Abdominal Pain (8)
+							|							|
+----------------------------|---------------------------|
+Malrotation					| GIT stenosis
+Meconium plug/ileus			| GIT atresia
+Hirschsprung's disease		| Diaphragmatic hernia		
+Necrotising enterocolitis	| Gastroschisis/Exomphalos
+
+## Paediatric Pyloric Stenosis (8) - HERE
+							|							|
+----------------------------|---------------------------|
+
+## Intussusception (7)
+							|							|
+----------------------------|---------------------------|
 
 
+## GI Problems in Alcohol Abuse (10)
+						|							|
+------------------------|---------------------------|
+Gastritis				| Oesophageal SCC
+Gastric ulceration		| Portal hypertension
+Acute pancreatitis 		| Hepatocellular carcinoma
+Chronic pancreatitis	| Liver cirrhosis
+Pancreatic cancer		| Fatty liver/hepatitis
 
-## Lumps
-
-## Causes of Clubbing
-
-## Skin Ulcers
-
-## Granulomatous Diseases
-
-## Gynaecological Causes of Abdominal Pain
-
-## Neonatal Causes of Abdominal Pain
-
-## Paediatric Pyloric Stenosis
-
-## Intussusception
-
-## GI Problems in Alcohol Abuse
-
-## Retro-Peritoneal Fibrosis
+## Retro-Peritoneal Fibrosis (5)
+- Aortic aneurysm
+- Radiation
+- Lymphoma
+- Idiopathic
+- Methysergide
 
 ## Referred Pain
+
+Source	| Referred To |
+--------|-------------|
+Ruptured Liver | RIGHT shoulder tip |
+Ruptured Spleen | LEFT should tip
+Gall Bladder	| Between Scapulae + RIGHT shoulder
+Pancreatitis/AAA	| Back
+Ureteric Colic 		| Ipsilateral Groin/Genitalia
+Testicular Pain		| Ipsilateral Flank
+Abdominal Surgery	| Both Shoulder tips |
 
 ## Hodgkin's Disease
 
