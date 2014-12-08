@@ -3,27 +3,32 @@ Essential Lists: 2 General Surgery and Urology
 
 ## Causes of Anything (Surgical Sieve)
 
-### Acquired: I4VDENTP
-- Infective
-- Inflammatory
-- Immunological
-- Iatrogenic
-- Vascular
-- Degenerative
-- Endocrine/Metabolic
-- Neoplastic
-- Traumati
-- Psychogenic
+### Congenital
+
+### Acquired: I4V-DENTP
+
+   				| 						|
+----------------|-----------------------|
+Infective		| Degenerative			|
+Inflammatory	| Endocrine/Metabolic	|
+Immunological	| Neoplastic			|
+Iatrogenic		| Traumatic				|
+Vascular		| Psychogenic			|
 
 ## Complications of Diathermy: B-2C-2E-I
-- Burn: skin, inflammable spirit
-- Channelling: penis, digit
-- Coupling: esp. laparoscopic surgery
-- Explosion: alcohol, bowel obstruction
-- Electrocution: patient **or** surgeon
-- Interference: pacemaker
+
+Type   			| Description				|
+----------------|---------------------------|
+Burn			| skin, inflammable spirit
+Channelling		| penis, digit
+Coupling		| esp. laparoscopic surgery
+Explosion		| alcohol, bowel obstruction
+Electrocution	| patient **or** surgeon
+Interference 	| pacemaker
 
 ## Functions of the Peritoneum
+
+
 
 ## Lumps
 
