@@ -1,15 +1,18 @@
----
-title:          "EL1: Anaesthetics and ITU"
-# author:         "Kenneth N. Linton"
-# date:           "20th November 2014"
-classoption:    a4paper
-output:         pdf_document
-fontsize:       12pt
-geometry:       margin=1in
----
-
-## Systemic Inflammatory Response Syndrome (SIRS) - EDIT
+## Systemic Inflammatory Response Syndrome (SIRS) - GOOD
 (Harmful and excessive response to an insult in the acute phase)
+
+- one
+- two 
+- three
+- one
+- two 
+- three
+- one
+- two 
+- three
+- one
+- two 
+- three
 
 ### Two or more of the following (T3W)
 - Tachycardia       > 90 bpm
@@ -18,7 +21,7 @@ geometry:       margin=1in
 - White Cell Count  < 4 x 10^3/mm **or** > 12 x 10^3/mm
 
 ## Causes of Acute Respiratory Distress Syndrome (ARDS)
-(Refactory hypoxia in appropriate clinical setting with bilateral diffuse pulmonary infiltrates and a PAWP < 18 mmHg and PaO2/FiO2 < 200)
+(Refractory hypoxia in appropriate clinical setting with bilateral diffuse pulmonary infiltrates and a PAWP < 18 mmHg and PaO2/FiO2 < 200)
 
 ### Direct (7)
 - Aspiration
@@ -40,10 +43,10 @@ geometry:       margin=1in
 - Burns
 
 ## NYHA Assessment of Cardiovascular Function
-1. No limitation of ordinary physical activity
-2. Slight limitation of ordinary physical activity **or** ordinary activity result in palpilations, dyspnoea or angina
-3. Marked limitation of physical activity. Less than ordinary activity results in palpitations, dyspnoea or angina
-4. Inability to carry out _any_ physical activity without discomfort, which may occur at rest
+1. **No** limitation of ordinary physical activity
+2. **Slight** limitation of ordinary physical activity **or** ordinary activity result in palpitations, dyspnoea or angina
+3. **Marked** limitation of physical activity. Less than ordinary activity results in palpitations, dyspnoea or angina
+4. **Inability** to carry out _any_ physical activity without discomfort, which may occur at rest
 
 ## American Society of Anaesthesiologists (ASA) Grading (+E for Emergency)
 1. Healthy individual
@@ -280,11 +283,36 @@ Skin           | Normal          | Clammy         | *H* CRT       | Pale/Cold
 
 ## Causes of Raised CVP - HERE
 
+------------------|---------------------
+CCF               | Tension Pneumothorax
+MI with RVF       | Pericardial Effusion
+Overload          | Cardiac Tamponade
+Cardiac Contusion | TR
+SVC Obstruction   | --
+
 ## Features of Tension Pneumothorax
 
-## Features of Cardiac Tamponade
+---------------------|------------------------------------
+Respiratory distress | Tracheal deviation away from side
+*H* JVP              | Ipsilateral decreased breath sounds
+EMD arrest           | Ipsilateral hyPER-resonance
+
+## Features of Cardiac Tamponade -- first 3 known as Beck's Triad
+- *H* JVP
+- Muffled heart sounds
+- *L* BP
+- Kussmaul's sign
+- EMD arrest
 
 ## Cardiac Support (Inotropes)
+
+Inotrope | a1 | a2 | b1 | b2 | d1 | d2 
+---|---|---|---|---|---|---
+Dopamine | X | X | X | X | X | X
+Dobutamine | X | X | X | X | X | X
+Adrenaline | X | X | X | X | X | X
+Noradrenaline | X | X | X | X | X | X
+Isoprenaline | X | X | X | X | X | X
 
 ## Indications for Renal Replacement Therapy in Renal Failure
 
