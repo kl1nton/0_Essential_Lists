@@ -30,14 +30,14 @@ Fat embolus			 | Pancreatitis
 Radiation			 | Reperfusion injury
                      | Burns
 
-## NYHA Assessment of Cardiovascular Function
+## NYHA Assessment of Cardiovascular Function (4)
 
 1. **No** limitation of ordinary physical activity
 2. **Slight** limitation of ordinary physical activity **or** ordinary activity result in palpitations, dyspnoea or angina
 3. **Marked** limitation of physical activity. Less than ordinary activity results in palpitations, dyspnoea or angina
 4. **Inability** to carry out _any_ physical activity without discomfort, which may occur at rest
 
-## American Society of Anaesthesiologists (ASA) Grading (+E for Emergency)
+## American Society of Anaesthesiologists (ASA) Grading (+E for Emergency; 5)
 
 1. Healthy individual
 2. **Mild** systemic disease
@@ -115,7 +115,7 @@ Aspiration            | Atelectasis
 - Nosocomial pneumonia
 - Parenchymal lung damage
 
-## Complications of Intubations (7)
+## Complications of Intubation (7)
                                 |                            |
 --------------------------------|----------------------------|
 Trauma to teeth or upper airway | Blockage
@@ -134,7 +134,7 @@ Brochial toilet                 | To counteract **H** ICP
 ## Problems with Pulse Oximetry
 - Measures oxygenation not ventilation
 - Inaccurate at O2 saturations < 90%
-- Read out is 2--3 seconds behind read-time
+- Read out is 2-3 seconds behind read-time
 
 ### Interference with 
 - *Abnormal* haemoglobin
@@ -153,15 +153,15 @@ Brochial toilet                 | To counteract **H** ICP
     - Vasoconstriction
 
 ## Shifts O2/Saturation Curve RIGHT (_decreases_ affinity of Hb for PaO2)
-              |                        |
---------------|------------------------|
+              |                         |
+--------------|-------------------------|
 **L** PaO2    | Pyrexia
-**H** H+      | Haemoglobin F (foetal)
+**H** H+      | Haemoglobin F (_foetal_)
 **H** 2,3 DPG | Altitude
 
 ## Respiratory Failure
 
-### Type I -- PaO2 < 8kPa *and* PaCO2 < 6.7kPa
+### Type I – PaO2 < 8kPa *and* PaCO2 < 6.7kPa
                |                     |
 ---------------|---------------------|
 Acute asthma   | ARDS
@@ -169,14 +169,14 @@ COPD/Emphysema | PE
 Pneumonia      | Pulmonary fibrosis
 Atelectasis    | Haemo/pneumo-thorax
 
-### Type II -- PaO2 < 8kPa *and* PaCO2 > 6.7kPa
+### Type II – PaO2 < 8kPa *and* PaCO2 > 6.7kPa
                       |                         |
 ----------------------|-------------------------|
 Severe asthma         | Spinal injury
 Severe COPD/Emphysema | Head injury
-Bronchiectasis        | *H* ICP
+Bronchiectasis        | **H** ICP
 Kyphoscoliosis        | Coma
-Chest wall trauma     | Opiods
+Chest wall trauma     | Opioids
 Abdominal distension  | Muscular dystrophy
 Phrenic nerve injury  | Myasthenia gravis
 Sleep apnoea          | Guillian-Barre syndrome
@@ -185,8 +185,8 @@ Sleep apnoea          | Guillian-Barre syndrome
 
 ### Respiratory 
 
-**Acidosis**           | **Alkalosis**
------------------------|-----------------------------------
+Acidosis               | Alkalosis
+-----------------------|----------------------------------
 CVA                    | CVA
 CNS tumour             | PE
 Encephalitis           | Encephalitis 
@@ -194,23 +194,24 @@ Sedation/opioids       | Hypoxia in COPD
 *H* ICP                | HyPERventilation/panic attack
 Neuromuscular disease  | Exercise
 Trauma/surgery         | Altitude
-Ankylosing spondylitis | Salicyclate (*early* in poisoning)
+Ankylosing spondylitis | Salicylate (*early* in poisoning)
 COPD                   | Amphetamine
 Pneumonia              | Pulmonary oedema
 
 ### Metabolic
 
-**Acidosis**                     | **Alkalosis**
+Acidosis                         | Alkalosis
 ---------------------------------|---------------------------
 Ketoacidosis                     | Vomiting
 Acute renal failure              | Chronic renal failure
 Lactic acidosis (see below)      | HyPERaldosteronism
 Methanol/ethanol                 | Iatrogenic: e.g. diuretics
 Fistulae/diarrhoea               | Alkali abuse
-Total Parenteral Nutrition (TPN) | 
-Salicylate (late in poisoning)   | 
+Total Parenteral Nutrition (TPN) | —
+Salicylate (late in poisoning)   | —
 
 ## Causes of Lactic Acidosis
+
 - Shock (see below)
 - Pancreatitis
 - Liver impairment/failure
@@ -227,18 +228,18 @@ Atelectasis             | ARDS/ALI
 Bronchospasm            | Pulmonary Embolism (PE)
 Pneuomothorax           | Pulmonary oedema
 Diaphragmatic splinting | Tracheal compression
-Poor analgesia          | --
+Poor analgesia          | —
 
 ## IV Fluids
 ### Crystalloids (mmol/L)
 
-IV Fluids            | Na^+  | Cl^-  | Dex g/L | K^+  | **Osmolality**
----------------------|------:|------:|--------:|-----:|---------------:
-**Normal Saline**    |   154 |   154 |       0 |    0 | 308
-Dextrose             |     0 |     0 |      50 |    0 | 252
-20% Normal Saline    |    30 |    30 |      40 |    0 | 286
-**Hartmann's (CSL)** |   131 |   111 |       0 |    5 | 279
-Ringers Lactate      |   147 |   156 |       0 |    4 | 273
+Crystalloid          | Na^+  | Cl^-    | Dex g/L | K^+  | **Osmolality**
+---------------------|------:|--------:|--------:|-----:|---------------:
+**Normal Saline**    |   154 |   154   |       0 |    0 | 308
+Dextrose             |     0 |     0   |      50 |    0 | 252
+20% Normal Saline    |    30 |    30   |      40 |    0 | 286
+**Hartmann's (CSL)** |   131 |   111   |       0 |    5 | 279
+Ringers Lactate      |   147 | **156** |       0 |    4 | 273
 
 ### Colloids
 - Albumin
@@ -246,17 +247,17 @@ Ringers Lactate      |   147 |   156 |       0 |    4 | 273
 - Dextrans (40, 70)
 - Penta/Hetastarch
 
-## Types of Shock (%) - HERE
+## Types of Shock (5)
 
-Category     | Temp     | CVP | BP  | TPR
--------------|----------|-----|-----|----
-HyPOvolaemia | --/**L**    | **L** | **L** | **H**
+Category     | Temp        | CVP   | BP    | TPR
+-------------|:-----------:|:-----:|:-----:|:----:
+HyPOvolaemia | —/**L**     | **L** | **L** | **H**
 Septic       | **H**/**L** | **L** | **L** | **L**
-Cardiogenic  | --/**L**    | **H** | **L** | **H**
-Anaphylactic | *H*/--  | *L* | *L* | *L*
-Neurogenic   | --      | *L* | *L* | *L*
+Cardiogenic  | —/**L**     | **H** | **L** | **H**
+Anaphylactic | **H**/—     | **L** | **L** | **L**
+Neurogenic   | —           | **L** | **L** | **L**
 
-## Classes of Shock (4 x 9)
+## Classes of Shock (4 x 9) – LEARN
 
 **Class**      | **I**           | **II**         | **III**       | **IV**
 ---------------|:---------------:|:--------------:|:-------------:|:--------------:
@@ -268,54 +269,67 @@ Urine output   | >30             | >20            | >5            | 0
 RR             | <20             | <30            | <40           | >40
 Consciousness  | Restless        | Anxious        | Confused      | Lethargic/Coma
 IV Fluid       | Crystalloid     | Cry/Col        | Col/Blood     | Colloid/Blood
-Skin           | Normal          | Clammy         | *H* CRT       | Pale/Cold
+Skin           | Normal          | Clammy         | **H** CRT     | Pale/Cold
 
 ## Indications for Swan Ganz Catheter (i.e. CVP != LA pressure)
 - Valvular Heart Disease (VHD)
 - LVF and Interstitial Pulmonary Oedema
 - Chronic Severe Lung Disease
-- Assessing haemodynamic response to therapeies
-- Dx & Ax of Pulmonary Hypertension
-- Dx & Ax of Shock States
-- Dx & Ax of ARDS/MODS
+- Assessing haemodynamic response to therapies
+- Dx & Ax
+	- Pulmonary Hypertension
+	- Shock States
+	- ARDS/MODS
 - Instability after Cardiac Surgery
 
 ## Causes of Raised CVP - HERE
-
-------------------|---------------------
+                  |                              |
+------------------|------------------------------|
 CCF               | Tension Pneumothorax
 MI with RVF       | Pericardial Effusion
 Overload          | Cardiac Tamponade
-Cardiac Contusion | TR
-SVC Obstruction   | --
+Cardiac Contusion | Tricuspid Regurgitation (TR)
+SVC Obstruction   | —
 
-## Features of Tension Pneumothorax
-
----------------------|------------------------------------
+## Features of Tension Pneumothorax (6)
+                     |                                     |
+---------------------|-------------------------------------|
 Respiratory distress | Tracheal deviation away from side
-*H* JVP              | Ipsilateral decreased breath sounds
+**H** JVP            | Ipsilateral decreased breath sounds
 EMD arrest           | Ipsilateral hyPER-resonance
 
-## Features of Cardiac Tamponade -- first 3 known as Beck's Triad
-- *H* JVP
+## Features of Cardiac Tamponade -- first 3 known as _Beck's Triad_
+- **H** JVP
+- **L** BP
 - Muffled heart sounds
-- *L* BP
 - Kussmaul's sign
 - EMD arrest
 
 ## Cardiac Support (Inotropes)
 
-Inotrope | a1 | a2 | b1 | b2 | d1 | d2 
----|---|---|---|---|---|---
-Dopamine | X | X | X | X | X | X
-Dobutamine | X | X | X | X | X | X
-Adrenaline | X | X | X | X | X | X
-Noradrenaline | X | X | X | X | X | X
-Isoprenaline | X | X | X | X | X | X
+Inotrope      | a1  | a2  | b1  | b2  | d1  | d2 
+--------------|:---:|:---:|:---:|:---:|:---:|:---:
+Dopamine      | ++  | +   | ++  | ++  | +++ | ++
+Dobutamine    | —   | –   | +++ | +   | –   | –
+Adrenaline    | ++  | ++  | +++ | +++ | –   | –
+Noradrenaline | +++ | ++  | +++ | +   | –   | –
+Isoprenaline  | –   | –   | +++ | +++ | –   | –
 
 ## Indications for Renal Replacement Therapy in Renal Failure
+- Persistent hyPERkalaemia > 6.0
+- Acidiosis pH < 7.2
+- Pulmonary oedema
+- Fluid overload despite diuresis
+- Drug clearance e.g. sedatives
+- Uraemic complications e.g. pericarditis, tamponade
 
 ## Renal Failure
+
+Class       | | |
+------------|---|---|
+Pre-Renal   | 
+Intra-Renal |
+Post-Renal  |
 
 ## Child's Classification of Severity in Chronic Liver Disease
 
