@@ -1,4 +1,4 @@
-## Systemic Inflammatory Response Syndrome (SIRS) - GOOD
+## Systemic Inflammatory Response Syndrome (SIRS)
 (Harmful and excessive response to an insult in the acute phase)
 
 - one
