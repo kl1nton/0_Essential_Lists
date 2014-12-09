@@ -595,14 +595,38 @@ Carcinoma				| Traumatic
 	- Volvulus
 
 ## Associated with Familial Adenomatous Polyposis (FAP)
+						|									|
+------------------------|-----------------------------------|
+Dental cysts 			| Colorectal polyps/CA
+Retinal pigmentation	| Epidermoid cysts
+Duodenal adenomas/CA	| Abdominal desmoid tumours
+Jaw osteomas			| Hamartomatous polyps of the Stomach
 
-## Amsterdam Criteria - HNPCC
+## Amsterdam Criteria - HNPCC (5)
+- &ge; 3 family members with ColoRectal Cancer (CRC)
+- ColoRectal Cancer (CRC) in &ge; generations
+- &ge; 1 first-degree relative
+- &ge; 1 at less than 45 years of age
+- Familial Adenomatous Polyposis (FAP) excluded
 
-## Duke's Classification and Survival
+## Duke's Classification and Survival (%)
 - Originally for Rectal Ca with **no** C2 or D stages
 
+Stage 	| Description 							| Rectal	| Colon	|
+--------|---------------------------------------|-----------|-------|
+A 		| Confined to wall 						| 90 		| 90
+B		| Through the wall but LN NEG			| 65		| 65
+C1		| LN POSITIVE but **not** apical node	| 40		| 35
+C2		| LN POSITIVE and also apical node		| 25		| –
+D		| Metastasis							| 15		| <5
 
 ## Risk Factors for Colorectal Cancer
+						| 								|
+------------------------|-------------------------------|
+IBD > 10 years			| HNPCC
+Ureterosigmoidostomy	| FAP inc. Gardener's syndrome
+Gastric surgery			| Turcot's syndrome
+Low-fibre diet			| Canada-Cronkhite syndrome
 
 ## Features of Colorectal Carcinoma
 
