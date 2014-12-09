@@ -47,7 +47,25 @@ Essential Lists: 3 Orthopaedics and Neurology
 
 ## Types of Intracranial Haematoma
 
-## Skull Foramina
+## Skull Foramina (9) - Mnemonic? TODO - LEARN
+
+Foramina					| Contents 	            |   | 
+-------------------------|-------------------------|---|
+Optic Canal				| Optic Nerve             | II
+							| Ophthalamic Artery      | —
+Superior Orbital Fissure | Oculomotor Nerve        | III
+							| Trochlear Nerve         | IV
+							| Ophthalamic Nerve       | Va
+							| Abducens Nerve          | VI
+Rotundum					| Maxillary Nerve         | Vb
+Ovale						| Mandibular Nerve        | Vc
+Jugular 					| Glossopharyngeal Nerve  | IX
+							| Vagus                   | X
+							| Accessory Nerve         | XI
+Magnum						| Spinal Accessory Nerve  | XI
+Hypoglossal				| Hypoglossal Nerve       | XII
+Spinosum					| Meningeal Artery        | —
+Lacerum						| Internal Carotid Artery | –
 
 ## Cerebral Lobe Functions
 
