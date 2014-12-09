@@ -742,7 +742,25 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 
 ## Caused of Portal Hypertension
 
-## Indications for TIPS
+### Pre-Hepatic
+1. Portal/splenic vein thrombosis
+2. A-V fistula
+3. Congenital malformation
+4. Splenomegaly
+5. Tumour
+
+### Intra-Hepatic
+1. Cirrhosis (_see above_)
+2. Schistosomiasis
+3. Polycystic disease
+
+### Post-Hepatic
+
+## Indications for TIPS (4)
+- Uncontrolled acute variceal haemorrhage
+- Failed endoscopic treatment
+- Awaiting liver transplant
+- Not fit for surgery
 
 ## Complications of Variceal Haemorrhages (6)
 - Aspiration
