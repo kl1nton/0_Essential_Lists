@@ -755,6 +755,12 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 3. Polycystic disease
 
 ### Post-Hepatic
+1. Budd-Chiari syndrome
+2. Veno-occlusive disease
+3. Caval obstruction
+4. Hepatic vein invasion
+5. Constrictive pericarditis
+6. CCF/TR
 
 ## Indications for TIPS (4)
 - Uncontrolled acute variceal haemorrhage
