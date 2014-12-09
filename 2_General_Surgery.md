@@ -744,7 +744,13 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 
 ## Indications for TIPS
 
-## Complications of Variceal Haemorrhages
+## Complications of Variceal Haemorrhages (6)
+- Aspiration
+- Pneumonia
+- Hypoxia
+- Renal failure
+- Hepatic encephalopathy
+- Exsanguination
 
 ## Causes of Spenomegaly
 
