@@ -487,20 +487,114 @@ Varices						|
 - Male
 
 ## Alarm Symptoms in Upper GI Malignancy
+								|							|
+--------------------------------|---------------------------|
+Persistent Dyspepsia >45 years 	| Unintentional weight loss
+Dysphagia/Odynophagia			| Previous gastric surgery
+Persistent vomiting				| Previous gastric ulcer
+Iron-deficiency anaemia			| Suspicious barium meal
+GI bleed						| Epigastric mass
+NSAID use						| Epigastric pain → admission
 
 ## Late Complications of Gastric Surgery
+				|										|
+----------------|---------------------------------------|
+Diarrhoea		| Dumping (_early_ and _late_)
+Biliary reflux	| Anaemia (B12, Fe^++, Folate deficiency)
+Malnutrition	| Bezoar
+Malignancy		| Gastric outlet obstruction
+Early satiety	| Gall stones
 
 ## Complications of Stomas
 
+### Local (12)
+					|										|
+--------------------|---------------------------------------|
+Ischaemia/necrosis	| Spillage to efferent loop
+Prolapse			| Leakage
+Retraction			| Skin excoriation
+Stenosis			| Haemorrhage
+Parastomal hernia	| Flatus/odour
+Intussusception		| Granulomata
+
+### Systemic (7)
+						|						|
+------------------------|-----------------------|
+Nutritional disorders	| Diarrhoea
+Kidney stones			| Psychological/sexual
+Gall stones				| Social
+Short gut syndrome		|
+
 ## Differentiating Stomas
+
+Criteria 	| Ileostomy 			| Colostomy 			|
+------------|-----------------------|-----------------------|
+Site		| RIF 					| LIF
+Surface		| Spout 				| Flush
+Content		| Watery 				| Faeces
+Permanent	| Panproctocolectomy 	| AP resection
+Temporary	| Loop ileostomy 		| Hartmann's Procedure
 
 ## Paralytic Ileus
 
+### Local
+				|									|
+----------------|-----------------------------------|
+Post-operative	| Retroperitoneal haematoma
+Peritonitis		| Mesenteric ischaemic/infarction
+Abscess			| Abdominal trauma
+Pancreatitis	|
+
+### Systemic
+				|				|
+----------------|---------------|
+Pneumonia		| Uraemia
+Spinal injury	| Ketoacidosis
+HyPERcalcaemia	| Burns
+HyPOkalaemia	| Sepsis
+Jaundice		| Opioids
+
 ## Intestinal Fistula
+						|				|
+------------------------|---------------|
+Anastomotic leakage 	| Post-operative
+Diverticular disease	| Radiation
+Crohn's disease			| Embryological
+Carcinoma				| Traumatic
 
 ## Obstruction
 
-## Associated with FAP
+### Functional
+1. Paralytic ileus
+2. Pseudo-obstruction
+
+### Mechanical – Small Bowel
+1. Luminal	
+	- Gallstone ileus
+	- Helminths
+	- Bezoar
+2. Mural
+	- Crohn's disease
+	- Tuberculosis (TB)
+	- Malignancy
+	- Radiation
+3. Extra-mural
+	- Adhesions
+	- Hernia
+	- Volvulus
+
+### Mechanical – Large Bowel
+1. Luminal
+	- Constipation
+2. Mural
+	- Colorectal CA
+	- Diverticular disease
+	- Crohn's disease
+	- Ischaemic stricture
+3. Extra-mural
+	- Volvulus
+
+## Associated with Familial Adenomatous Polyposis (FAP)
 
 ## Amsterdam Criteria - HNPCC
 
