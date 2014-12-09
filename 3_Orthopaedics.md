@@ -51,17 +51,81 @@ Essential Lists: 3 Orthopaedics and Neurology
 
 ## Cerebral Lobe Functions
 
-## Cushing's Response to Raised ICP
+### Frontal
+- Emotion
+- Personality
+- Speech (_motor_)
+- Motor
+### Parietal
+- Sensory
+- Spatial orientation
+- Speech (_sensory_)
+### Temporal
+- Memory
+- Smell
+### Occipital
+- Vision
 
-## Causes of Reduced Glasgow Coma Scale (GCS)
+## Cushing's Response to Raised ICP
+- **L** Heart Rate (HR)
+- **L** Respiratory Rate (RR)
+- **H** Pulse Pressure (PP)
+- **H** Blood Pressure (BP)
+
+## Causes of Reduced Glasgow Coma Scale (GCS) (11)
+					|						|
+------------------|--------------------|
+Head injury		| Opiates/BZD
+Alcohol				| Poisons
+Psychiatric		| Infection
+Uraemia				| Ketosis
+Epilepsy			| Shock
+Hypoxia				|
+
 
 ## Causes of Carpal Tunnel Syndrome
+					| 						|
+------------------|--------------------|
+Idiopathic			| Menopause
+Occupation			| Pregnancy/OCP
+Trauma				| HyPOthyroidism
+Wrist fracture		| Acromegaly
+Ganglion			| Diabetes Mellitus
+Obesity				| Amyloid
+Lipoma				| Gout
+Alcoholism			| Uraemia
+Tuberculosis (TB)	| Rheumatoid Arthritis
 
-## Nerve Injury Classification
+## Nerve Injury Classification (3 groups)
 
-## Features of Tibial Nerve Injuries
+### Neuropraxia: recovery hours/days
+- Disruption of conduction due to segment demyelination
+- No wallerian degeneration
+- Usually 2º to blunt trauma/compression
 
-## Features of Peroneal Nerve Injury
+### Axonotmesis: recovery weeks/months
+- Disruption of axon with distal wallerian degeneration **but** an intact endoneurium
+- Regrowth is at 1 mm/day
+- Usually 2º to blunt trauma/crush injury
+
+### Neurotmesis (_often permanent_)
+- Disruption of nerve sheaths and axons i.e. completer neurone disruption
+- Proximal chromatolysis
+- Limited regeneration without surgical intervention
+- Usually 2º to stab injury
+
+## Features of Tibial Nerve Injuries (5)
+- Paralysis of Ankle & Toe flexion with toe clawing
+- Shuffling gait (impaired take-off)
+- Muscle wasting on the sole
+- Loss of sensation of the sole
+- Flat foot (dysfunction of foot arches)
+
+## Features of Peroneal Nerve Injury (4)
+- Paralysis of Anterior & Lateral compartment
+- Loss of dorsiflexion & toe extension (**foot drop**) 
+- High-stepping gait to clear ground
+- Normal-looking foot 
 
 ## Reflexes
 					|				|
