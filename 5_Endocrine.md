@@ -5,7 +5,55 @@ Essential Lists: 5 Endocrine and Breast
 
 ## Causes of Syndrome of Inappropriate Anti-Duretic Hormone (SIADH) Secretion
 
+1. CNS Disorders
+	- Infection
+	- Trauma
+	- Surgery
+	- Malignancy
+2. Pulmonary disease
+	- Infection
+	- Trauma
+	- Surgery
+	- Malignancy
+3. Ectopic ADH
+	- Small-Cell Lung CA (SCLC)
+	- Pancreatic CA
+	- Prostate CA
+4. Drugs
+	- Opioids
+	- Antiepileptics
+	- Sedatives
+	- ChemoTx
+	- Andi-depressands
+5. Other
+	- Guillian-Barre syndrome
+	- Pancreatitis
+	- Porphytria
+	- Alcohol withdrawal
+
 ## Multiple Endocrine Neoplasia (MEN) – LEARN
+
+### MEN I – Werner syndrome: 3P-A
+AD, chromosome 11
+
+- Pituitary adenoma
+- Pancreatic islet cell tumour
+- Parathyroid hyperplasia/adenoma
+- Adrenal cortex tumour
+
+### MEN IIa – Sipple syndrome
+AD, chromosome 10
+
+- Medullary Thyroid CA
+- Phaeochrmocytoma
++ Parathyroid hyperplasia/adenoma
+
+### MEN III (or IIb)
+Chromosome 10
+
+- Medullary Thyroid CA
+- Phaeochrmocytoma
++ Multipel mucosal neuromas
 
 ## Features of Phaeochromocytoma
 
