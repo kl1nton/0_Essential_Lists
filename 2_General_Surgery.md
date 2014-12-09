@@ -6,7 +6,6 @@ Essential Lists: 2 General Surgery and Urology
 ### Congenital
 
 ### Acquired (10): I4V-DENTP
-
    				| 						|
 ----------------|-----------------------|
 Infective		| Degenerative			|
