@@ -732,13 +732,30 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 
 ## Caused of Cirrhosis (17) - HERE
 
-## Caused of Hepatomegaly
+## Caused of Hepatomegaly - HERE
 
 ## Risk Factors for Hepatocellular Carcinoma
+- Cirrhosis (_see above_)
+- Hepatitis B & C
+- Aflatoxin (_Aspergillus flavus_)
+- Alpha-1 Anti-Trypsin (A1AT) deficiency
 
 ## Causes of Ascites
 
-## Causes of Jaundice
+### Raised Portal Venous Pressure
+### HyPOproteinaemia
+### Peritonitis
+### Chylous
+### Endocrine
+
+## Causes of Jaundice - HERE
+
+### Pre-Hepatic
+### Congenital
+### Hepatic
+### Infective
+### Drugs
+### Post-Hepatic
 
 ## Caused of Portal Hypertension
 
