@@ -139,58 +139,348 @@ Pancreatic cancer		| Fatty liver/hepatitis
 - Idiopathic
 - Methysergide
 
-## Referred Pain
+## Referred Pain (7)
 
-Source	| Referred To |
---------|-------------|
-Ruptured Liver | RIGHT shoulder tip |
-Ruptured Spleen | LEFT should tip
-Gall Bladder	| Between Scapulae + RIGHT shoulder
+Source				| Referred To 						|
+--------------------|-----------------------------------|
+Ruptured Liver 		| RIGHT shoulder tip 
+Ruptured Spleen 	| LEFT should tip
+Gall Bladder		| Between Scapulae & RIGHT shoulder
 Pancreatitis/AAA	| Back
 Ureteric Colic 		| Ipsilateral Groin/Genitalia
 Testicular Pain		| Ipsilateral Flank
-Abdominal Surgery	| Both Shoulder tips |
+Abdominal Surgery	| Bilateral shoulder tips
 
 ## Hodgkin's Disease
 
-## Positive Diagnostic Peritoneal Lavage 
+Type 						| Prevalence 	| Prognosis |
+----------------------------|:-------------:|:---------:|
+Nodular sclerosing 			| 65% 			| GOOD
+Lymphocyte proliferative	| 10% 			| GOOD
+Mixed cellularity			| 20%			| MODERATE
+Lymphocyte depleted			| 5% 			| POOR
+
+## Positive Diagnostic Peritoneal Lavage (DPL) 
+- False POS: 15%
+- False NEG: 2%
+
+### Characteristics
+- RCC >100,000 /mm^3
+- WBC >500 /mm^3
+- DPL fluid in chest drain/urinary catheter
+- Bowel contents on DPL
+- Gram Stain POSITIVE
 
 ## Diaphragmatic Openings
 
-## Presentation of Lung Carcinoma
+Opening 					| Anatomy 								|
+----------------------------|---------------------------------------|
+T8							| IVC, RIGHT Phrenic Nerve
+T10							| Oesophagus, LEFT & RIGHT Vagus Nerve
+T12							| Aorta, Azygos, Thoracic Duct
+Medial Arcuate Ligament 	| Sympathetic Trunk
+Lateral Arcuate Ligament	| Subcostal Artery & Nerve
+Posterior Xiphoid 			| Superior Epigastric Vessels
+Posterior Hernia			| Foramen of Bochdalek
+Anterior Hernia 			| Foramen of Morgagni
+
+## Presentation of Lung Carcinoma (4)
+
+1. Locoregional Disease
+	- Cough
+	- Chest pain
+	- Haemoptysis
+	- Pneumonia
+	- Horner's syndrome
+	- Hoarseness
+	- Lymph nodes (LN)
+2. Secondary Disease
+	- Bone pain
+	- Jaundice
+3. General Symptoms
+	- Anorexia
+	- Weight loss
+4. Paraneoplastic
+	- Adrenocorticotrophic Hormone (ACTH) excess
+	- Clubbing: Hypertrophic Pulmonary Osteoarthropathy (HPOA)
+	- Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH)
+	- Neurological
 
 ## Causes of Pleural Effusion
 
-## Body Fluid Constituents
+### Transudate
+				|							|
+----------------|---------------------------|
+Cardiac failure	| HyPOproteinaemia
+Liver failure	| Protein-losing enteropathy
+Renal failure	| HyPOthyroidism
+
+### Exudate		
+				|						|
+----------------|-----------------------|
+Lung Cancer		| Pneumonia
+Lung metastases	| Tuberculosis
+Mesothelioma	| Lung abscess
+Lymphoma		| Subphrenic abscess
+Asbestosis		| RA/SLE/Vasculitis
+Pancreatitis	| Dressler's syndrome
+Chylothorax		| Meig's syndrome
+PE				| 
+
+## Body Fluid Constituents (L, mmol/L)
+
+Content 		| Volume, L | Na 	| K 	| HCO3 	| Cl	|
+----------------|-----------|:-----:|:-----:|:-----:|:-----:|
+Saliva			| 0.5–1.5	| 30	| 20	| 40	| 15	|
+Stomach			| 1.5–2.5	| 60	| 10	| 0		| 150	|
+Duodenum		| 1.5		| 140	| 5		| 25	| 100	|
+Pancreas		| 0.5–1.5	| 140	| 5		| 100	| 70	|
+Bile			| 0.5–1.0	| 140	| 5		| 40	| 100	|
+Jejunum & Ileum	| 2.5–3.5	| 140	| 5		| 25	| 100	|
+Colon			| 0.5		| 70	| 20	| 0		| 50	|
+Sweat			| 0.5–2.0	| 50	| 10	| 0		| 50	|
 
 ## Sutures
 
 ### Absorbable
+
+Class		| Name		| Constituent		| Type			|
+------------|-----------|-------------------|---------------|
+Synthetic	| Vicryl 	| Polyglactin		| Braided
+Synthetic	| PDS		| Polydiaxonone		| Monofilament
+Synthetic	| Maxon		| Polyglyconate		| Monofilament
+Synthetic	| Dexon		| Polyglycolic acid	| Braided	
+**Natural**	| Catgut	| Bovine intestine	| Monofilament
+
 ### Non-Absorbable
 
-## Essential Criteria for Screening
+Class		| Name		| Constituent		| Type			|
+------------|-----------|-------------------|---------------|
+Synthetic	| Prolene	| Polypropylene		| Monofilament	
+Synthetic	| Steel		| Steel				| Monofilament
+Synthetic	| Ticron	| Polyester			| Braided
+Synthetic	| Ethilon	| Nylon				| Monofilament
+**Natural**	| Silk		| Silkworm			| Braided
 
-## Tumour Markers
+## Essential Criteria for Screening (2)
+
+1. Related to Disease (6)
+	- Serious
+	- Latent
+	- Important
+	- Common
+	- Treatable
+	- Outcome affected by earlier detection
+2. Related to Test (5)
+	- Sensitive
+	- Specific
+	- Safe
+	- Acceptable
+	- Cheap
+
+## Tumour Markers (9)
+
+Marker 			| Cancer					|
+----------------|---------------------------|
+AFP 			| Gonadal/liver
+CEA				| Colon
+PSA				| Prostate
+B-hCG			| gonadal/choriocarcinoma
+CA125			| gonadal
+CA153			| Metastatic disease
+CA19.9			| Pancreatic
+Calcitonin		| Medullary cell
+Thyroglobulin	| Thyroid
 
 ## Cancers That Metastasise To
 
+1. Liver
+	- GI
+	- Pancreas
+	- Urological
+	- Lung
+	- Breast 
+	- Melanoma
+2. Lung
+	- Kidney
+	- Germ cell
+	- Sarcoma
+	- Colorectal
+	- Breast 
+	- Melanoma
+3. Bone: **BLT-KP** (_BLT and a Kosher Pickle_)
+	- Breast
+	- Lung
+	- Thyroid
+	- Kidney
+	- Prostate
+4. Brain
+	- Lung
+	- Kidney
+	- Breast
+	- Melanoma
+	- Colon
+5. Adrenal: **BL**
+	- Breast
+	- Lung
+
 ## Carcinogens
 
-## Proto-oncogens and Malignancy
+### Chemical
 
-## Abnormalities of Growth
+Source 					| Cancer 						|
+------------------------|-------------------------------|
+B-Naphthalene			| Bladder
+Aflatoxin				| Liver
+Asbestos				| Lung & Mesothelial surfaces
+Benzopyrene				| Lung
+Chromium/Nickel/Arsenic	| Lung
+Nitrates				| Stomach
 
-## Complications of RadioTx
+### Infective
+
+Source 			| Cancer 									|
+----------------|-------------------------------------------|
+Schistosomiasis	| Bladder	
+Hepatitis B+C	| Liver
+EBV				| Nasopharyngeal/Burkitt's lymphoma
+HPV				| Cervical & Anal
+HTLV-1			| Leukaemia
+HHV-8			| Karposi's sarcoma
+
+### Radiation
+
+Source 		| Cancer									|
+------------|-------------------------------------------|
+UV			| skin
+Ionising	| skin, leukaemia, bone, breast, thyroid, ENT
+
+## Proto-oncogens (POGs) and Malignancy
+
+### Nuclear
+
+POG 	| Cancer					|
+--------|---------------------------|
+MYC		| Burkitt's lymphoma
+n-MYC	| Neuroblastoma
+l-MYC	| SCLC
+
+### Transduction
+
+POG 	| Cancer					|
+--------|---------------------------|
+RAS		| Lung, Colon, Pancreas
+Ab1		| Acute lymphoid leukaemia
+
+### Growth Factor
+
+POG 	| Cancer					|
+--------|---------------------------|
+SIS		| Astrocytoma
+hst-1	| Osteosarcoma
+ist-2	| Stomach, Bladder, Breast
+
+### Growth Factor Inhibitor
+
+POG 	| Cancer				|
+--------|-----------------------|
+Erb B1	| Glioma
+Erb B2	| Breast, Ovary, Stomach
+Ret		| Medullary Thyroid CA
+
+### Tumour Suppressor
+
+POG 		| Cancer						|
+------------|-------------------------------|
+p53			| **Many**
+E-cadherin	| Stomach
+APC			| Colon
+DCC			| Stomach, Colon, Pancreas
+NF1+2		| NFM, Schwannoma, Sarcoma
+Rb			| Retinoblastoma, Osteosarcoma
+Wt-1		| Wilm's tumour
+
+### RNA Repair Genes
+
+POG 	| Cancer				|
+--------|-----------------------|
+Msh-2	| HNPCC
+
+### Apoptosis
+
+POG 	| Cancer				|
+--------|-----------------------|
+Bcl-2	| B-cell lymphoma
+
+## Abnormalities of Growth (7)
+
+- Hyperplasia = 
+- Hypertrophy = 
+- Metaplasia = 
+- Dysplasia = 
+- Hamartoma = 
+- Teratoma = 
+- Neoplasia = 
+
+## Complications of Radiotherapy (RadioTx)
+
+### Early
+						|				|
+------------------------|---------------|
+Fatigue/malaise			| Bleeding
+Nausea/vomiting (N&V)	| Erythema
+Diarrhoea				| Ulceration
+Desquamation			| Oesophagitis
+Bone Marrow Suppression |
+
+### Late
+								|						|
+--------------------------------|-----------------------|
+Pneumonitis						| Infertility
+Pulmonary Fibrosis				| Early menopause
+Ischaemic Heart Disease (IHD)	| Cataracts
+Bowel strictures				| 2º Malignancies
+Adhesions						| Renal failure
+Bladder fibrosis				| Delayed wound healing
+HyPOthyroidism					| Lymphoedema						
 
 ## Causes of Dysphagia
 
-## Causes of Upper GI Bleeding
+### Neurological
+					|							|
+--------------------|---------------------------|
+CVA					| Achalasia
+MND					| Chagas' disease
+MS					| Nutcracker oesophagus
+Parkinson's disease	| Diffuse oesophageal spasm
+Muscular dystrophy	|
 
-## Risk Factors for Gastric Carcinoma
-- Dietary
+### Mechanical
+						|						|
+------------------------|-----------------------|
+Pharyngeal pouch		| Goitre
+Oropharyngeal tumour	| Stomach CA
+Tonsillitis				| Lung CA
+Oesophageal CA			| Thoracic aneurysm
+Oesophageal Web			| Post-op stricture
+Oesophageal Bar/Ring	|
+
+## Causes of Upper GI Bleeding
+							|												|
+----------------------------|-----------------------------------------------|
+Duodenal ulcer/erosion		| Mallory-Weiss tear
+Gastric ulcer/erosion		| Angiodysplasia
+Oesophageal ulcer/erosion	| Hereditary Haemorrhagic Telangiectasia (HHT)
+Upper GI malignancy			| Dieulafoy's lesion
+Varices						|
+
+## Risk Factors for Gastric Carcinoma (9)
+
+- Dietary – nitrates, salt, vitamin deficiency (A, C, E)
+- _Helicobacter pylori_
 - Pernicious anaemia
 - Previous gastric surgery
-- Family Hx of Gastric Ca
+- Family Hx of Gastric CA
 - Gastritis/ulceration/polyps
 - ABO group A (**diffuse** rather than intestinal type)
 - Japanese
