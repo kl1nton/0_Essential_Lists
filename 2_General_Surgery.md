@@ -629,12 +629,47 @@ Gastric surgery			| Turcot's syndrome
 Low-fibre diet			| Canada-Cronkhite syndrome
 
 ## Features of Colorectal Carcinoma
+						| 								|
+------------------------|-------------------------------|
+Change in bowel habit	| Iron-deficiency anaemia
+PR bleeding/mucus		| Abdominal distension/obstruction
+Tenesmus				| Abdominal mass
+Fistula					| Perforation
+Rectal mass				|
 
 ## Distribution of Colorectal Cancer
 
-## Extra-Intestinal Features of Inflammatory Bowel Disease
+Location 	| Incidence |
+------------|:---------:|
+Rectal		| 35%
+Sigmoid		| 25%
+Caecal		| 15%
+Descending	| 10%
+Transverse	| 10%
+Ascending	| 5%
+
+## Extra-Intestinal Features of Inflammatory Bowel Disease (IBD)
+
+### Related to Disease Activity
+- Pyoderma gangrenosum
+- Erythema nodosum
+- Aphthous ulcer
+- Arthropathy/arthritis
+
+### Unrelated to Disease Activity
+- Sacroilitis/Ankylosing spondylitis
+- Fatty liver/Cirrhosis
+- Chronic active hepatitis
+- Primary sclerosing cholangitis (PSC)
+- Cholangiocarciinoma/Hepatoma
+- Gall stones/Kidney stones
+- Amyloidosis
+- Clubbing
+- Conjunctivitis/Uveitis/Episcleritis
 
 ## Associated with Pyoderma Gangrenosum
+
+
 
 ## Barium Enema Features of IBM
 
