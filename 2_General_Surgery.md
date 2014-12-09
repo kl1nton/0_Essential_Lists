@@ -668,20 +668,69 @@ Ascending	| 5%
 - Conjunctivitis/Uveitis/Episcleritis
 
 ## Associated with Pyoderma Gangrenosum
+						|						|	
+------------------------|-----------------------|
+Ulcerative colitis		| PRV
+Crohn's disease			| Myeloma
+PAN						| Autoimmune hepatitis
+Idiopathic				| Leukaemia
+IgA paraproteinaemia 	| SLE/RA
 
+## Barium Enema Features of Inflammatory Bowel Disease (IBD)
 
+### Crohn's Disease
+				|					|
+----------------|-------------------|
+Skip lesions	| Rosethorn ulcers
+Fistulae		| Cobblestoning
+Strictures		| String sign
 
-## Barium Enema Features of IBM
+### Ulcerative Colitis
+					|					|
+--------------------|-------------------|
+Pseudopolyps		| Hose piping
+Lost of haustrae	| Shortened colon
+Ulceration
 
-## Indications for Surgery in IBD
+## Indications for Surgery in IBD (11)
+							|								|
+----------------------------|-------------------------------|
+Toxic megacolon				| Intra-abdominal abscess
+Perforation					| Intestinal fistulae
+Malignant transformation	| Peri-anal sepsis
+Bleeding					| Failure to thrive in children
+Recurrent exacerbations		| Failed medical treatment
+Stricture					|
 
-## Complications of Diverticular Disease
+## Complications of Diverticular Disease (6)
+			|					|
+------------|-------------------|
+Phlegmon	| Perforation
+Abscess		| Bleeding
+Fistula		| Benign stricture
 
-## Lower GI Bleeding
+## Lower GI Bleeding (16)
+									|											|
+------------------------------------|-------------------------------------------|
+Diverticular disease				| Infective colitis
+Angiodysoplasia/A-V malformation	| Meckel's diverticulum
+Colorectal carcinoma				| Adenomatous polyps
+Haemorrhoids						| Anal fissure/Rectal ulcer
+Inflammatory Bowel Disease (IBD)	| Haemangioma
+Hereditary Telangiectasia			| Wegener's granulomatosis
+Radiation proctitis					| Rheumatoid arthritis
+Ischaemic colitis					| Endometriosis
+Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 
-## Meckel's Diverticulumn
+## Meckel's Diverticulum (_Rule of 2s_)
+- Twice as common in males (M:F = 2:1)
+- Asymptomatic before 2 years of age
+- 2% of the population
+- 2 cm long
+- 2 feet proximal to Ileocaecal Valve
+- 2 types of tissue (Gastric & Pancreatic)
 
-## Caused of Cirrhosis
+## Caused of Cirrhosis (17) - HERE
 
 ## Caused of Hepatomegaly
 
@@ -699,9 +748,70 @@ Ascending	| 5%
 
 ## Causes of Spenomegaly
 
-## Functions of Spleen
+1. Bacterial
+	- Typhoid
+	- TB
+	- Septicaemia
+	- Leptospirosis
+	- Syphilis
+	- Brucella
+2. Viral
+	- Hepatitis A–E
+	- EBV
+	- CMV
+	- HIV
+3. Protozoan
+	- Malaria
+	- Visceral leishmaniasis (VL; kala-azar)
+	- Hydatid disease 
+3. Deposition
+	- Amyloid
+	- Gaucher's disease
+	- Felty's disease
+	- Still's disease
+	- Sarcoid
+5. Congestion
+	- CCF
+	- Hepatic vein obstruction
+	- Portal hypertension
+	- Cirrhosis
+6. Haematological
+	- Leukaemia
+	- Lymphoma
+	- Pernicious anaemia
+	- PRV
+	- Elliptocytosis
+	- Spherocytosis
+	- ITP
+	- Sickle cell disease
+7. Infarction
+	- Bacterial endocarditis
+	- Atrial fibrillation
+	- Mural thrombus post-MI
+8. Solitary
+	- Cystic disease
+	- Lymphosarcoma
+	- Angioma
 
-## Indications for Splenectomy
+## Functions of Spleen (5)
+
+Class			| Description							|
+----------------|---------------------------------------|
+Immunological 	| Produce IgM, capture foreign antigens
+Filtration		| Encapsulated bacteria
+Sequestration	| Older erythrocytes and platelets
+Storage			| Platelets (30%), iron
+Haematopoiesis	| Embryological, haemolytic anaemia
+
+## Indications for Splenectomy (11)
+										|								|
+----------------------------------------|-------------------------------|
+Trauma									| Hodgkin's disease 
+Immune: ITP, Haemolytic anaemia			| Hairy cell leukaemia/CML
+Congenital: Elliptosis, Spherocytosis	| Part of solid tumour resection
+Splenic vein thrombosis					| Thalassaemia
+Gaucher's disease						| Splenic abscess/Cyst
+Myelofibrosis							|
 
 - Baterial: typhoid, TB,septicaemia, leptospirosis, syphilis, brucella
 - Viral:
@@ -745,12 +855,13 @@ Ascending	| 5%
 
 ## Umbilical Hernia ("3s")
 - 3% of live births
-- Operate at > 3 years old
+- Operate at &ge; 3 years old
 - 0.3% need surgical repair
-- Recurs in the 3rd trimester
+- Recurs in 3rd trimester
 - Most regress by age 2 (*not* 3)
 
 ## Contents of Inguinal Canal (9)
+
 ### Arteries
 1. Artery to the Vas
 2. Testicular Artery
@@ -778,14 +889,17 @@ Ascending	| 5%
 - Constipation
 
 ## Renal Stones (8)
-- Calcium oxalate (74%)
-- Calcium phosphate (8%)
-- Struvite - *magnesium ammonium phosphate* (8%)
-- Urate (7%)
-- Cysteine (1%)
-- Xanthine (<1%)
-- Silicate (<1%)
-- Matrix (<1%)
+
+Contents									| Prevalence |
+--------------------------------------------|-----------:|
+Calcium oxalate 							| 74%
+Calcium phosphate 							| 8%
+Struvite - *magnesium ammonium phosphate* 	| 8%
+Urate 										| 7%
+Cysteine 									| 1%
+Xanthine 									| <1%
+Silicate 									| <1%
+Matrix 										| <1%
 
 ## Complications of Calculi (7)
 - Obstruction
@@ -796,21 +910,18 @@ Ascending	| 5%
 - Perforation
 - Metaplasia
 
-## Enlarged Kidney
-- Hydronephrosis
-- Solitary cysts
-- Polysystic kidneys
-- Renal Cell Cancer (RCC)
-- Hypertrophy of single kidney
-- Horseshoe kidney
-- Perinephric abscess
-- Pyonephrosis: (*Greek*: 'pyon', pus; 'nephros', kidney)
-- Renal vein thrombosis
-- Diabetes Mellitus (DM)
-- Amyloidosis
-- SLE
+## Enlarged Kidney (12)
+								|														|
+--------------------------------|-------------------------------------------------------|
+Hydronephrosis					| Perinephric abscess
+Solitary cysts					| Pyonephrosis: (*Greek*: 'pyon', pus; 'nephros', kidney)
+Polysystic kidneys				| Renal vein thrombosis
+Renal Cell Cancer (RCC)			| Diabetes Mellitus (DM)
+Hypertrophy of single kidney	| Amyloidosis
+Horseshoe kidney				| Systemic Lupus Erythematosus (SLE)
 
 ## Complications of TURP
+
 ### Immediate
 - Haemorrhage
 - Sepsis
@@ -827,28 +938,28 @@ Ascending	| 5%
 - Erectile dysfunction (20%)
 - Retrograde ejaculation (70%)
 
-## Types of Hydrocoele
-- Vaginal (*testes*)
-- Hydrocoele of the Cord (*cord*)
-- Congenital Hydrocoele (communicates with *peritoneum*)
-- Infantile (cordand *testes*)
+## Types of Hydrocoele (5)
+- Vaginal (_testes_)
+- Hydrocoele of the Cord (_cord_)
+- Congenital Hydrocoele (communicates with _peritoneum_)
+- Infantile (cord and _testes_)
 - Secondary (tumour, torsion, trauma, orchitis, post-op)
 
-## Indications for Circumcision
+## Indications for Circumcision (7)
 - Phimosis
 - Paraphimosis
 - Recurrent balanitis
-- Balanitis xerotica obliterans (BXO)
-- Penile Ca
+- Xerotica Balanitis Obliterans (BXO)
+- Penile CA
 - Recurrent UTIs
 - Religious reasons
 
-## Common Congenital Urinary Abnormalities
-- Horseshoe kidney
+## Common Congenital Urinary Abnormalities (6)
+- Horseshoe Kidney
 - Pelvi-ureteric junction (PUJ) obstruction
 - Ureteric duplication
 - Vesico-ureteric junction (VUJ) obstruction
 - Ureterocoele
 - Posterior urethral valves
 
---
+---
