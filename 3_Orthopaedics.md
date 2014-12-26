@@ -1,29 +1,126 @@
 Essential Lists: 3 Orthopaedics and Neurology
 =============================================
 
-## States of Fracture Healing
+## States of Fracture Healing (5)
 
-## Osteoporosis
+## Osteoporosis (2)
 
-## Complications of Fractures
+### Primary
+### Secondary
 
-## Poor Healing in Bone
+## Complications of Fractures (2)
 
-## Types of Fracture
+### Early (16)
+### Late (27)
 
-## Treatment of Fractures
+## Poor Healing in Bone (7)
+
+## Types of Fracture (4)
+1. Traumatic/Stress/Pathological
+2. Incomplete/Complete/Greenstick
+3. Open/Closed
+4. Comminuted/Simple
+
+## Treatment of Fractures - 5Rs (5)
+1. Reassure
+2. Relieve Pain
+3. Reduce
+4. Rehabilitate
+5. Rigid (*hold*)
 
 ## Blood Loss with Factures
 
+Bone	| Blood Loss (L)	|
+--------|-------------------|
+Pelvis	| 1-5
+Femur	| 1-2.5
+Tibia	| 0.5-1.5
+Humerus	| 0.5-1.5
+
+
 ## Internal vs External Fixation
+
+### Internal Fixation
+
+Advantages 			| Disadvantages			|	
+--------------------|-----------------------|
+Early mobilisation	| Needs surgery
+Precise				| Expensive
+**L** Pain			| Soft-tissue damage
+--					| Infection
+
+### External Fixation
+
+Advantages 			| Disadvantages			|	
+--------------------|-----------------------|
+Simple				| Cumbersome
+Safe				| Pin tracking
+Fast				| Infection
+Re-usable			| Compliant patient
+Versatile			| More aftercare
+Open fractures		| --
 
 ## Gustilo-Anderson Classification of Open Fracture
 
+Class	| Wound								| Description								|
+--------|-----------------------------------|-------------------------------------------|
+I		| < 1cm								| Little ST damage, simple fracture
+II		| > 1cm								| Moderate ST damage, high-energy fracture
+III		| Extensive soft-tissue injury		| Comminution or contamination
+- (a) 	| Inadequate soft-tissue-coverage	| Comminuted and segmental		
+- (b)	| Extensive soft-tissue damage		| Contaminates require local/free flap
+- (c)	| Arterial injury requiring repair	| --
+
 ## Salter-Harris Classification
+
+Class	| Description								|
+--------|-------------------------------------------|
+I		| Separation of epiphysis and metaphysis
+II		| Fracture of metaphysis
+III		| Fracture of epiphysis
+IV		| Fracture of epiphysis and metaphysis
+V		| Crushing of growth plate
 
 ## Bone Tumours
 
-## Arthritides
+Location	| Benign					| Malignant			|
+------------|---------------------------|-------------------|
+Bone		| Osteoid osteoma (osteoma)	| Osteosarcoma
+			| Osteoblastoma				| --
+Cartilage	| Chondroblastoma			| --
+			| Osetochondroma			| Chondreosarcoma
+Fibrous		| Fibroma					| Fibrosarcoma
+			| Fibrous dysplasia			| --
+Vessel		| Angioma					| Angiosarcoma
+Marrow		| --						| Myeloma
+			| --						| Ewing's sarcoma
+Other		| Giant cell tumour			| --
+			| Brown tumour				| --
+
+## Arthritides  (RA vs OA)
+
+Criteria	| Rheumatoid	| Osteoarthritis	|
+------------|---------------|-------------------|
+Worse
+Relieved by
+Morning stiffness
+Medication
+History
+
+ESR/CRP
+Anaemia
+Synovial Fluid
+Extra-Articular
+X-ray findings 	|
+
+
+
+
+On Examination	| Subluxation
+				| Soft-tissue swelling
+				| Boutonniere deformity
+				| Swan sign
+				| Z deformity
 
 ## Extra-Articular Disease in Rheumatoid Arthritis
 
@@ -49,42 +146,45 @@ Essential Lists: 3 Orthopaedics and Neurology
 
 ## Skull Foramina (9) - Mnemonic? TODO - LEARN
 
-Foramina					| Contents 	            |   | 
--------------------------|-------------------------|---|
-Optic Canal				| Optic Nerve             | II
-							| Ophthalamic Artery      | —
-Superior Orbital Fissure | Oculomotor Nerve        | III
-							| Trochlear Nerve         | IV
-							| Ophthalamic Nerve       | Va
-							| Abducens Nerve          | VI
-Rotundum					| Maxillary Nerve         | Vb
-Ovale						| Mandibular Nerve        | Vc
-Jugular 					| Glossopharyngeal Nerve  | IX
-							| Vagus                   | X
-							| Accessory Nerve         | XI
-Magnum						| Spinal Accessory Nerve  | XI
-Hypoglossal				| Hypoglossal Nerve       | XII
-Spinosum					| Meningeal Artery        | —
-Lacerum						| Internal Carotid Artery | –
+Foramina					| Contents 	            	|   	| 
+----------------------------|---------------------------|-------|
+Optic Canal					| Optic Nerve             	| II
+							| Ophthalamic Artery      	| --
+Superior Orbital Fissure 	| Oculomotor Nerve        	| III
+							| Trochlear Nerve         	| IV
+							| Ophthalamic Nerve       	| Va
+							| Abducens Nerve          	| VI
+Rotundum					| Maxillary Nerve         	| Vb
+Ovale						| Mandibular Nerve        	| Vc
+Jugular 					| Glossopharyngeal Nerve  	| IX
+							| Vagus                   	| X
+							| Accessory Nerve         	| XI
+Magnum						| Spinal Accessory Nerve  	| XI
+Hypoglossal					| Hypoglossal Nerve       	| XII
+Spinosum					| Meningeal Artery        	| —
+Lacerum						| Internal Carotid Artery 	| –
 
-## Cerebral Lobe Functions
+## Cerebral Lobe Functions (4)
 
-### Frontal
-- Emotion
-- Personality
-- Speech (_motor_)
-- Motor
-### Parietal
-- Sensory
-- Spatial orientation
-- Speech (_sensory_)
-### Temporal
-- Memory
-- Smell
-### Occipital
-- Vision
+### Frontal (4)
+1. Emotion
+2. Personality
+3. Speech (_motor_)
+4. Motor
 
-## Cushing's Response to Raised ICP
+### Parietal (3)
+1. Sensory
+2. Spatial orientation
+3. Speech (_sensory_)
+
+### Temporal (2)
+1. Memory
+2. Smell
+
+### Occipital (1)
+1. Vision
+
+## Cushing's Response to Raised ICP (4)
 - **L** Heart Rate (HR)
 - **L** Respiratory Rate (RR)
 - **H** Pulse Pressure (PP)
