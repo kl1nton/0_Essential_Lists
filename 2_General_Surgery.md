@@ -4,9 +4,9 @@ Essential Lists: 2 General Surgery and Urology
 ## Causes of Anything (Surgical Sieve)
 
 ### Congenital
+### Acquired (10): I4-V, DENTP
 
-### Acquired (10): I4V-DENTP
-   				| 						|
+I4-V   			| DENTP 				|
 ----------------|-----------------------|
 Infective		| Degenerative			|
 Inflammatory	| Endocrine/Metabolic	|
@@ -34,7 +34,8 @@ Interference 	| pacemaker
 - Seals off infected/ulcerated surfaces 
 
 ## Lumps (19): 7S-4T-3C-2F-EAR
- 					| 					|									|
+
+7S 					| 4T-3C 			| 2F-EAR							|
 --------------------|-------------------|-----------------------------------|
 Site 				| Temperature		| Fixity (_superficial_ & _deep_)
 Size				| Tenderness		| Fluctuance 					
@@ -44,60 +45,62 @@ Scar				| Compressibility 	| Reducibility
 Skin changes		| Colour			|
 Surround (_edge_)	| Consistency		|
 
-## Causes of Clubbing (4 groups)
+## Causes of Clubbing (4)
 
-1. Lung
+1. Lung (5)
 	- Lung cancer
 	- Empyema
 	- Fibrosing alveolitis
 	- Brochiectasis/CF
 	- Mesothelioma
-2. Cardiac
+2. Cardiac (3)
 	- Cyanotic heart disease (CHD)
 	- Atrial myxoma
 	- Infective endocarditis (IE)
-3. GI 
+3. GI (4)
 	- Coeliac disease
 	- Cirrhosis
 	- Inflammatory bowel disease (IBD)
 	- GI lymphoma
-4. Other
+4. Other (4)
 	- Familial 
 	- Axillary aneurysm
 	- Graves' acropathy
 	- Brachial A-V malformation
 
-## Skin Ulcers (4 groups)
+## Skin Ulcers (4)
 
-1. Edge
+1. Edge (5)
 	- Sloping (_healing_)
 	- Punched-out (_ischaemic/neuropathic_)
 	- Undermined (_necrotic_/TB)
 	- Rolled (BCC)
 	- Everted (SCC)
-2. Base
+2. Base (3)
 	- Granulated
 	- Slough
 	- Malignant
-3. Floor
+3. Floor (3)
 	- Fascia
 	- Muscle
 	- Bone
-4. Discharge
+4. Discharge (3)
 	- Serous
 	- Sanguineous
 	- Purulent
 
 ## Granulomatous Diseases (9)
+
 							|							|
 ----------------------------|---------------------------|
 TB (_caseating_)			| Churg-Strauss syndrome
 Fungal infections 			| Sarcoidosis
 Helminth infections			| Wegener's granulomatosis
 Langerhan's histocytosis	| Hypersensitivity
-Malignancy					|
+Malignancy					| --
 
 ## Gynaecological Causes of Abdominal Pain (8)
+
 								|									|
 --------------------------------|-----------------------------------|
 Ruptured ectopic pregnancy		| Mittelschmerz						
@@ -106,6 +109,7 @@ Torsion/rupture of ovarian cyst	| Adenomycosis
 Uterine fibroids				| Tubo-ovarian abscess
 
 ## Neonatal Causes of Abdominal Pain (8)
+
 							|							|
 ----------------------------|---------------------------|
 Malrotation					| GIT stenosis
@@ -113,16 +117,27 @@ Meconium plug/ileus			| GIT atresia
 Hirschsprung's disease		| Diaphragmatic hernia		
 Necrotising enterocolitis	| Gastroschisis/Exomphalos
 
-## Paediatric Pyloric Stenosis (8) - HERE
-							|							|
-----------------------------|---------------------------|
+## Paediatric Pyloric Stenosis (8)
+
+								|								|
+--------------------------------|-------------------------------|
+Projective non-bilious vomiting	| Olive-shaped mass in RUQ
+Hungry post-vomiting			| Visible peristalsis
+Dehyrdration					| Metabolic alkalosis
+Weight loss						| HyPOkalaemic hyPOchloraemia
 
 ## Intussusception (7)
-							|							|
-----------------------------|---------------------------|
+
+								|									|
+--------------------------------|-----------------------------------|
+Pallor							| Redcurrent jelly stool/PR bleed
+Childhood colic/irritability	| Distension
+Normal between attacks			| Dehydration
+Bilious vomiting				| --
 
 
 ## GI Problems in Alcohol Abuse (10)
+
 						|							|
 ------------------------|---------------------------|
 Gastritis				| Oesophageal SCC
@@ -150,7 +165,7 @@ Ureteric Colic 		| Ipsilateral Groin/Genitalia
 Testicular Pain		| Ipsilateral Flank
 Abdominal Surgery	| Bilateral shoulder tips
 
-## Hodgkin's Disease
+## Hodgkin's Disease (4)
 
 Type 						| Prevalence 	| Prognosis |
 ----------------------------|:-------------:|:---------:|
@@ -170,11 +185,11 @@ Lymphocyte depleted			| 5% 			| POOR
 - Bowel contents on DPL
 - Gram Stain POSITIVE
 
-## Diaphragmatic Openings
+## Diaphragmatic Openings (8)
 
-Opening 					| Anatomy 								|
-----------------------------|---------------------------------------|
-T8							| IVC, RIGHT Phrenic Nerve
+Opening 					| Anatomy 									|
+----------------------------|-------------------------------------------|
+T8							| Inferior ~vena cava~, RIGHT Phrenic Nerve
 T10							| Oesophagus, LEFT & RIGHT Vagus Nerve
 T12							| Aorta, Azygos, Thoracic Duct
 Medial Arcuate Ligament 	| Sympathetic Trunk
@@ -185,7 +200,7 @@ Anterior Hernia 			| Foramen of Morgagni
 
 ## Presentation of Lung Carcinoma (4)
 
-1. Locoregional Disease
+1. Locoregional Disease (7)
 	- Cough
 	- Chest pain
 	- Haemoptysis
@@ -193,28 +208,30 @@ Anterior Hernia 			| Foramen of Morgagni
 	- Horner's syndrome
 	- Hoarseness
 	- Lymph nodes (LN)
-2. Secondary Disease
+2. Secondary Disease (2)
 	- Bone pain
 	- Jaundice
-3. General Symptoms
+3. General Symptoms (2)
 	- Anorexia
 	- Weight loss
-4. Paraneoplastic
+4. Paraneoplastic (4)
 	- Adrenocorticotrophic Hormone (ACTH) excess
 	- Clubbing: Hypertrophic Pulmonary Osteoarthropathy (HPOA)
 	- Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH)
 	- Neurological
 
-## Causes of Pleural Effusion
+## Causes of Pleural Effusion (2)
 
-### Transudate
-				|							|
-----------------|---------------------------|
-Cardiac failure	| HyPOproteinaemia
-Liver failure	| Protein-losing enteropathy
-Renal failure	| HyPOthyroidism
+### Transudate (6)
 
-### Exudate		
+					|							|
+--------------------|---------------------------|
+Cardiac *failure*	| HyPOproteinaemia
+Liver *failure*		| Protein-losing enteropathy
+Renal *failure*		| HyPOthyroidism
+
+### Exudate	(15)	
+
 				|						|
 ----------------|-----------------------|
 Lung Cancer		| Pneumonia
@@ -224,9 +241,9 @@ Lymphoma		| Subphrenic abscess
 Asbestosis		| RA/SLE/Vasculitis
 Pancreatitis	| Dressler's syndrome
 Chylothorax		| Meig's syndrome
-PE				| 
+PE				| -- 
 
-## Body Fluid Constituents (L, mmol/L)
+## Body Fluid Constituents (8 x 5; L, mmol/L) - LEARN
 
 Content 		| Volume, L | Na 	| K 	| HCO3 	| Cl	|
 ----------------|-----------|:-----:|:-----:|:-----:|:-----:|
@@ -239,9 +256,9 @@ Jejunum & Ileum	| 2.5–3.5	| 140	| 5		| 25	| 100	|
 Colon			| 0.5		| 70	| 20	| 0		| 50	|
 Sweat			| 0.5–2.0	| 50	| 10	| 0		| 50	|
 
-## Sutures
+## Sutures (2)
 
-### Absorbable
+### Absorbable (5)
 
 Class		| Name		| Constituent		| Type			|
 ------------|-----------|-------------------|---------------|
@@ -282,50 +299,50 @@ Synthetic	| Ethilon	| Nylon				| Monofilament
 Marker 			| Cancer					|
 ----------------|---------------------------|
 AFP 			| Gonadal/liver
-CEA				| Colon
-PSA				| Prostate
-B-hCG			| gonadal/choriocarcinoma
-CA125			| gonadal
+B-hCG			| Gonadal/choriocarcinoma
+CA125			| Gonadal (Ovarian)
 CA153			| Metastatic disease
 CA19.9			| Pancreatic
+CEA				| Colon
+PSA				| Prostate
 Calcitonin		| Medullary cell
 Thyroglobulin	| Thyroid
 
-## Cancers That Metastasise To
+## Cancers That Metastasise (5)
 
-1. Liver
+1. Liver (6)
 	- GI
 	- Pancreas
 	- Urological
 	- Lung
 	- Breast 
 	- Melanoma
-2. Lung
+2. Lung (6)
 	- Kidney
 	- Germ cell
 	- Sarcoma
 	- Colorectal
 	- Breast 
 	- Melanoma
-3. Bone: **BLT-KP** (_BLT and a Kosher Pickle_)
+3. Bone: **BLT-KP** (_BLT and a Kosher Pickle_; 5)
 	- Breast
 	- Lung
 	- Thyroid
 	- Kidney
 	- Prostate
-4. Brain
+4. Brain (5)
 	- Lung
 	- Kidney
 	- Breast
 	- Melanoma
 	- Colon
-5. Adrenal: **BL**
+5. Adrenal: **BL** (2)
 	- Breast
 	- Lung
 
-## Carcinogens
+## Carcinogens (3)
 
-### Chemical
+### Chemical (6)
 
 Source 					| Cancer 						|
 ------------------------|-------------------------------|
@@ -336,7 +353,7 @@ Benzopyrene				| Lung
 Chromium/Nickel/Arsenic	| Lung
 Nitrates				| Stomach
 
-### Infective
+### Infective (6)
 
 Source 			| Cancer 									|
 ----------------|-------------------------------------------|
@@ -347,16 +364,16 @@ HPV				| Cervical & Anal
 HTLV-1			| Leukaemia
 HHV-8			| Karposi's sarcoma
 
-### Radiation
+### Radiation (2)
 
 Source 		| Cancer									|
 ------------|-------------------------------------------|
-UV			| skin
-Ionising	| skin, leukaemia, bone, breast, thyroid, ENT
+UV			| Skin
+Ionising	| Skin, leukaemia, bone, breast, thyroid, ENT
 
-## Proto-oncogens (POGs) and Malignancy
+## Proto-oncogens (POGs) and Malignancy (7)
 
-### Nuclear
+### Nuclear (3)
 
 POG 	| Cancer					|
 --------|---------------------------|
@@ -364,14 +381,14 @@ MYC		| Burkitt's lymphoma
 n-MYC	| Neuroblastoma
 l-MYC	| SCLC
 
-### Transduction
+### Transduction (2)
 
 POG 	| Cancer					|
 --------|---------------------------|
 RAS		| Lung, Colon, Pancreas
 Ab1		| Acute lymphoid leukaemia
 
-### Growth Factor
+### Growth Factor (3)
 
 POG 	| Cancer					|
 --------|---------------------------|
@@ -379,7 +396,7 @@ SIS		| Astrocytoma
 hst-1	| Osteosarcoma
 ist-2	| Stomach, Bladder, Breast
 
-### Growth Factor Inhibitor
+### Growth Factor Inhibitor (3)
 
 POG 	| Cancer				|
 --------|-----------------------|
@@ -387,7 +404,7 @@ Erb B1	| Glioma
 Erb B2	| Breast, Ovary, Stomach
 Ret		| Medullary Thyroid CA
 
-### Tumour Suppressor
+### Tumour Suppressor (7)
 
 POG 		| Cancer						|
 ------------|-------------------------------|
@@ -399,40 +416,40 @@ NF1+2		| NFM, Schwannoma, Sarcoma
 Rb			| Retinoblastoma, Osteosarcoma
 Wt-1		| Wilm's tumour
 
-### RNA Repair Genes
+### RNA Repair  (1)
 
 POG 	| Cancer				|
 --------|-----------------------|
 Msh-2	| HNPCC
 
-### Apoptosis
+### Apoptosis (1)
 
 POG 	| Cancer				|
 --------|-----------------------|
 Bcl-2	| B-cell lymphoma
 
-## Abnormalities of Growth (7)
+## Abnormalities of Growth (7) - TODO
 
-- Hyperplasia = 
-- Hypertrophy = 
-- Metaplasia = 
-- Dysplasia = 
-- Hamartoma = 
-- Teratoma = 
-- Neoplasia = 
+- Hyperplasia 	= ?
+- Hypertrophy	= ?
+- Metaplasia 	= ?
+- Dysplasia 	= ?
+- Hamartoma 	= ?
+- Teratoma 		= ?
+- Neoplasia 	= ?
 
-## Complications of Radiotherapy (RadioTx)
+## Complications of Radiotherapy (RadioTx; 2)
 
-### Early
+### Early (9)
 						|				|
 ------------------------|---------------|
 Fatigue/malaise			| Bleeding
 Nausea/vomiting (N&V)	| Erythema
 Diarrhoea				| Ulceration
 Desquamation			| Oesophagitis
-Bone Marrow Suppression |
+Bone Marrow Suppression | --
 
-### Late
+### Late (14)
 								|						|
 --------------------------------|-----------------------|
 Pneumonitis						| Infertility
@@ -443,18 +460,20 @@ Adhesions						| Renal failure
 Bladder fibrosis				| Delayed wound healing
 HyPOthyroidism					| Lymphoedema						
 
-## Causes of Dysphagia
+## Causes of Dysphagia (2)
 
-### Neurological
+### Neurological (9)
+
 					|							|
 --------------------|---------------------------|
 CVA					| Achalasia
 MND					| Chagas' disease
 MS					| Nutcracker oesophagus
 Parkinson's disease	| Diffuse oesophageal spasm
-Muscular dystrophy	|
+Muscular dystrophy	| --
 
-### Mechanical
+### Mechanical (11)
+
 						|						|
 ------------------------|-----------------------|
 Pharyngeal pouch		| Goitre
@@ -462,7 +481,7 @@ Oropharyngeal tumour	| Stomach CA
 Tonsillitis				| Lung CA
 Oesophageal CA			| Thoracic aneurysm
 Oesophageal Web			| Post-op stricture
-Oesophageal Bar/Ring	|
+Oesophageal Bar/Ring	| --
 
 ## Causes of Upper GI Bleeding
 							|												|
@@ -475,7 +494,7 @@ Varices						|
 
 ## Risk Factors for Gastric Carcinoma (9)
 
-- Dietary – nitrates, salt, vitamin deficiency (A, C, E)
+- Dietary: nitrates, salt, vitamin deficiency (A, C, E)
 - _Helicobacter pylori_
 - Pernicious anaemia
 - Previous gastric surgery
@@ -485,7 +504,8 @@ Varices						|
 - Japanese
 - Male
 
-## Alarm Symptoms in Upper GI Malignancy
+## Alarm Symptoms in Upper GI Malignancy (12)
+
 								|							|
 --------------------------------|---------------------------|
 Persistent Dyspepsia >45 years 	| Unintentional weight loss
@@ -495,7 +515,8 @@ Iron-deficiency anaemia			| Suspicious barium meal
 GI bleed						| Epigastric mass
 NSAID use						| Epigastric pain → admission
 
-## Late Complications of Gastric Surgery
+## Late Complications of Gastric Surgery (10)
+
 				|										|
 ----------------|---------------------------------------|
 Diarrhoea		| Dumping (_early_ and _late_)
@@ -504,9 +525,10 @@ Malnutrition	| Bezoar
 Malignancy		| Gastric outlet obstruction
 Early satiety	| Gall stones
 
-## Complications of Stomas
+## Complications of Stomas (2)
 
 ### Local (12)
+
 					|										|
 --------------------|---------------------------------------|
 Ischaemia/necrosis	| Spillage to efferent loop
@@ -517,34 +539,37 @@ Parastomal hernia	| Flatus/odour
 Intussusception		| Granulomata
 
 ### Systemic (7)
+
 						|						|
 ------------------------|-----------------------|
 Nutritional disorders	| Diarrhoea
 Kidney stones			| Psychological/sexual
 Gall stones				| Social
-Short gut syndrome		|
+Short gut syndrome		| --
 
-## Differentiating Stomas
+## Differentiating Stomas (5 x 2)
 
-Criteria 	| Ileostomy 			| Colostomy 			|
-------------|-----------------------|-----------------------|
-Site		| RIF 					| LIF
-Surface		| Spout 				| Flush
-Content		| Watery 				| Faeces
-Permanent	| Panproctocolectomy 	| AP resection
-Temporary	| Loop ileostomy 		| Hartmann's Procedure
+Criteria 	| Ileostomy 							| Colostomy 			|
+------------|---------------------------------------|-----------------------|
+Site		| RIF 									| LIF
+Surface		| Spout 								| Flush
+Content		| Watery 								| Faeces
+Permanent	| Panproctocolectomy 					| AP resection
+Temporary	| Loop ileostomy (*anterior resection*)	| Hartmann's Procedure
 
-## Paralytic Ileus
+## Paralytic Ileus (2)
 
-### Local
+### Local (7)
+
 				|									|
 ----------------|-----------------------------------|
 Post-operative	| Retroperitoneal haematoma
 Peritonitis		| Mesenteric ischaemic/infarction
 Abscess			| Abdominal trauma
-Pancreatitis	|
+Pancreatitis	| --
 
-### Systemic
+### Systemic (10)
+
 				|				|
 ----------------|---------------|
 Pneumonia		| Uraemia
@@ -553,7 +578,8 @@ HyPERcalcaemia	| Burns
 HyPOkalaemia	| Sepsis
 Jaundice		| Opioids
 
-## Intestinal Fistula
+## Intestinal Fistula (8)
+
 						|				|
 ------------------------|---------------|
 Anastomotic leakage 	| Post-operative
@@ -563,11 +589,11 @@ Carcinoma				| Traumatic
 
 ## Obstruction
 
-### Functional
+### Functional (2)
 1. Paralytic ileus
 2. Pseudo-obstruction
 
-### Mechanical – Small Bowel
+### Mechanical – Small Bowel (3, 10)
 1. Luminal	
 	- Gallstone ileus
 	- Helminths
@@ -582,7 +608,7 @@ Carcinoma				| Traumatic
 	- Hernia
 	- Volvulus
 
-### Mechanical – Large Bowel
+### Mechanical – Large Bowel (3, 6)
 1. Luminal
 	- Constipation
 2. Mural
@@ -593,7 +619,8 @@ Carcinoma				| Traumatic
 3. Extra-mural
 	- Volvulus
 
-## Associated with Familial Adenomatous Polyposis (FAP)
+## Associated with Familial Adenomatous Polyposis (FAP; 8)
+
 						|									|
 ------------------------|-----------------------------------|
 Dental cysts 			| Colorectal polyps/CA
@@ -614,12 +641,13 @@ Jaw osteomas			| Hamartomatous polyps of the Stomach
 Stage 	| Description 							| Rectal	| Colon	|
 --------|---------------------------------------|-----------|-------|
 A 		| Confined to wall 						| 90 		| 90
-B		| Through the wall but LN NEG			| 65		| 65
+B		| Through the wall but Node NEG			| 65		| 65
 C1		| LN POSITIVE but **not** apical node	| 40		| 35
-C2		| LN POSITIVE and also apical node		| 25		| –
+C2		| LN POSITIVE and also apical node		| 25		| --
 D		| Metastasis							| 15		| <5
 
-## Risk Factors for Colorectal Cancer
+## Risk Factors for Colorectal Cancer (8)
+
 						| 								|
 ------------------------|-------------------------------|
 IBD > 10 years			| HNPCC
@@ -627,16 +655,17 @@ Ureterosigmoidostomy	| FAP inc. Gardener's syndrome
 Gastric surgery			| Turcot's syndrome
 Low-fibre diet			| Canada-Cronkhite syndrome
 
-## Features of Colorectal Carcinoma
-						| 								|
-------------------------|-------------------------------|
+## Features of Colorectal Carcinoma (9)
+
+						| 									|
+------------------------|-----------------------------------|
 Change in bowel habit	| Iron-deficiency anaemia
 PR bleeding/mucus		| Abdominal distension/obstruction
 Tenesmus				| Abdominal mass
 Fistula					| Perforation
-Rectal mass				|
+Rectal mass				| --
 
-## Distribution of Colorectal Cancer
+## Distribution of Colorectal Cancer (6)
 
 Location 	| Incidence |
 ------------|:---------:|
@@ -647,15 +676,15 @@ Descending	| 10%
 Transverse	| 10%
 Ascending	| 5%
 
-## Extra-Intestinal Features of Inflammatory Bowel Disease (IBD)
+## Extra-Intestinal Features of Inflammatory Bowel Disease (IBD; 2)
 
-### Related to Disease Activity
+### Related to Disease Activity (4)
 - Pyoderma gangrenosum
 - Erythema nodosum
 - Aphthous ulcer
 - Arthropathy/arthritis
 
-### Unrelated to Disease Activity
+### Unrelated to Disease Activity (9)
 - Sacroilitis/Ankylosing spondylitis
 - Fatty liver/Cirrhosis
 - Chronic active hepatitis
@@ -666,7 +695,8 @@ Ascending	| 5%
 - Clubbing
 - Conjunctivitis/Uveitis/Episcleritis
 
-## Associated with Pyoderma Gangrenosum
+## Associated with Pyoderma Gangrenosum (10)
+
 						|						|	
 ------------------------|-----------------------|
 Ulcerative colitis		| PRV
@@ -675,23 +705,26 @@ PAN						| Autoimmune hepatitis
 Idiopathic				| Leukaemia
 IgA paraproteinaemia 	| SLE/RA
 
-## Barium Enema Features of Inflammatory Bowel Disease (IBD)
+## Barium Enema Features of Inflammatory Bowel Disease (IBD; 2)
 
-### Crohn's Disease
+### Crohn's Disease (6)
+
 				|					|
 ----------------|-------------------|
 Skip lesions	| Rosethorn ulcers
 Fistulae		| Cobblestoning
 Strictures		| String sign
 
-### Ulcerative Colitis
+### Ulcerative Colitis (5)
+
 					|					|
 --------------------|-------------------|
 Pseudopolyps		| Hose piping
 Lost of haustrae	| Shortened colon
-Ulceration
+Ulceration			| --
 
 ## Indications for Surgery in IBD (11)
+
 							|								|
 ----------------------------|-------------------------------|
 Toxic megacolon				| Intra-abdominal abscess
@@ -702,6 +735,7 @@ Recurrent exacerbations		| Failed medical treatment
 Stricture					|
 
 ## Complications of Diverticular Disease (6)
+
 			|					|
 ------------|-------------------|
 Phlegmon	| Perforation
@@ -721,7 +755,7 @@ Radiation proctitis					| Rheumatoid arthritis
 Ischaemic colitis					| Endometriosis
 Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 
-## Meckel's Diverticulum (_Rule of 2s_)
+## Meckel's Diverticulum (_Rule of 2s_; 6)
 - Twice as common in males (M:F = 2:1)
 - Asymptomatic before 2 years of age
 - 2% of the population
@@ -729,9 +763,60 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 - 2 feet proximal to Ileocaecal Valve
 - 2 types of tissue (Gastric & Pancreatic)
 
-## Caused of Cirrhosis (17) - HERE
+## Caused of Cirrhosis (17)
 
-## Caused of Hepatomegaly - HERE
+										|									|
+----------------------------------------|-----------------------------------|
+Crytogenic (30%)						| Primary Biliary Cirrhosis (PBC)
+Alcohol (25%)							| Secondary hepatic fibrosis
+Chronic active Hepatitis (Hep B+C)		| Sarcoidosis
+Autoimmune hepatitis					| A1 Anti-typsin deficiency
+Drugs e.g. methotrexate, isoniaszid		| Galactosaemia
+Wilson's disease						| Glycogen storage diseases
+Haemochromatosis						| Vitamin A toxicity
+Post-hepatic obstruction (see below)	| Cystic Fibrosis (CF)
+Hepatic vein obstruction				| --
+
+## Caused of Hepatomegaly (5)
+
+### Infective (9)
+
+							|					|
+----------------------------|-------------------|
+Hepatitis B+C				| Liver abscess
+Epstein-Barr virus (EBV)	| Malaria
+Cytomegalovirus (CMV)		| Hydatid disease
+Tuberculosis (TB)			| Schistosomiasis
+Weil's disease				| --
+
+### Obstructive (4)
+
+			|							|
+------------|---------------------------|
+Gall stones	| Pancreatic cancer
+Stricture	| Acute/chronic pancreatitis
+
+### Depositional (4)
+
+					|				|
+--------------------|---------------|
+Wilson's Disease	| Amyloid
+Haemachromatosis	| Fatty liver
+
+### Congestive (2)
+
+		|						|
+--------|-----------------------|
+CCF/TR	| Budd-Chiari syndrome
+
+### Other (9)
+
+					|									|
+--------------------|-----------------------------------|
+Cirrhosis			| Reidel's lobe
+COPD				| Reticulosis
+Liver CA/metastases	| Lympho/Myeloproliferative Disease
+Lymphoma			| --
 
 ## Risk Factors for Hepatocellular Carcinoma
 - Cirrhosis (_see above_)
@@ -739,38 +824,71 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 - Aflatoxin (_Aspergillus flavus_)
 - Alpha-1 Anti-Trypsin (A1AT) deficiency
 
-## Causes of Ascites
+## Causes of Ascites (5)
 
-### Raised Portal Venous Pressure
-### HyPOproteinaemia
-### Peritonitis
-### Chylous
-### Endocrine
+### Elevated Portal Venous Pressure (8)
+
+						|							|
+------------------------|---------------------------|
+Portal vein thrombosis	| Budd-Chiari syndrome
+Lymphadenopathy			| Constrictive pericarditis
+Cirrhosis				| CCF/TR
+Metastasis				| Pulmonary hypertension
+
+### HyPOproteinaemia (5)
+
+				|								|
+----------------|-------------------------------|
+Renal failure	| Cachexia
+Liver failure	| Protein-losing enteropathy
+Cardiac failure	| --
+
+### Peritonitis (8)
+
+						|					|
+------------------------|-------------------|
+Post-irradiation		| Carcinomatosis
+Bacterial peritonitis	| Pseudomyxoma
+Tuberculous peritonitis	| Uraemia
+Pancreatitis			| Talc granulomas
+
+### Chylous (4)
+
+					|							|
+--------------------|---------------------------|
+Trauma				| Congenital abnormality
+Lymphatic disease	| Thoracic duct obstruction
+
+### Endocrine (2)
+
+					|					|
+--------------------|-------------------|
+HyPERaldosteronism	| HyPOthyroidism
 
 ## Causes of Jaundice - HERE
 
-### Pre-Hepatic
-### Congenital
-### Hepatic
-### Infective
-### Drugs
-### Post-Hepatic
+### Pre-Hepatic (3)
+### Congenital (4)
+### Hepatic (8)
+### Infective (8)
+### Drugs (12)
+### Post-Hepatic (11)
 
 ## Caused of Portal Hypertension
 
-### Pre-Hepatic
+### Pre-Hepatic (5)
 1. Portal/splenic vein thrombosis
 2. A-V fistula
 3. Congenital malformation
 4. Splenomegaly
 5. Tumour
 
-### Intra-Hepatic
+### Intra-Hepatic (3)
 1. Cirrhosis (_see above_)
 2. Schistosomiasis
 3. Polycystic disease
 
-### Post-Hepatic
+### Post-Hepatic (6)
 1. Budd-Chiari syndrome
 2. Veno-occlusive disease
 3. Caval obstruction
@@ -778,7 +896,7 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 5. Constrictive pericarditis
 6. CCF/TR
 
-## Indications for TIPS (4)
+## Indications for (???) TIPS (4) - TODO
 - Uncontrolled acute variceal haemorrhage
 - Failed endoscopic treatment
 - Awaiting liver transplant
@@ -792,36 +910,36 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 - Hepatic encephalopathy
 - Exsanguination
 
-## Causes of Spenomegaly
+## Causes of Spenomegaly (9)
 
-1. Bacterial
+1. Bacterial (6)
 	- Typhoid
 	- TB
 	- Septicaemia
 	- Leptospirosis
 	- Syphilis
 	- Brucella
-2. Viral
+2. Viral (4)
 	- Hepatitis A–E
 	- EBV
 	- CMV
 	- HIV
-3. Protozoan
+3. Protozoan (3)
 	- Malaria
 	- Visceral leishmaniasis (VL; kala-azar)
 	- Hydatid disease 
-3. Deposition
+3. Deposition (5)
 	- Amyloid
 	- Gaucher's disease
 	- Felty's disease
 	- Still's disease
 	- Sarcoid
-5. Congestion
+5. Congestion (4)
 	- CCF
 	- Hepatic vein obstruction
 	- Portal hypertension
 	- Cirrhosis
-6. Haematological
+6. Haematological (8)
 	- Leukaemia
 	- Lymphoma
 	- Pernicious anaemia
@@ -830,11 +948,11 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 	- Spherocytosis
 	- ITP
 	- Sickle cell disease
-7. Infarction
+7. Infarction (3)
 	- Bacterial endocarditis
 	- Atrial fibrillation
 	- Mural thrombus post-MI
-8. Solitary
+8. Solitary (3)
 	- Cystic disease
 	- Lymphosarcoma
 	- Angioma
@@ -857,16 +975,7 @@ Immune: ITP, Haemolytic anaemia			| Hairy cell leukaemia/CML
 Congenital: Elliptosis, Spherocytosis	| Part of solid tumour resection
 Splenic vein thrombosis					| Thalassaemia
 Gaucher's disease						| Splenic abscess/Cyst
-Myelofibrosis							|
-
-- Baterial: typhoid, TB,septicaemia, leptospirosis, syphilis, brucella
-- Viral:
-- Protozoan: 
-- Deposition:
-- Congestion:
-- Haematological:
-- Infarction:
-- Solitary:
+Myelofibrosis							| --
 
 ## Causes of Acute Pancreatitis (10)
 - Gall stones
@@ -880,26 +989,21 @@ Myelofibrosis							|
 - Infective: CMV, Mumps, Coxsackie
 - Congenital: CF, harmochromatosis, cystic disease, pancreas divisum
 
-## Lump in Groin/Iliac Fossa
-- Inguinal hernia
-- Femoral hermia
-- Obturator hernia
-- Transplanted kidney
-- Ectopic testes
-- Sebaceous cyst
-- Lipoma
-- Tuberculosis of the Ileum
-- Appendiceal mass/abscess
-- Saphena varix
-- Femoral artery aneurysm
-- Enlarged lymph node
-- Sarcoma
-- Psoas abscess
-- Psoas bursitis
-- Caecal Ca
-- Bladder diverticulum
+## Lump in Groin/Iliac Fossa (17)
 
-## Umbilical Hernia ("3s")
+							|							|
+----------------------------|---------------------------|
+Inguinal hernia				| Saphena varix
+Femoral hermia 				| Femoral artery aneurysm
+Obturator hernia			| Enlarged lymph node
+Transplanted kidney			| Sarcoma
+Ectopic testes				| Psoas abscess
+Sebaceous cyst				| Psoas bursitis
+Lipoma						| Caecal Cancer (CCa)
+Tuberculosis of the Ileum	| Bladder diverticulum
+Appendiceal mass/abscess	| --
+
+## Umbilical Hernia ("3s+2")
 - 3% of live births
 - Operate at &ge; 3 years old
 - 0.3% need surgical repair
@@ -908,31 +1012,30 @@ Myelofibrosis							|
 
 ## Contents of Inguinal Canal (9)
 
-### Arteries
+### Arteries (3)
 1. Artery to the Vas
 2. Testicular Artery
 3. Cremasteric Artery
 
-### Nerves
+### Nerves (3)
 1. Ilioinguinal Nerve
 2. Genital Nerve
 3. Symapthetic Nerve
 
-### 3 Others
+### 3 Others (3)
 1. Vas/Round ligament
 2. Pampiniform plexus
 3. Lymphatics
 
 ## Pre-Disposing Factors for UTI (9)
-- Urinary obstruction
-- Diabetes
-- Pregnancy
-- Congenital anomalies
-- Female
-- Instrumentation/catheterisation
-- Extremes of age
-- Calculi
-- Constipation
+
+						|									|
+------------------------|-----------------------------------|
+Urinary obstruction		| Instrumentation/catheterisation	|
+Diabetes				| Extremes of age
+Pregnancy				| Calculi
+Congenital anomalies	| Constipation
+Female					| --
 
 ## Renal Stones (8)
 
@@ -966,19 +1069,19 @@ Renal Cell Cancer (RCC)			| Diabetes Mellitus (DM)
 Hypertrophy of single kidney	| Amyloidosis
 Horseshoe kidney				| Systemic Lupus Erythematosus (SLE)
 
-## Complications of TURP
+## Complications of TURP (3)
 
-### Immediate
+### Immediate (3)
 - Haemorrhage
 - Sepsis
 - TURP syndrome (1%)
 
-### Early
+### Early (3)
 - Secondary haemorrhage
 - Sepsis
 - Clot retention (1%)
 
-### Late
+### Late (4)
 - Stricture
 - Incontinence (1%)
 - Erectile dysfunction (20%)
@@ -992,13 +1095,13 @@ Horseshoe kidney				| Systemic Lupus Erythematosus (SLE)
 - Secondary (tumour, torsion, trauma, orchitis, post-op)
 
 ## Indications for Circumcision (7)
-- Phimosis
-- Paraphimosis
-- Recurrent balanitis
-- Xerotica Balanitis Obliterans (BXO)
-- Penile CA
-- Recurrent UTIs
-- Religious reasons
+
+ 									|					|
+------------------------------------|-------------------|
+Phimosis							| Penile CA
+Paraphimosis						| Recurrent UTIs
+Recurrent balanitis					| Religious reasons
+Balanitis Xerotica Obliterans (BXO) | --
 
 ## Common Congenital Urinary Abnormalities (6)
 - Horseshoe Kidney
