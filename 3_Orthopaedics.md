@@ -3,17 +3,77 @@ Essential Lists: 3 Orthopaedics and Neurology
 
 ## States of Fracture Healing (5)
 
+\#	| Stage 		| Description
+----|---------------|-------------
+1	| Immediate		| Tissue death and haematoma formation from torn blood vessels and AVN
+2	| Reactive		| Inflammation and cellular proliferation with bridging of fracture site
+	|				| - there is also angiogenesis with haematoma resorption
+3	| Regeneration	| Reaction of chondrocytes and osteocytes to form *woven* bone
+	|				| - providing anchorage but with little tensile strength (*callus*)
+4	| Consolidation	| Appearance of osteoblasts and osteoclasts leading to *lamellar* bone formation
+5	| Remodelling	| Repair of site to normal bone density with improvement in alignment & strength
+	|				| - and restoration of medullary cavity
+
 ## Osteoporosis (2)
 
-### Primary
-### Secondary
+### Primary (3)
+- Post-menopausal
+- Idiopathic
+- Familial
+
+### Secondary (4)
+
+Class		| Description																	|
+------------|-------------------------------------------------------------------------------|
+Endocrine	| Addison's Dx, Cushing's Dx, HyPERparathyroidism, Thyroid Dx, DM, HyPOgonadism
+Neoplasm	| Pituitary tumour, Myeloma, Carcinomatosis
+Drugs		| Steroids, Heparin, Chemmotherapy, Antiepileptics
+Dietary		| Vitamin C+D deficiency, Malnutrition, Alcoholism, Malabsorbtion
 
 ## Complications of Fractures (2)
 
 ### Early (16)
+
+Local					| General										|
+------------------------|-----------------------------------------------|
+Neurovascular injury 	| DIC
+Visceral injury			| Hypovolaemic shock
+Haematoma				| Crush injury
+Infection				| Atelectasis
+Soft-tissue injury		| Systemic Inflammatory Response Syndrome (SIRS)
+Skin loss				| Fat embolism
+Compartment syndrome	| --
+
 ### Late (27)
 
+Local					| General										|
+------------------------|-----------------------------------------------|
+Delayed	union			| Deep Vein Thrombosis (DVT)
+Malunion				| Pulmonary Embolism (PE)
+Non-union				| Urinary Tract Infection (UTI)
+Joint stiffness			| Respiratory Tract Infection (RTI)
+Osteoarthritis of Joint	| Disuse atrophy
+Synostosis				| Renal stones
+Subluxation/dislocation	| Osteoporosis
+Skin necrosis			| Psychological
+Pressure sore			| Economic
+Contracture				|
+Re-fracture				|
+Avascular necrosis		| 
+Sudeck's atrophy (RSD)	|
+Myositis ossificans		|
+Tendon rupture			|
+Osteomyelitis			|
+Pseudoaneurysm			|
+
 ## Poor Healing in Bone (7)
+1. Infection
+2. Inadequate immobilisation
+3. Diabetes Mellitus (DM)
+4. Displacement
+5. Poor blood supply
+6. Dietary deficiency of CA++, PO4-, vitamin D
+7. Comminuted fracture
 
 ## Types of Fracture (4)
 1. Traumatic/Stress/Pathological
@@ -28,7 +88,7 @@ Essential Lists: 3 Orthopaedics and Neurology
 4. Rehabilitate
 5. Rigid (*hold*)
 
-## Blood Loss with Factures
+## Blood Loss with Fractures
 
 Bone	| Blood Loss (L)	|
 --------|-------------------|
@@ -37,10 +97,9 @@ Femur	| 1-2.5
 Tibia	| 0.5-1.5
 Humerus	| 0.5-1.5
 
+## Internal vs External Fixation (2)
 
-## Internal vs External Fixation
-
-### Internal Fixation
+### Internal Fixation (7)
 
 Advantages 			| Disadvantages			|	
 --------------------|-----------------------|
@@ -49,7 +108,7 @@ Precise				| Expensive
 **L** Pain			| Soft-tissue damage
 --					| Infection
 
-### External Fixation
+### External Fixation (11)
 
 Advantages 			| Disadvantages			|	
 --------------------|-----------------------|
@@ -60,7 +119,7 @@ Re-usable			| Compliant patient
 Versatile			| More aftercare
 Open fractures		| --
 
-## Gustilo-Anderson Classification of Open Fracture
+## Gustilo-Anderson Classification of Open Fracture (6)
 
 Class	| Wound								| Description								|
 --------|-----------------------------------|-------------------------------------------|
@@ -71,7 +130,7 @@ III		| Extensive soft-tissue injury		| Comminution or contamination
 - (b)	| Extensive soft-tissue damage		| Contaminates require local/free flap
 - (c)	| Arterial injury requiring repair	| --
 
-## Salter-Harris Classification
+## Salter-Harris Classification (5)
 
 Class	| Description								|
 --------|-------------------------------------------|
@@ -83,70 +142,152 @@ V		| Crushing of growth plate
 
 ## Bone Tumours
 
-Location	| Benign					| Malignant			|
-------------|---------------------------|-------------------|
-Bone		| Osteoid osteoma (osteoma)	| Osteosarcoma
-			| Osteoblastoma				| --
-Cartilage	| Chondroblastoma			| --
-			| Osetochondroma			| Chondreosarcoma
-Fibrous		| Fibroma					| Fibrosarcoma
-			| Fibrous dysplasia			| --
-Vessel		| Angioma					| Angiosarcoma
-Marrow		| --						| Myeloma
-			| --						| Ewing's sarcoma
-Other		| Giant cell tumour			| --
-			| Brown tumour				| --
+Location	| Benign						| Malignant			|
+------------|-------------------------------|-------------------|
+Bone		| Osteoid osteoma (*osteoma*)	| Osteosarcoma
+			| Osteoblastoma					| --
+Cartilage	| Chondroblastoma				| --
+			| Osetochondroma				| Chondreosarcoma
+Fibrous		| Fibroma						| Fibrosarcoma
+			| Fibrous dysplasia				| --
+Vessel		| Angioma						| Angiosarcoma
+Marrow		| --							| Myeloma
+			| --							| Ewing's sarcoma
+Other		| Giant cell tumour				| --
+			| Brown tumour					| --
 
-## Arthritides  (RA vs OA)
+## Arthritides  (RA vs OA; 11 x 2)
 
-Criteria	| Rheumatoid	| Osteoarthritis	|
-------------|---------------|-------------------|
-Worse
-Relieved by
-Morning stiffness
-Medication
-History
+Criteria			| Rheumatoid			| Osteoarthritis		|
+--------------------|-----------------------|-----------------------|
+Worse				| Mane					| Nocte
+Relieved by			| Exercise				| Rest
+Morning stiffness	| > 30 min				| < 30 min
+Medication			| NSAIDs				| Simple analgesia
+History				| Family Hx				| Hx of Trauma
+					| Systemic effects		| Occupational
+ESR/CRP				| +						| -
+Anaemia				| +						| - 
+Synovial Fluid		| Inflammatory			| NON-inflammatory
+Extra-Articular		| Present in 20%		| Absent
+X-ray findings 		| Peri-articular		| Peri-articular
+					| Osteoporosis			| Osteophytes
+					| Loss of joint-space	| Loss of joint-space
+					| Subchondral cysts		| Subchondral sclerosis
+					| Erosions				| --
+On Examination		| Subluxation			| Heberden's nodes
+					| Soft-tissue swelling	| Bouchard's nodes
+					| Boutonniere deformity	| --
+					| Swan sign				| --
+					| Z deformity			| --
 
-ESR/CRP
-Anaemia
-Synovial Fluid
-Extra-Articular
-X-ray findings 	|
+## Extra-Articular Disease in Rheumatoid Arthritis (4)
 
+Location			| Disease																							|
+--------------------|---------------------------------------------------------------------------------------------------|
+Eyes				| Sjorgen's syndrome, cataracts, episcleritis
+Chest				| Pericarditis, effusions, lung granuloma, fibrosing aleolitis, nodules, bronchiolitis obliterans
+Autoimmune Disease	| Graves' disease, Addison's disease, myasthenia gravis, vitiligo
+General				| Ly,phadenopathy, splenomegaly (Felty's), Carpal Tunnel Syndrome (CTS), vasculitis
 
+## Dupuytren's Contracture (12)
+1. Familial (AD)
+2. Idiopathic
+3. Age
+4. Occupational
+5. Trauma
+6. Cirrhosis
+7. Alcohol
+8. Smoking
+9. Diabetes Mellitus (DM)
+10. Pheytoin
+11. Peyronie's disease
+12. HIV
 
+## Dupuytren's Affects in Order (5)
+1. Ring
+2. *Little*
+3. Middle
+4. Index
+5. Thumb
 
-On Examination	| Subluxation
-				| Soft-tissue swelling
-				| Boutonniere deformity
-				| Swan sign
-				| Z deformity
+## Colles' Fracture (9)
 
-## Extra-Articular Disease in Rheumatoid Arthritis
+					|								|
+--------------------|-------------------------------|
+Pathological		| Dorsal displacement
+Within 1in of wrist	| Radial displacement
+Extra-articular		| Dorsal angulation
+Shortened			| ± Fracture of Ulnar-Styloid
+Impacted			| --
 
-## Dupuytren's Contracture
+## Classification of Ankle Fracture - Weber (3)
 
-## Dupuytren's Affects in Order
+Class	| Description								|
+--------|-------------------------------------------|
+A		| Below syndesmosis (transverse)
+B		| At syndesmosis (spiral or oblique)
+C		| Above syndesmosis (syndesmotic injury)
 
-## Colles' Fracture
+## Classification of Hip Fracture - Garden (4)
 
-## Classification of Ankle Fracture - Weber
+Class	| Fracture	| Displacement 							|
+--------|-----------|---------------------------------------|
+I		| IMPACTED	| Undisplaced and incomplete (1 cortex)
+II		| COMPLETE	| Undisplaced (BOTH cortices)
+III		| COMPLETE	| Partial displacement
+IV		| COMPLETE	| Complete displacement
 
-## Classification of Hip Fracture - Garden
+## Complications of Total Hip Replacement (THR; 12)
 
-## Complications of Total Hip Replacement (THR)
+1									| 2								|
+------------------------------------|-------------------------------|
+Perforation/Fracture of Acetabulum	| Deep Vein Thrombosis (DVT)
+Recurrent dislocation				| Infection
+Sciatic Nerve injury				| Fat embolus
+Loosening							| Heterotrophic calcification
+Periprosthetic fracture				| Thigh pain
+Leg-length discrepancy				| Gait problems
 
-## Causes of Limping in a Child
+## Causes of Limping in a Child (5)
+1. Irritable hip
+2. Perthes' disease
+3. Fracture
+4. Slipped upper femoral epiphysis (SUFE)
+5. Septic arthritis
 
 ## Gait Types
 
+Gait			| Cause					| Symptoms						|
+----------------|-----------------------|-------------------------------|
+Antalgic		| Pain					| **H** Swing phase
+Trendelenberg	| Weak abductors		| 'Hip dip'
+Parkinsonian	| Parkinson's disease	| Shuffling/festinate
+Broad bases		| Cerebellar			| Lurches to one side
+Short leg		| Previous #, Cogenital	| Hip drops
+High-stepping	| Foot drop				| No heel strike
+Spastic			| UMN lesion			| Jerky
+Waddling		| Proximal myopathy		| Shifting from side to side
+
 ## Causes of Locked Knee
+- Meniscal tear/Discoid meniscus
+- Synovial chondromatosis
+- Cruciate ligament injury
+- Femoral condyle dysplasia (*child*)
+- Loose body
+- Osteocondritis dessicans (*young child*)
+- Fracture
+- Intra-articular tumour (*elderly*)
 
 ## Types of Intracranial Haematoma
+- Extradural: 		Direct trauma with fracture especially temporal and parietal lobes (*arterial*)
+- Subdural: 		Sheer force tears bridging veins (acute/chronic)
+- Subarachnoid:		Arterial rupture from Berry aneurysm or AVM
+- Intracerebral:	Direct trauma or 2º to Diabetes Mellitus (DM), Hypertension or Trauma
 
 ## Skull Foramina (9) - Mnemonic? TODO - LEARN
 
-Foramina					| Contents 	            	|   	| 
+Foramina					| Contents 	            	| CN  	| 
 ----------------------------|---------------------------|-------|
 Optic Canal					| Optic Nerve             	| II
 							| Ophthalamic Artery      	| --
@@ -191,19 +332,20 @@ Lacerum						| Internal Carotid Artery 	| –
 - **H** Blood Pressure (BP)
 
 ## Causes of Reduced Glasgow Coma Scale (GCS) (11)
-					|						|
-------------------|--------------------|
+
+1				| 2				|
+----------------|---------------|
 Head injury		| Opiates/BZD
-Alcohol				| Poisons
+Alcohol			| Poisons
 Psychiatric		| Infection
-Uraemia				| Ketosis
-Epilepsy			| Shock
-Hypoxia				|
+Uraemia			| Ketosis
+Epilepsy		| Shock
+Hypoxia			| --
 
+## Causes of Carpal Tunnel Syndrome (18)
 
-## Causes of Carpal Tunnel Syndrome
-					| 						|
-------------------|--------------------|
+1					| 2						|
+--------------------|-----------------------|
 Idiopathic			| Menopause
 Occupation			| Pregnancy/OCP
 Trauma				| HyPOthyroidism
@@ -216,21 +358,30 @@ Tuberculosis (TB)	| Rheumatoid Arthritis
 
 ## Nerve Injury Classification (3 groups)
 
-### Neuropraxia: recovery hours/days
-- Disruption of conduction due to segment demyelination
-- No wallerian degeneration
-- Usually 2º to blunt trauma/compression
+### Neuropraxia
 
-### Axonotmesis: recovery weeks/months
-- Disruption of axon with distal wallerian degeneration **but** an intact endoneurium
-- Regrowth is at 1 mm/day
-- Usually 2º to blunt trauma/crush injury
+Recovery	| Description											|
+------------|-------------------------------------------------------|
+Hours/days	| Disruption of conduction due to segment demyelination
+			| No wallerian degeneration
+			| Usually 2º to blunt trauma/compression
 
-### Neurotmesis (_often permanent_)
-- Disruption of nerve sheaths and axons i.e. completer neurone disruption
-- Proximal chromatolysis
-- Limited regeneration without surgical intervention
-- Usually 2º to stab injury
+### Axonotmesis
+
+Recovery 		| Description																			|
+----------------|---------------------------------------------------------------------------------------|
+Weeks/months	| Disruption of axon with distal wallerian degeneration **but** an intact endoneurium
+				| Regrowth is at 1 mm/day
+				| Usually 2º to blunt trauma/crush injury
+
+### Neurotmesis 
+
+Recovery			| Description																|
+--------------------|---------------------------------------------------------------------------|
+*often permanent*	| Disruption of nerve sheaths and axons i.e. completer neurone disruption
+					| Proximal chromatolysis
+					| Limited regeneration without surgical intervention
+					| Usually 2º to stab injury
 
 ## Features of Tibial Nerve Injuries (5)
 - Paralysis of Ankle & Toe flexion with toe clawing
@@ -245,9 +396,10 @@ Tuberculosis (TB)	| Rheumatoid Arthritis
 - High-stepping gait to clear ground
 - Normal-looking foot 
 
-## Reflexes
-					|				|
-------------------|:-----------:|
+## Reflexes - LEARN
+				
+Reflex				| Innervation	|
+--------------------|:-------------:|
 Biceps 				| C5/6
 Brachioradialis 	| C6
 Triceps 			| C7

@@ -1,10 +1,9 @@
 Essential Lists: 4 Cardiovascular
 =================================
 
-7 pages
-
 ## Risk Factors for Atheromatous Disease (10)
-					|								|
+
+1					| 2								|
 --------------------|-------------------------------|
 Age					| **H** Triglyceride/Cholesterol
 Male				| Fatty diet
@@ -14,17 +13,18 @@ Diabetes Mellitus	| HyPERcoagulability
 HyPERtension		| Stimulant abuse
 
 ## Features of Acutely Ischaemic Limb (6Ps)
+
 					|						|
 --------------------|-----------------------|
 **P**aralysis 		|	**P**ulseless
 **P**araesthesia	|	**P**ale
 **P**ainful			|	**P**erishlying Cold
 
-## Causes of Post-Operative HyPERtension
+## Causes of Post-Operative HyPERtension (7)
 
-					|									|
---------------------|-----------------------------------|
-Pain				| Pre-opertative HyPERtension
+1					| 2											|
+--------------------|-------------------------------------------|
+Pain				| Pre-opertative HyPERtension (*see below*)
 Urinary retention	| Inotropes
 HyPERcapnoea		| Withdrawal of normal medication
 Hypoxia				|
@@ -33,14 +33,16 @@ Hypoxia				|
 
 ### Essential (90%)
 ### Renovascular
-							|							|
+
+1							| 2							|
 ----------------------------|---------------------------|
 Chronic renal failure (CRF) | Co-arctation of the Aorta	|
 Renal artery stenosis		| Renin secreting tumours	|
 Glomerular nephritis		| Pre-eclampsia				|
 
 ### Endocrine
-							|							|
+
+1							| 2							|
 ----------------------------|---------------------------|
 HyPER/HyPOthroidism			| Acromegaly
 Phaeochromocytoma			| Conn's syndrome
@@ -48,7 +50,8 @@ HyPERparathyroidism			| Oral Contraceptive Pill (OCP)
 Cushing's syndrome			|
 
 ## Causes of Aneurysms (8)
-													|			|
+
+1													| 2			|
 ----------------------------------------------------|-----------|
 Age-related degeneration 							| Atheroma
 Inflammatory 										| Traumatic
@@ -56,14 +59,16 @@ Congenital e.g. Berry aneurysm						| Syphilitic
 Connective tissue disease (Marfan's, Ehlers-Danlos)	| Mycotic
 
 ## Complications of Aneurysmal Disease (6)
-			|					|
+
+1			| 2					|
 ------------|-------------------|
 Rupture 	| Thrombosis
 Embolism	| Dissection
 Ischaemia	| Pressure effects
 
 ## Complications of Aortic Surgery (13)
-							|												|
+
+1							| 2												|
 ----------------------------|-----------------------------------------------|
 Haemorrhage					| Spinal ischaemia
 Stroke						| Coloni ischaemia
@@ -71,9 +76,9 @@ Myocardial infarction (MI)	| Disseminated Intravascular Coagulopathy (DIC)
 Renal failure				| ARDS
 Graft thrombosis			| False aneurysm
 Graft infection				| Aorto-enteric fistula
-Distal embolism 			| –
+Distal embolism 			| --
 
-## Congenital Cardiac Defects
+## Congenital Cardiac Defects (7)
 
 Type of Shunt 	| Cyanosis 	| Causes								|
 ----------------|-----------|---------------------------------------|
@@ -86,14 +91,14 @@ LEFT-to-RIGHT 	| **Late**	| Ventricular Septal Defect (VSD)
 				|			| Patent Ductus Arteriosus (PDA)
 
 ## Tetralogy of Fallot (ToF; 4)
-
 - Pulmonary stenosis
 - Overriding aorta
 - Right Ventricular Hypertrophy (RVH)
 - Ventricular Septal Defect (VSD)
 
 ## Causes of Atrial Fibrillation (AF; 20)
-								|							|
+
+1								| 2							|
 --------------------------------|---------------------------|
 'Lone'							| Post-cardiac surgery
 Ischaemic Heart Disease	(IHD)	| Pulmonary Embolism (PE)
@@ -107,7 +112,8 @@ Atrial myxoma					| HyPOmagnesaemia
 Hypoxia							| HyPOvolaemia
 
 ## Causes of Neuropathic Ulcers (12)
-						|					|
+
+1						| 2					|
 ------------------------|-------------------|
 Diabetes Mellitus		| HIV
 Idopathic				| Tuberculosis (TB)
@@ -132,10 +138,12 @@ Connective tissue Dx	| SLE, PAN, RA, Scleroderma, Sjogrens's syndrome
 Arterial Dx				| Artheroma, Buerger's Dx, Thoracic outlet obstruction
 Trauma					| Frostbite, Vibration
 Drugs					| Ergot, Oral Contraceptive Pill (OCP), Beta-blockers
-Haematological			| PRV, Cryoglobulinaemia, Cold agglutins, Leukaemia, 		Thrombocytosis, Monoclonal gammaopathies
+Haematological			| PRV, Cryoglobulinaemia, Cold agglutins, Leukaemia, 
+						| Thrombocytosis, Monoclonal gammaopathies
 
 ## Indications for Amputation (9)
-									|							|
+
+1									| 2							|
 ------------------------------------|---------------------------|
 Peripheral Vascular Disease (PVD)	| Necrotising fasciitis
 Trauma								| Thromboangiitis obliterans
@@ -168,20 +176,22 @@ Gas gangrene						| –
 ## Risk Factors for Deep Vein Thrombosis (DVT)
 
 ### Peri-Operative
-					|									|
+
+1					| 2									|
 --------------------|-----------------------------------|
 Trauma				| Myocardial Infarction (MI)
 Immobility			| Congestive Cardiac Failure (CCF)
 Lower limb surgery	| –
 
 ### Patient
-					|										|
+
+1					| 2										|
 --------------------|---------------------------------------|
 Age					| Inherited thrombophilia
 Obesity				| Pregnancy/Oral Contraceptive Pill (OCP)
 Previous Hx			| Inflammatory Bowel Disease (IBD)
 Malignancy			| Dysfibrinogenaemia
-Nephrotic Syndrome	|
+Nephrotic Syndrome	| --
 
 ## Causes of Thrombosis
 
@@ -194,25 +204,25 @@ Nephrotic Syndrome	|
 6. Trauma
 
 ### Altered Blood Flow (2)
-1. Turbulence
+1. Turbulence (3)
 	- Stenois
 	- Anastomosis
 	- Prothesis
-2. Stasis
+2. Stasis (3)
 	- Atrial Fibrillation (AF)
 	- Pelvic mass
 	- Aneurysm
 
 ### Altered Blood (3)
-1. Platelets
+1. Platelets (2)
 	- **H** number of platelets 
 	- **H** platelet activation
-2. Coagulation
+2. Coagulation (4)
 	- Protein C & S deficiency
 	- Factor V Leiden
 	- Anti-Thrombin III deficiency
 	- Anti-Phospholipid syndrome
-3. Cells
+3. Cells (5)
 	- Increased viscosity
 	- Dehydration
 	- Waldenstrom's macroglobulinaemia
@@ -232,7 +242,8 @@ Hepatic		| Cirrhosis, Acute necrosis
 Iatrogenic	| ABO incompatibility, Drug reaction
 
 ## Features of Pulmonary Embolism (PE; 13)
-										| 									|
+
+1										| 2									|
 ----------------------------------------|-----------------------------------|
 Dyspnoea/Tachypnoea						| **H** Jugular Venous Pressure (JVP)
 Chest pain								| Shock
@@ -240,25 +251,26 @@ Tachycardia								| Prominent P2
 Fever									| Cyanosis
 Deep Vein Thrombosis (DVT)				| Hypoxia
 Haemoptysis								| Pleural rub
-Electro-Mechanical Disassociation (EMD)	|
+Electro-Mechanical Disassociation (EMD)	| --
 
 ## Inherited Thrombophilia (4)
-
 - Factor V Leiden
 - Anti-Thrombin III deficiency
 - Protein C deficiency
 - Protein S deficiency
 
 ## Pathogenesis of Lipodermatosclerosis (_Theories_; 4)
-						|														|
-------------------------|-------------------------------------------------------|
+
+Class					| Description																|
+------------------------|---------------------------------------------------------------------------|
 Venous stagnations		| Stagnant blood at increased pressure in veins causes ischaemia
 Fibrin cuff				| Fibrin leaking from blood vessels acts a barrier to oxygen & nutrition
 White cell trapping		| White cells become trapped in the microcirculation, causing tissue damage
 Growth factor trapping	| Perpetuates local inflammation
 
 ## Complications of Varicose Veins (8)
-					|										|
+
+1					| 2										|
 --------------------|---------------------------------------|
 Venous eczema		| Venous pigmentation (_haemosiderin_)
 Venous ulceration	| Lipodermatosclerosis
@@ -266,7 +278,6 @@ Bleeding			| Corona lebectasia
 Oedema				| Superficial thrombophlebitis
 
 ## Tributaries of Long Saphenous Vein (LSV) at Saphenofemoral Junction (SFJ) - 6
-
 - Superior Inferior Epigastric
 - Deep External Pudendal
 - Superficial External Pudendal
@@ -275,7 +286,8 @@ Oedema				| Superficial thrombophlebitis
 - Posterior-Medial Thigh
 
 ## Causes of Ankle Swelling (15)
-									|							|
+
+1									| 2							|
 ------------------------------------|---------------------------|
 HyPOproteinaemia					| A-V malformation
 Liver failure						| Deep Vein Thrombosis (DVT)
@@ -284,10 +296,11 @@ Congestive Cardiac Failure (CCF)	| Parkes-Weber syndrome
 Protein-losing enteropathy			| Allergy
 Fluid overload						| Hereditary angioedema
 Lymphoedema							| Immobility
-Trauma								|
+Trauma								| --
 
 ## Lump in Popliteal Fossa (8)
-				|							|
+
+1				| 2							|
 ----------------|---------------------------|
 Lipoma			| Saphena varix
 Sebaceous cyst	| Deep Vein Thrombosis (DVT)
@@ -296,23 +309,23 @@ Baker's cyst	| Neuroma
 
 ## Complications of Transfusion (5 groups)
 
-1. Immunological
+1. Immunological (6)
 	- Immediate haemolysis
 	- Delayed haemolysis
 	- Febrile reaction
 	- Graft vs. Host disease
 	- Immunosuppression
 	- Transfusion Related Acute Lung Injury (TRALI)
-2. Technical
+2. Technical (4)
 	- Fluid overload
 	- Iron overload
 	- Air embolism
 	- HyPOthermia
-3. Metabolic
+3. Metabolic (3)
 	- HyPOcalcaemia
 	- HyPERkalaemia
 	- Acid-Base disturbance
-4. Infective
+4. Infective (5)
 	1. Bacterial
 		- Syphilis
 	2. Viral
@@ -325,30 +338,30 @@ Baker's cyst	| Neuroma
 		- Malaria
 	4. Prion
 		- ?CJD
-5. Haematological
+5. Haematological (2)
 	- Coagulopathy
 	- Disseminated Intravascular Coagulopathy (DIC)
 
-## Anaemia
+## Anaemia (3)
 
-### Normocytic
-- Haemorrhage
-- Enzyme defect e.g. G6PDH, PK
-- Membrane defect e.g. Spherocytosis elliptosis
-- Sickle cell disease
-- Autoimmume haemolytic anaemia
-- Bone marrow failure
-- Anaemia of chronic disease
+### Normocytic (7)
+1. Haemorrhage
+2. Enzyme defect e.g. G6PDH, PK
+3. Membrane defect e.g. Spherocytosis elliptosis
+4. Sickle cell disease
+5. Autoimmume haemolytic anaemia
+6. Bone marrow failure
+7. Anaemia of chronic disease
 
-### Microcytic
-- Iron deficiency anaemia
-- Thalassaemia
-- Anaemia of chronic disease
+### Microcytic (3)
+1. Iron deficiency anaemia (1)
+2. Thalassaemia
+3. Anaemia of chronic disease
 
-### Macrocytic
-- B12 / Folate deficiency
-- Anti-Metabolities
-- Reticulocytosis
+### Macrocytic (3)
+1. B12 / Folate deficiency (2)
+2. Anti-Metabolities
+3. Reticulocytosis
 
 ---
 
