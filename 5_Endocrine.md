@@ -3,27 +3,27 @@ Essential Lists: 5 Endocrine and Breast
 
 ## Causes of Syndrome of Inappropriate Anti-Duretic Hormone (SIADH) Secretion (5)
 
-1. CNS Disorders
+1. CNS Disorders (4) - TODO
 	- Infection
 	- Trauma
 	- Surgery
 	- Malignancy
-2. Pulmonary disease
+2. Pulmonary disease (4)
 	- Infection
 	- Trauma
 	- Surgery
 	- Malignancy
-3. Ectopic ADH
+3. Ectopic ADH (3)
 	- Small-Cell Lung CA (SCLC)
 	- Pancreatic CA
 	- Prostate CA
-4. Drugs
+4. Drugs (5)
 	- Opioids
 	- Antiepileptics
 	- Sedatives
 	- ChemoTx
 	- Andi-depressands
-5. Other
+5. Other (4)
 	- Guillian-Barre syndrome
 	- Pancreatitis
 	- Porphytria
@@ -39,7 +39,7 @@ Essential Lists: 5 Endocrine and Breast
 
 ### MEN IIa – Sipple syndrome - AD, chromosome 10
 - Medullary Thyroid CA
-- **Phaeochrmocytoma**
+- **Phaeochromocytoma**
 - Parathyroid hyperplasia/adenoma
 
 ### MEN III (or IIb) - Chromosome 10
@@ -63,7 +63,7 @@ Essential Lists: 5 Endocrine and Breast
 
 ## Features of Cushing's Syndrome (17)
 
-1						| 2					|
+						| 					|
 ------------------------|-------------------|
 Truncal obesity			| Weakness
 Acne					| HyPERtension
@@ -78,7 +78,7 @@ Proximal myopathy		| --
 
 ## Causes of Addison's Disease (11)
 
-1							| 2														|
+							| 														|
 ----------------------------|-------------------------------------------------------|
 Idiopathic					| Infection: e.g Tuberculosis (TB), Histoplasmosis, HIV	|
 Autoimmune					| Meningococcal septicaemia
@@ -89,7 +89,7 @@ Amyloid						| --
 
 ## Features of Addison's Disease (9)
 
-1				|	2				|
+				|					|
 ----------------|-------------------|
 Pigmentation 	| HyPOnatraemia
 Weight loss		| HyPERkalaemia
@@ -99,7 +99,7 @@ Anaemia			| --
 
 ## Causes of HyPERthyroidism (9)
 
-1								| 2					|
+								| 					|
 --------------------------------|-------------------|
 Graves' disease					| Post-partum
 Solitary toxic nodule			| Thyroid CA
@@ -109,7 +109,7 @@ De Quervain's thyroiditis		| --
 
 ## Features of HyPERthyroidism (15)
 
-1					| 2							|
+					| 							|
 --------------------|---------------------------|
 Heat intolerance	| Fine tremor
 Weight loss			| Eye signs (*see below*)
@@ -122,7 +122,7 @@ Acropathy			|	--
 
 ## Eye Signs in HyPERthyroidism (10)
 
-1					| 2							|
+					| 							|
 --------------------|---------------------------|
 Lid retraction		| Chemosis
 Lid lag				| Diplopia
@@ -132,7 +132,7 @@ Exophthalmos		| Optic Nerve compression
 
 ## Features in HyPOthyroidism (13)
 
-1						| 2												|
+						| 												|
 ------------------------|-----------------------------------------------|
 Cold intolerance		| Slow relaxing reflexes
 Weight gain				| Loss of outer third of elbow
@@ -144,7 +144,7 @@ IHD/CCF					|
 
 ## Features of Acromegaly (12)
 
-1						| 2												|
+						| 												|
 ------------------------|-----------------------------------------------|
 Coarse facies			| HyPERtension
 Enlarged extremities	| Diabetes Mellitus (DM)
@@ -170,7 +170,7 @@ Renal calculi			| Increased incidence of Colorectal Cancer (CRC)
 
 ## Features of HyPOcalcaemia (11) 
 
-1 					| 2 									|
+ 					| 										|
 --------------------|---------------------------------------|
 Paraesthesia		| Tetany e.g. carpopedal/laryngospasm
 Fitting				| ECG abnormalities
@@ -179,9 +179,9 @@ Cramps				| Chvostek's/Trousseau's sign
 Psychosis			| Cataracts (chroin)
 Depression			|
 
-## Causes of HyPERcalcaemia (18)
+## Causes of HyPERcalcaemia (18) - LEARN
 
-1								| 2												|
+								| 												|
 --------------------------------|-----------------------------------------------|
 Iatrogenic (thiazides, lithium)	| Addison's disease
 HyPERparathyoidism				| HyPERthyroidism
@@ -195,7 +195,7 @@ Tuberculosis (TB)				| Familial Hypocalciuric HyPERcalcaemia (FHH)
 
 ## Features of HyPERcalcaemia (14)
 
-1					| 2				|
+					| 				|
 --------------------|---------------|
 Abdominal pain		| Polyuria
 Weight loss			| Polydipsia
@@ -209,18 +209,18 @@ Psychiatric disease	| Cardiac arrest
 
 Type		| HyPOvolaemia			| Normovolaemia			| HyPERvolaemia		|
 ------------|-----------------------|-----------------------|-------------------|
-**L** Na+	| GIT loss				| SIADH					| Cardiac failure
+&darr; Na+	| GIT loss				| SIADH					| Cardiac failure
 			| Renal loss			| HyPOthyroidism		| Hepatic failure
 			| Ketosis				| Polydipsia			| Renal failure
 			| Addison's syndrome	|
-**H** Na+	| GIT loss				| Diabetes insipidus	| Hypertonid fluid
+&uarr; Na+	| GIT loss				| Diabetes insipidus	| Hypertonid fluid
 			| Renal Loss			| Insensible loss		| 
 			| Osmotic diuresis		| Conn's syndrome		|
 			| Burns
 			
 ## Breast Cancer Risk Factors (11)
 
-1								| 2									|
+								| 									|
 --------------------------------|-----------------------------------|
 Age								| Hormone Replacement Therapy (HRT)
 Nulliparity						| Oral Contraceptive Pill (OCP)
@@ -248,7 +248,7 @@ BRCA gene carrier				| --
 
 ## Histology of Invasive Breast Cancer (7)
 
-1						| 2			|
+						| 			|
 ------------------------|-----------|
 Ductal					| Papillary
 Lobular					| Cribiform
@@ -264,15 +264,16 @@ Not otherwise specified	| --
 
 ## Causes of Gynaecomastia (7)
 
-\#	|Class				| Description																				|
-----|-------------------|-------------------------------------------------------------------------------------------|
+\#	|Class				| Description													|
+----|-------------------|---------------------------------------------------------------|
 1	| Physiological		| Neonates, puberty, old age
 2	| Antihypertensives	| ACEi, spironolactone, Calcium Channel Blockers (CCBs)
 3	| Antimicrobials	| Metronidazole, isoniaszid, ketonazole
 4	| Other drugs		| Cimetidine, dignoxin, oestrogens, steroids
 5	| Illicit drugs		| Marijuana, amphetamine
 6	| Endocrine			| HyPO/hyPERthyroidism, gonadal failure, acromegaly
-7	| Other				| Liver failure, testicular tumours, lymphoma, starvation, Klinefelter's/Kallman's syndrome
+7	| Other				| Liver failure, testicular tumours, lymphoma, starvation, 			
+							Klinefelter's/Kallman's syndrome
 
 ---
 
