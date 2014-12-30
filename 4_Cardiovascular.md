@@ -3,9 +3,9 @@ Essential Lists: 4 Cardiovascular
 
 ## Risk Factors for Atheromatous Disease (10)
 
-1					| 2								|
+					| 								|
 --------------------|-------------------------------|
-Age					| **H** Triglyceride/Cholesterol
+Age					| &uarr; Triglyceride/Cholesterol
 Male				| Fatty diet
 Smoker				| Obesity
 Family Hx 			| HyPOthyroidism
@@ -22,7 +22,7 @@ HyPERtension		| Stimulant abuse
 
 ## Causes of Post-Operative HyPERtension (7)
 
-1					| 2											|
+					| 											|
 --------------------|-------------------------------------------|
 Pain				| Pre-opertative HyPERtension (*see below*)
 Urinary retention	| Inotropes
@@ -34,7 +34,7 @@ Hypoxia				|
 ### Essential (90%)
 ### Renovascular
 
-1							| 2							|
+							| 							|
 ----------------------------|---------------------------|
 Chronic renal failure (CRF) | Co-arctation of the Aorta	|
 Renal artery stenosis		| Renin secreting tumours	|
@@ -42,16 +42,16 @@ Glomerular nephritis		| Pre-eclampsia				|
 
 ### Endocrine
 
-1							| 2							|
+							| 							|
 ----------------------------|---------------------------|
 HyPER/HyPOthroidism			| Acromegaly
 Phaeochromocytoma			| Conn's syndrome
 HyPERparathyroidism			| Oral Contraceptive Pill (OCP)
-Cushing's syndrome			|
+Cushing's syndrome			| -- 
 
 ## Causes of Aneurysms (8)
 
-1													| 2			|
+													| 			|
 ----------------------------------------------------|-----------|
 Age-related degeneration 							| Atheroma
 Inflammatory 										| Traumatic
@@ -60,7 +60,7 @@ Connective tissue disease (Marfan's, Ehlers-Danlos)	| Mycotic
 
 ## Complications of Aneurysmal Disease (6)
 
-1			| 2					|
+			| 					|
 ------------|-------------------|
 Rupture 	| Thrombosis
 Embolism	| Dissection
@@ -68,7 +68,7 @@ Ischaemia	| Pressure effects
 
 ## Complications of Aortic Surgery (13)
 
-1							| 2												|
+							| 												|
 ----------------------------|-----------------------------------------------|
 Haemorrhage					| Spinal ischaemia
 Stroke						| Coloni ischaemia
@@ -91,14 +91,14 @@ LEFT-to-RIGHT 	| **Late**	| Ventricular Septal Defect (VSD)
 				|			| Patent Ductus Arteriosus (PDA)
 
 ## Tetralogy of Fallot (ToF; 4)
-- Pulmonary stenosis
-- Overriding aorta
-- Right Ventricular Hypertrophy (RVH)
-- Ventricular Septal Defect (VSD)
+1. Pulmonary stenosis
+2. Overriding aorta
+3. Right Ventricular Hypertrophy (RVH)
+4. Ventricular Septal Defect (VSD)
 
 ## Causes of Atrial Fibrillation (AF; 20)
 
-1								| 2							|
+								| 							|
 --------------------------------|---------------------------|
 'Lone'							| Post-cardiac surgery
 Ischaemic Heart Disease	(IHD)	| Pulmonary Embolism (PE)
@@ -113,7 +113,7 @@ Hypoxia							| HyPOvolaemia
 
 ## Causes of Neuropathic Ulcers (12)
 
-1						| 2					|
+						| 					|
 ------------------------|-------------------|
 Diabetes Mellitus		| HIV
 Idopathic				| Tuberculosis (TB)
@@ -143,7 +143,7 @@ Haematological			| PRV, Cryoglobulinaemia, Cold agglutins, Leukaemia,
 
 ## Indications for Amputation (9)
 
-1									| 2							|
+									| 							|
 ------------------------------------|---------------------------|
 Peripheral Vascular Disease (PVD)	| Necrotising fasciitis
 Trauma								| Thromboangiitis obliterans
@@ -151,42 +151,30 @@ Malignancy							| Burns
 Osteomyelitis						| Frostbite
 Gas gangrene						| –
 
-## Complications of Diabetes Mellitus (4 groups)
+## Complications of Diabetes Mellitus (4 groups of disease)
 
-1. Arterial Disease (2)
-	- Atheroma/arteriosclerosis
-	- Micro/Macro-vascular Dx
-2. Skin Disease (5)
-	- Carbuncle/Furuncle
-	- Cellulitis
-	- Neuropathic ulceration
-	- _Necrobiosis lipoidica_
-	- Impaired wound healing
-3. Renal Disease (5)
-	- Glomerulonephritis
-	- HyPERtension
-	- Renal artery stenosis
-	- Papillary necrosis
-	- Pyelonephritis/UTI
-4. Eye Disease (3)
-	- Cataracts
-	- Retinopathy
-	- Infection
-
+Arterial (2)	  		  | Skin  (5) 				| Renal (5) 			| Eye (3)	|
+--------------------------|-------------------------|-----------------------|-----------|
+Atheroma/arteriosclerosis | Carbuncle/Furuncle	    | Glomerulonephritis	| Cataracts
+Micro/Macro-vascular Dx	  | Cellulitis			    | HyPERtension			| Retinopathy
+--						  | Neuropathic ulceration  | Renal artery stenosis	| Infection
+--						  | _Necrobiosis lipoidica_	| Papillary necrosis	| -- 
+--						  | Impaired wound healing	| Pyelonephritis/UTI	| --
+							
 ## Risk Factors for Deep Vein Thrombosis (DVT)
 
 ### Peri-Operative
 
-1					| 2									|
+					| 									|
 --------------------|-----------------------------------|
 Trauma				| Myocardial Infarction (MI)
 Immobility			| Congestive Cardiac Failure (CCF)
-Lower limb surgery	| –
+Lower limb surgery	| --
 
 ### Patient
 
-1					| 2										|
---------------------|---------------------------------------|
+					| 											|
+--------------------|-------------------------------------------|
 Age					| Inherited thrombophilia
 Obesity				| Pregnancy/Oral Contraceptive Pill (OCP)
 Previous Hx			| Inflammatory Bowel Disease (IBD)
@@ -196,38 +184,30 @@ Nephrotic Syndrome	| --
 ## Causes of Thrombosis
 
 ### Intimal Damage (6)
-1. Atheroma/Arteriosclerosis	
-2. Instrumentation
-3. Inflammation				
-4. External Compression
-5. Chemicals/Toxins
-6. Trauma
 
-### Altered Blood Flow (2)
-1. Turbulence (3)
-	- Stenois
-	- Anastomosis
-	- Prothesis
-2. Stasis (3)
-	- Atrial Fibrillation (AF)
-	- Pelvic mass
-	- Aneurysm
+							|						|
+----------------------------|-----------------------|
+Atheroma/Arteriosclerosis	| Instrumentation
+Inflammation				| External Compression
+Chemicals/Toxins			| Trauma
+
+### Altered Blood Flow (2 x 3)
+
+Turbulence (3)	| Stasis (3) 				|
+----------------|---------------------------|
+Stenois			| Atrial Fibrillation (AF)
+Anastomosis		| Pelvic mass
+Prothesis		| Aneurysm
 
 ### Altered Blood (3)
-1. Platelets (2)
-	- **H** number of platelets 
-	- **H** platelet activation
-2. Coagulation (4)
-	- Protein C & S deficiency
-	- Factor V Leiden
-	- Anti-Thrombin III deficiency
-	- Anti-Phospholipid syndrome
-3. Cells (5)
-	- Increased viscosity
-	- Dehydration
-	- Waldenstrom's macroglobulinaemia
-	- Multiple Myeloma (MM)
-	- Myeloproliferative disorders
+
+Platelets (2)				| Coagulation (4)				| Cells (5)					|
+----------------------------|-------------------------------|---------------------------|
+&uarr; number of platelets	| Protein C & S deficiency		| Increased viscosity
+&uarr; platelet activation	| Factor V Leiden (FVL)			| Dehydration 
+-- 							| Anti-Thrombin III deficiency	| Waldenstrom's macroglobulinaemia
+-- 							| Anti-Phospholipid syndrome	| Multiple Myeloma (MM) 
+-- 							| -- 							| Myeloproliferative disorders
 
 ## Disseminated Intravascular Coagulation (DIC)
 
@@ -243,9 +223,9 @@ Iatrogenic	| ABO incompatibility, Drug reaction
 
 ## Features of Pulmonary Embolism (PE; 13)
 
-1										| 2									|
-----------------------------------------|-----------------------------------|
-Dyspnoea/Tachypnoea						| **H** Jugular Venous Pressure (JVP)
+										| 										|
+----------------------------------------|---------------------------------------|
+Dyspnoea/Tachypnoea						| &uarr; Jugular Venous Pressure (JVP)
 Chest pain								| Shock
 Tachycardia								| Prominent P2
 Fever									| Cyanosis
@@ -254,18 +234,19 @@ Haemoptysis								| Pleural rub
 Electro-Mechanical Disassociation (EMD)	| --
 
 ## Inherited Thrombophilia (4)
-- Factor V Leiden
-- Anti-Thrombin III deficiency
-- Protein C deficiency
-- Protein S deficiency
+1. Factor V Leiden (FVL)
+2. Anti-Thrombin III deficiency
+3. Protein C deficiency
+4. Protein S deficiency
 
 ## Pathogenesis of Lipodermatosclerosis (_Theories_; 4)
 
-Class					| Description																|
-------------------------|---------------------------------------------------------------------------|
+Class					| Description													|
+------------------------|---------------------------------------------------------------|
 Venous stagnations		| Stagnant blood at increased pressure in veins causes ischaemia
-Fibrin cuff				| Fibrin leaking from blood vessels acts a barrier to oxygen & nutrition
-White cell trapping		| White cells become trapped in the microcirculation, causing tissue damage
+Fibrin cuff				| Fibrin leaking from vessels is a barrier to oxygen & nutrition
+White cell trapping		| White cells become trapped in the microcirculation, 
+							causing tissue damage
 Growth factor trapping	| Perpetuates local inflammation
 
 ## Complications of Varicose Veins (8)
@@ -277,17 +258,17 @@ Venous ulceration	| Lipodermatosclerosis
 Bleeding			| Corona lebectasia
 Oedema				| Superficial thrombophlebitis
 
-## Tributaries of Long Saphenous Vein (LSV) at Saphenofemoral Junction (SFJ) - 6
-- Superior Inferior Epigastric
-- Deep External Pudendal
-- Superficial External Pudendal
-- Superior Circumflex Iliac
-- Anterio-Lateral Thigh
-- Posterior-Medial Thigh
+## Tributaries of Long Saphenous Vein (LSV) at Saphenofemoral Junction (SFJ; 6)
+1. Superior Inferior Epigastric
+2. Deep External Pudendal
+3. Superficial External Pudendal
+4. Superior Circumflex Iliac
+5. Anterio-Lateral Thigh
+6. Posterior-Medial Thigh
 
 ## Causes of Ankle Swelling (15)
 
-1									| 2							|
+									| 							|
 ------------------------------------|---------------------------|
 HyPOproteinaemia					| A-V malformation
 Liver failure						| Deep Vein Thrombosis (DVT)
@@ -300,7 +281,7 @@ Trauma								| --
 
 ## Lump in Popliteal Fossa (8)
 
-1				| 2							|
+				| 							|
 ----------------|---------------------------|
 Lipoma			| Saphena varix
 Sebaceous cyst	| Deep Vein Thrombosis (DVT)
@@ -309,59 +290,49 @@ Baker's cyst	| Neuroma
 
 ## Complications of Transfusion (5 groups)
 
-1. Immunological (6)
-	- Immediate haemolysis
-	- Delayed haemolysis
-	- Febrile reaction
-	- Graft vs. Host disease
-	- Immunosuppression
-	- Transfusion Related Acute Lung Injury (TRALI)
-2. Technical (4)
-	- Fluid overload
-	- Iron overload
-	- Air embolism
-	- HyPOthermia
-3. Metabolic (3)
-	- HyPOcalcaemia
-	- HyPERkalaemia
-	- Acid-Base disturbance
-4. Infective (5)
-	1. Bacterial
-		- Syphilis
-	2. Viral
-		- Hepatitis B & C
-		- Human Immunodeficiency Virus (HIV)
-		- Epstein-Barr Virus (EBV)
-		- Cytomegalovirus (CMV)
-		- Parvovirus
-	3. Parasitic
-		- Malaria
-	4. Prion
-		- ?CJD
-5. Haematological (2)
-	- Coagulopathy
-	- Disseminated Intravascular Coagulopathy (DIC)
+### Immunological (6)
+
+						| 													|
+------------------------|---------------------------------------------------|
+Immediate haemolysis	| Delayed haemolysis
+Febrile reaction		| Graft vs. Host disease
+Immunosuppression		| Transfusion Related Acute Lung Injury (TRALI)
+
+### Technical (4)
+
+				| 				|
+----------------|---------------|
+Fluid overload	| Air embolism
+Iron overload	| HyPOthermia
+
+### Metabolic (3)
+
+				| 						|
+----------------|-----------------------|
+HyPOcalcaemia	| Acid-Base disturbance
+HyPERkalaemia	| --
+
+### Infective (5)
+
+Bacteria (1) | Viral (5)			  	| Parasitic (1) | Prion (1)	| Haematology (2) 	|
+-------------|--------------------------|---------------|-----------|-------------------|
+Syphilis 	 | Hepatitis B & C			| Malaria		| ?CJD		| Coagulopathy
+-- 		 	 | HIV 						| -- 			| -- 		| DIC
+-- 			 | Epstein-Barr Virus (EBV)	| -- 			| -- 		| --
+-- 			 | Cytomegalovirus (CMV)	| -- 			| -- 		| --
+-- 		  	 | Parvovirus				| -- 			| --  		| --
 
 ## Anaemia (3)
 
-### Normocytic (7)
-1. Haemorrhage
-2. Enzyme defect e.g. G6PDH, PK
-3. Membrane defect e.g. Spherocytosis elliptosis
-4. Sickle cell disease
-5. Autoimmume haemolytic anaemia
-6. Bone marrow failure
-7. Anaemia of chronic disease
-
-### Microcytic (3)
-1. Iron deficiency anaemia (1)
-2. Thalassaemia
-3. Anaemia of chronic disease
-
-### Macrocytic (3)
-1. B12 / Folate deficiency (2)
-2. Anti-Metabolities
-3. Reticulocytosis
+Normocytic (7)				| Microcytic (3)				| Macrocytic (3)			|
+----------------------------|-------------------------------|---------------------------|
+Haemorrhage					| Iron deficiency anaemia (1)	| B12/Folate deficiency (2)
+Enzyme defect e.g. G6PDH	| Thalassaemia					| Anti-Metabolities
+Membrane defect 			| Anaemia of chronic disease	| Reticulocytosis
+Sickle cell disease			| -- 							| --
+AI haemolytic anaemia		| -- 							| --
+Bone marrow failure			| -- 							| --
+Anaemia of chronic disease	| -- 							| --
 
 ---
 
