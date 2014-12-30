@@ -47,47 +47,23 @@ Surround (_edge_)	| Consistency		|
 
 ## Causes of Clubbing (4)
 
-1. Lung (5)
-	- Lung cancer
-	- Empyema
-	- Fibrosing alveolitis
-	- Brochiectasis/CF
-	- Mesothelioma
-2. Cardiac (3)
-	- Cyanotic heart disease (CHD)
-	- Atrial myxoma
-	- Infective endocarditis (IE)
-3. GI (4)
-	- Coeliac disease
-	- Cirrhosis
-	- Inflammatory bowel disease (IBD)
-	- GI lymphoma
-4. Other (4)
-	- Familial 
-	- Axillary aneurysm
-	- Graves' acropathy
-	- Brachial A-V malformation
+Lung (5)				| Cardiac (3) 	| GIT (4)			| Other (4)					|
+------------------------|---------------|-------------------|---------------------------|
+Lung cancer				| CHD 			| Coeliac disease	| Familial
+Empyema					| Atrial myxoma	| Cirrhosis			| Axillary aneurysm
+Fibrosing alveolitis	| IE			| IBD 				| Graves' acropathy
+Brochiectasis/CF		| --			| GI lymphoma		| Brachial A-V malformation
+Mesothelioma			| --			| -- 				| --
 
 ## Skin Ulcers (4)
 
-1. Edge (5)
-	- Sloping (_healing_)
-	- Punched-out (_ischaemic/neuropathic_)
-	- Undermined (_necrotic_/TB)
-	- Rolled (BCC)
-	- Everted (SCC)
-2. Base (3)
-	- Granulated
-	- Slough
-	- Malignant
-3. Floor (3)
-	- Fascia
-	- Muscle
-	- Bone
-4. Discharge (3)
-	- Serous
-	- Sanguineous
-	- Purulent
+Edge (5)								| Base (3)		| Floor (3) | Discharge (3)	|
+----------------------------------------|---------------|-----------|---------------|
+Sloping (_healing_)						| Granulated	| Fascia	| Serous		
+Punched-out (_ischaemic/neuropathic_)	| Slough		| Muscle	| Sanguineous	
+Undermined (_necrotic_/TB)				| Malignant	 	| Bone		| Purulent		
+Rolled (BCC)							| -- 			| --		| --							
+Everted (SCC)							| -- 			| --		| --				
 
 ## Granulomatous Diseases (9)
 
@@ -216,7 +192,8 @@ Anterior Hernia 			| Foramen of Morgagni
 	- Weight loss
 4. Paraneoplastic (4)
 	- Adrenocorticotrophic Hormone (ACTH) excess
-	- Clubbing: Hypertrophic Pulmonary Osteoarthropathy (HPOA)
+	- Clubbing	
+		- Hypertrophic Pulmonary Osteoarthropathy (HPOA)
 	- Syndrome of Inappropriate Anti-Diuretic Hormone secretion (SIADH)
 	- Neurological
 
@@ -308,37 +285,23 @@ PSA				| Prostate
 Calcitonin		| Medullary cell
 Thyroglobulin	| Thyroid
 
-## Cancers That Metastasise (5)
+## Cancers That Metastasize (5)
+- Bone: **BLT-KP** (_BLT and a Kosher Pickle_)
 
-1. Liver (6)
-	- GI
-	- Pancreas
-	- Urological
-	- Lung
-	- Breast 
-	- Melanoma
-2. Lung (6)
-	- Kidney
-	- Germ cell
-	- Sarcoma
-	- Colorectal
-	- Breast 
-	- Melanoma
-3. Bone: **BLT-KP** (_BLT and a Kosher Pickle_; 5)
-	- Breast
-	- Lung
-	- Thyroid
-	- Kidney
-	- Prostate
-4. Brain (5)
-	- Lung
-	- Kidney
-	- Breast
-	- Melanoma
-	- Colon
-5. Adrenal: **BL** (2)
-	- Breast
-	- Lung
+Organ (12)	| Bone (5)	| Adrenal (2)	| Brain (5)	| Liver (6)	| Lung (6)	|
+------------|:---------:|:-------------:|:---------:|:---------:|:---------:|
+Breast		| B			| B				| B			| B			| B
+Lung		| L			| L				| L			| L 		| -- 		
+Thyroid		| T			| -- 			| -- 		| -- 		| 
+Kidney		| K			| -- 			| K			| -- 		| K
+Prostate	| P			| -- 			| -- 		| -- 		| 
+Colon		| -- 		| -- 			| C			| -- 		| C
+Melanoma	| -- 		| -- 			| M			| M			| M
+Pancreas	| -- 		| -- 			| -- 		| Pa		| 
+GI			| -- 		| -- 			| -- 		| G			| 
+Urologic	| -- 		| -- 			| -- 		| U			| 
+Germ Cell	| -- 		| -- 			| -- 		| --		| GC
+Sarcoma		| -- 		| -- 			| -- 		| --		| S 
 
 ## Carcinogens (3)
 
@@ -375,7 +338,7 @@ Ionising	| Skin, leukaemia, bone, breast, thyroid, ENT
 
 ### Nuclear (3)
 
-POG 	| Cancer					|
+POG 	| Malignancy				|
 --------|---------------------------|
 MYC		| Burkitt's lymphoma
 n-MYC	| Neuroblastoma
@@ -383,14 +346,14 @@ l-MYC	| SCLC
 
 ### Transduction (2)
 
-POG 	| Cancer					|
+POG 	| Malignancy				|
 --------|---------------------------|
 RAS		| Lung, Colon, Pancreas
 Ab1		| Acute lymphoid leukaemia
 
 ### Growth Factor (3)
 
-POG 	| Cancer					|
+POG 	| Malignancy				|
 --------|---------------------------|
 SIS		| Astrocytoma
 hst-1	| Osteosarcoma
@@ -398,7 +361,7 @@ ist-2	| Stomach, Bladder, Breast
 
 ### Growth Factor Inhibitor (3)
 
-POG 	| Cancer				|
+POG 	| Malignancy			|
 --------|-----------------------|
 Erb B1	| Glioma
 Erb B2	| Breast, Ovary, Stomach
@@ -406,7 +369,7 @@ Ret		| Medullary Thyroid CA
 
 ### Tumour Suppressor (7)
 
-POG 		| Cancer						|
+POG 		| Malignancy					|
 ------------|-------------------------------|
 p53			| **Many**
 E-cadherin	| Stomach
@@ -428,15 +391,32 @@ POG 	| Cancer				|
 --------|-----------------------|
 Bcl-2	| B-cell lymphoma
 
-## Abnormalities of Growth (7) - TODO
+## Abnormalities of Growth (7)
 
-- Hyperplasia 	= ?
-- Hypertrophy	= ?
-- Metaplasia 	= ?
-- Dysplasia 	= ?
-- Hamartoma 	= ?
-- Teratoma 		= ?
-- Neoplasia 	= ?
+- Hyperplasia
+	- Gk: 'hyper' = over; 'plasis' = formation 
+	- Enlargement of organ due to increase in *reproduction rate* of cells
+		- often as an initial stage in the development of cancer
+- Hypertrophy
+	- Gk: 'hyper' = excess; 'trophy' = nourishment
+	- Enlargement of organ due to increase in *size* of cells
+- Metaplasia
+	- Gk: 'meta' = change; 'plasis' = formation - change in formation
+	- Abnormal change in the nature of a tissue
+- Dysplasia
+	- Gk: 'dys' = bad/difficult; 'plasis' = formation
+	- Enlargement of organ by proliferation of cells of an abnormal type
+		- as a developmental disorder or early stage in development of Ca
+- Neoplasia
+	- Gk: 'neo' = new; 'plasia' = formation
+	- Presence or formation of new, abnormal growth of tissue
+- Hamartoma
+	- Gk: 'hamataria' = error; 'onkoma' = mass
+	- benign, focal malformation that resembles neoplasm in tissue of origin
+- Teratoma
+	- Gk: 'teras' = monster; 'onkoma' = mass
+	- Tumour composed of tissues not normally present at location
+		- location being typically in the gonads
 
 ## Complications of Radiotherapy (RadioTx; 2)
 
@@ -594,30 +574,22 @@ Carcinoma				| Traumatic
 2. Pseudo-obstruction
 
 ### Mechanical – Small Bowel (3, 10)
-1. Luminal	
-	- Gallstone ileus
-	- Helminths
-	- Bezoar
-2. Mural
-	- Crohn's disease
-	- Tuberculosis (TB)
-	- Malignancy
-	- Radiation
-3. Extra-mural
-	- Adhesions
-	- Hernia
-	- Volvulus
+
+Luminal (3)		| Mural (4) 		| Extra-Mural (3)	|
+----------------|-------------------|-------------------|
+Gallstone ileus	| Crohn's disease	| Adhesions
+Helminths		| Tuberculosis (TB)	| Hernia
+Bezoar			| Malignancy		| Volvulus
+-- 				| Radiation			| --
 
 ### Mechanical – Large Bowel (3, 6)
-1. Luminal
-	- Constipation
-2. Mural
-	- Colorectal CA
-	- Diverticular disease
-	- Crohn's disease
-	- Ischaemic stricture
-3. Extra-mural
-	- Volvulus
+
+Luminal (1)		| Mural (4)				| Extra-Mural (1)	|
+----------------|-----------------------|-------------------|
+Constipation	| Colorectal CA			| Volvulus	
+-- 				| Diverticular disease	| --
+-- 				| Crohn's disease		| --
+-- 				| Ischaemic stricture	| --
 
 ## Associated with Familial Adenomatous Polyposis (FAP; 8)
 
@@ -758,7 +730,7 @@ Drugs - NSAIDs, Warfarin			| Juvenile polyps/intussusception (_paeds_)
 ## Meckel's Diverticulum (_Rule of 2s_; 6)
 - Twice as common in males (M:F = 2:1)
 - Asymptomatic before 2 years of age
-- 2% of the population
+- 2% of population
 - 2 cm long
 - 2 feet proximal to Ileocaecal Valve
 - 2 types of tissue (Gastric & Pancreatic)
@@ -865,97 +837,167 @@ Lymphatic disease	| Thoracic duct obstruction
 --------------------|-------------------|
 HyPERaldosteronism	| HyPOthyroidism
 
-## Causes of Jaundice - HERE
+
+## Causes of Jaundice
 
 ### Pre-Hepatic (3)
+
+			|			|
+------------|-----------|
+Haemolysis	| Sepsis
+CCF			|
+
 ### Congenital (4)
+
+						|					|
+------------------------|-------------------|
+Crigler–Najjar syndrome	| Rotor’s syndrome
+Dubin–Johnson syndrome	| Gilbert’s disease
+
 ### Hepatic (8)
+
+							|									|
+----------------------------|-----------------------------------|
+Alcohol						| Haemachromatosis
+Cryptogenic					| Wilson's disease
+Liver metastasis			| Primary biliary cirrhosis (PBC)
+Hepatocellular CA			| Glycogen storage disease
+CCF/TR						| Galactosaemia
+Budd-Chiari syndrome		| α1-anti-trypsin deficiency
+Physiological (neonates)	| SLE/scleroderma
+Pregnancy					| Cystic fibrosis (CF)
+
 ### Infective (8)
+
+			|					|
+------------|-------------------|
+Hep A-E		| Malaria
+EBV			| Schistosomiasis
+CMV			| Amoebiasis
+HIV			| Toxoplasmosis
+
 ### Drugs (12)
+
+				|						|
+----------------|-----------------------|
+Halothane		| Isoniazid/rifampicin
+Paracetamol		| Valproate
+Co-amoxiclav	| Chlorpromazine
+Erythromycin	| Methyldopa
+OCP				| Methotrexate
+Tamoxifen		| Barbituates
+
 ### Post-Hepatic (11)
+
+							|									|
+----------------------------|-----------------------------------|
+Pancreatic CA				| Gall stones
+Cholangio CA				| Primary sclerosing cholangitis
+Hepatocellular CA			| Stricture
+Gall bladder CA				| Choledochal cyst
+Hilar lymphadenopathy		| Mirizzi’s syndrome
+Acute/chronic pancreatitis	| --
 
 ## Caused of Portal Hypertension
 
 ### Pre-Hepatic (5)
-1. Portal/splenic vein thrombosis
-2. A-V fistula
-3. Congenital malformation
-4. Splenomegaly
-5. Tumour
+
+								|				|
+--------------------------------|---------------|
+Portal/splenic vein thrombosis	| Splenomegaly
+A-V fistula						| Tumour
+Congenital malformation			| --
 
 ### Intra-Hepatic (3)
-1. Cirrhosis (_see above_)
-2. Schistosomiasis
-3. Polycystic disease
+
+						|						|
+------------------------|-----------------------|
+Cirrhosis (_see above_)	| Polycystic disease
+Schistosomiasis			| --
 
 ### Post-Hepatic (6)
-1. Budd-Chiari syndrome
-2. Veno-occlusive disease
-3. Caval obstruction
-4. Hepatic vein invasion
-5. Constrictive pericarditis
-6. CCF/TR
 
-## Indications for (???) TIPS (4) - TODO
-- Uncontrolled acute variceal haemorrhage
-- Failed endoscopic treatment
-- Awaiting liver transplant
-- Not fit for surgery
+						|							|
+------------------------|---------------------------|
+Budd-Chiari syndrome	| Hepatic vein invasion
+Veno-occlusive disease	| Constrictive pericarditis
+Caval obstruction		| CCF/TR
+
+## Indications for Transjugular Intrahepatic Porto-Systemic Shunt (TIPS; 4)
+1. Uncontrolled acute variceal haemorrhage
+2. Failed endoscopic treatment
+3. Awaiting liver transplant
+4. Not fit for surgery
 
 ## Complications of Variceal Haemorrhages (6)
-- Aspiration
-- Pneumonia
-- Hypoxia
-- Renal failure
-- Hepatic encephalopathy
-- Exsanguination
+1. Aspiration
+2. Pneumonia
+3. Hypoxia
+4. Renal failure
+5. Hepatic encephalopathy
+6. Exsanguination
 
 ## Causes of Spenomegaly (9)
 
-1. Bacterial (6)
-	- Typhoid
-	- TB
-	- Septicaemia
-	- Leptospirosis
-	- Syphilis
-	- Brucella
-2. Viral (4)
-	- Hepatitis A–E
-	- EBV
-	- CMV
-	- HIV
-3. Protozoan (3)
-	- Malaria
-	- Visceral leishmaniasis (VL; kala-azar)
-	- Hydatid disease 
-3. Deposition (5)
-	- Amyloid
-	- Gaucher's disease
-	- Felty's disease
-	- Still's disease
-	- Sarcoid
-5. Congestion (4)
-	- CCF
-	- Hepatic vein obstruction
-	- Portal hypertension
-	- Cirrhosis
-6. Haematological (8)
-	- Leukaemia
-	- Lymphoma
-	- Pernicious anaemia
-	- PRV
-	- Elliptocytosis
-	- Spherocytosis
-	- ITP
-	- Sickle cell disease
-7. Infarction (3)
-	- Bacterial endocarditis
-	- Atrial fibrillation
-	- Mural thrombus post-MI
-8. Solitary (3)
-	- Cystic disease
-	- Lymphosarcoma
-	- Angioma
+### Bacterial (6)
+
+			|				|
+------------|---------------|
+Typhoid		| TB
+Septicaemia	| Leptospirosis
+Syphilis	| Brucella
+
+### Viral (4)
+
+				|		|
+----------------|-------|
+Hepatitis A–E	| EBV
+CMV				| HIV
+
+### Protozoan (3)
+
+				|											|
+----------------|-------------------------------------------|
+Malaria			| Visceral leishmaniasis (VL; kala-azar)
+Hydatid disease	| 
+
+### Deposition (5)
+
+				|					|
+----------------|-------------------|
+Amyloid			| Gaucher's disease
+Felty's disease	| Still's disease
+Sarcoid			| -- 
+
+### Congestion (4)
+
+					|							|
+--------------------|---------------------------|
+CCF					| Hepatic vein obstruction
+Portal hypertension	| Cirrhosis
+
+### Haematological (8)
+
+					|							|
+--------------------|---------------------------|
+Leukaemia			| Lymphoma
+Pernicious anaemia	| PRV
+Elliptocytosis		| Spherocytosis
+ITP					| Sickle cell disease
+
+### Infarction (3)
+
+						|						|
+------------------------|-----------------------|
+Bacterial endocarditis	| Atrial fibrillation
+Mural thrombus post-MI	| -- 
+
+### Solitary (3)
+
+				|				|
+----------------|---------------|
+Cystic disease	| Lymphosarcoma
+Angioma			| --
 
 ## Functions of Spleen (5)
 
@@ -968,6 +1010,7 @@ Storage			| Platelets (30%), iron
 Haematopoiesis	| Embryological, haemolytic anaemia
 
 ## Indications for Splenectomy (11)
+
 										|								|
 ----------------------------------------|-------------------------------|
 Trauma									| Hodgkin's disease 
@@ -983,11 +1026,16 @@ Myelofibrosis							| --
 - Idiopathic
 - Trauma
 - Pancreatic Ca
-- Iatrogenic: ERCP, post-opm, radioTx
-- Drugs: diuretics, steroids, chemoTx
-- Metabolic: *H* Ca^++^, *H* TG, *H* cortisol, *L* temperature
-- Infective: CMV, Mumps, Coxsackie
-- Congenital: CF, harmochromatosis, cystic disease, pancreas divisum
+- Iatrogenic
+	- ERCP, post-op, radioTx
+- Drugs
+	- diuretics, steroids, chemoTx
+- Metabolic
+	- **H** Ca^++^, **H** TG, **H** cortisol, **L** temperature
+- Infective
+	- CMV, Mumps, Coxsackie
+- Congenital
+	- CF, harmochromatosis, cystic disease, pancreas divisum
 
 ## Lump in Groin/Iliac Fossa (17)
 
@@ -1012,20 +1060,11 @@ Appendiceal mass/abscess	| --
 
 ## Contents of Inguinal Canal (9)
 
-### Arteries (3)
-1. Artery to the Vas
-2. Testicular Artery
-3. Cremasteric Artery
-
-### Nerves (3)
-1. Ilioinguinal Nerve
-2. Genital Nerve
-3. Symapthetic Nerve
-
-### 3 Others (3)
-1. Vas/Round ligament
-2. Pampiniform plexus
-3. Lymphatics
+Arteries (3) 		| Nerves (3) 			| 3 Others (3)			|
+--------------------|-----------------------|-----------------------|
+Artery to the Vas	| Ilioinguinal Nerve	| Vas/Round ligament
+Testicular Artery	| Genital Nerve			| Pampiniform plexus
+Cremasteric Artery	| Symapthetic Nerves	| Lymphatics
 
 ## Pre-Disposing Factors for UTI (9)
 
@@ -1051,13 +1090,13 @@ Silicate 									| <1%
 Matrix 										| <1%
 
 ## Complications of Calculi (7)
-- Obstruction
-- Stricture
-- Infection
-- Malignant change
-- Haemorrhage
-- Perforation
-- Metaplasia
+
+					|				|
+--------------------|---------------|
+Obstruction			| Haemorrhage
+Stricture			| Perforation
+Infection			| Metaplasia
+Malignant change	| --
 
 ## Enlarged Kidney (12)
 								|														|
@@ -1069,23 +1108,14 @@ Renal Cell Cancer (RCC)			| Diabetes Mellitus (DM)
 Hypertrophy of single kidney	| Amyloidosis
 Horseshoe kidney				| Systemic Lupus Erythematosus (SLE)
 
-## Complications of TURP (3)
+## Complications of TURP (3, 10)
 
-### Immediate (3)
-- Haemorrhage
-- Sepsis
-- TURP syndrome (1%)
-
-### Early (3)
-- Secondary haemorrhage
-- Sepsis
-- Clot retention (1%)
-
-### Late (4)
-- Stricture
-- Incontinence (1%)
-- Erectile dysfunction (20%)
-- Retrograde ejaculation (70%)
+Immediate (3)		| Early (3) 			| Late (4) 						|
+--------------------|-----------------------|-------------------------------|
+Haemorrhage			| Secondary haemorrhage	| Stricture
+Sepsis				| Sepsis				| Incontinence (1%)
+TURP syndrome (1%)	| Clot retention (1%)	| Erectile dysfunction (20%)
+-- 					| -- 					| Retrograde ejaculation (70%)
 
 ## Types of Hydrocoele (5)
 - Vaginal (_testes_)
@@ -1104,11 +1134,11 @@ Recurrent balanitis					| Religious reasons
 Balanitis Xerotica Obliterans (BXO) | --
 
 ## Common Congenital Urinary Abnormalities (6)
-- Horseshoe Kidney
-- Pelvi-ureteric junction (PUJ) obstruction
-- Ureteric duplication
-- Vesico-ureteric junction (VUJ) obstruction
-- Ureterocoele
-- Posterior urethral valves
+1. Horseshoe Kidney
+2. Pelvi-ureteric junction (PUJ) obstruction
+3. Ureteric duplication
+4. Vesico-ureteric junction (VUJ) obstruction
+5. Ureterocoele
+6. Posterior urethral valves
 
 ---
