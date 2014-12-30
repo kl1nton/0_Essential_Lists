@@ -63,13 +63,13 @@ Time Frame | Risk %	|
 
 ## Benefits of Epidural Post-Op (9)
 
-                              |                               |
-------------------------------|-------------------------------|
-Improved respiratory function | **L** Sympathetic stimulation |
-**L** diaphragmatic splinting | **L** Cardiac workload        |
-**L** DVT                     | **L** Vascular resistance     |
-**L** Urinary retention       | **H** Splanchnic blood flow   |
-Earlier mobilisation          |  						      |
+                              	|                              		|
+--------------------------------|-----------------------------------|
+Improved respiratory function 	| &darr; Sympathetic stimulation
+&darr; diaphragmatic splinting 	| &darr; Cardiac workload
+&darr; DVT                     	| &darr; Vascular resistance
+&darr; Urinary retention       	| &uarr; Splanchnic blood flow
+Earlier mobilisation          	|  						      
 
 ## Endocrine Response to Stress/Surgery (6)
 
@@ -118,7 +118,7 @@ Aspiration            | Atelectasis
 	- subcutaneous emphysema
 - Volutrauma
 - Air embolism
-- **L** Cardiac output (CO)
+- &darr; Cardiac output (CO)
 - Nosocomial pneumonia
 - Parenchymal lung damage
 
@@ -135,10 +135,10 @@ Haemorrhage                     | --
 
                                 |                       	|
 --------------------------------|---------------------------|
-**L** GCS/impaired gag reflex   | Hypoxia
+&darr; GCS/impaired gag reflex 	| Hypoxia
 High risk of airway obstruction | Metabolic acidosis
 Airway protection               | CO2 retention
-Bronchial toilet                | To counteract **H** ICP
+Bronchial toilet                | To counteract &uarr; ICP
 
 ## Problems with Pulse Oximetry (3)
 - Measures oxygenation **not** ventilation
@@ -163,11 +163,11 @@ Bronchial toilet                | To counteract **H** ICP
 
 ## Shifts O2/Saturation Curve RIGHT (_decreases_ affinity of Hb for PaO2) - 6
 
-              |                         |
---------------|-------------------------|
-**L** PaO2    | Pyrexia
-**H** H+      | Haemoglobin F (_foetal_)
-**H** 2,3 DPG | Altitude
+              	|                         	|
+----------------|---------------------------|
+&darr; PaO2    	| Pyrexia
+&uarr; H+      	| Haemoglobin F (_foetal_)
+&uarr; 2,3 DPG 	| Altitude
 
 ## Respiratory Failure
 
@@ -186,7 +186,7 @@ Atelectasis    | Haemo-/pneumo-thorax
 ------------------------|-------------------------|
 *Severe* asthma         | Spinal injury
 *Severe* COPD/Emphysema | Head injury
-Bronchiectasis        	| **H** ICP
+Bronchiectasis        	| &uarr; ICP
 Kyphoscoliosis        	| Coma
 Chest wall trauma     	| Opioids
 Abdominal distension  	| Muscular dystrophy
@@ -203,7 +203,7 @@ CVA                    	| CVA
 CNS tumour             	| PE
 Encephalitis           	| Encephalitis 
 Sedation/opioids       	| Hypoxia in COPD
-**H** ICP              	| HyPERventilation/panic attack
+&uarr; ICP              | HyPERventilation/panic attack
 Neuromuscular disease  	| Exercise
 Trauma/surgery         	| Altitude
 Ankylosing spondylitis 	| Salicylate (*early* in poisoning)
@@ -262,13 +262,13 @@ Ringers Lactate      |   147 | **156** |       0 |    4 | 273
 
 ## Types of Shock (5)
 
-Category     | Temp        | CVP   | BP    | TPR	|
--------------|:-----------:|:-----:|:-----:|:------:|
-HyPOvolaemia | —/**L**     | **L** | **L** | **H**
-Septic       | **H**/**L** | **L** | **L** | **L**
-Cardiogenic  | —/**L**     | **H** | **L** | **H**
-Anaphylactic | **H**/—     | **L** | **L** | **L**
-Neurogenic   | —           | **L** | **L** | **L**
+Category     | Temp        		| CVP   	| BP    	| TPR		|
+-------------|:----------------:|:---------:|:---------:|:---------:|
+HyPOvolaemia | —/&darr;     	| &darr;	| &darr;  	| &uarr; 
+Septic       | &uarr;/&darr;	| &darr;  	| &darr;  	| &darr; 
+Cardiogenic  | —/&darr;      	| &uarr;  	| &darr;  	| &uarr; 
+Anaphylactic | &uarr;/—     	| &darr;  	| &darr;  	| &darr; 
+Neurogenic   | —           		| &darr;  	| &darr; 	| &darr; 
 
 - CVP 	= Central Venous Pressure
 - BP 	= Blood Pressure
@@ -280,13 +280,13 @@ Neurogenic   | —           | **L** | **L** | **L**
 ---------------|:----------------:|:---------------:|:-------------:|:--------------:
 Volume Loss    | 10-15% (<0.75L)  | 30-40% (<1.5L)  | 30- 40% (<2L) | >40% (>2L)
 HR             | < 100            | > 100           | 120           | >140
-BP             | --               | --              | **L**         | **L**
-Pulse Pressure | --               | **L**           | **L**         | **L**
+BP             | --               | --              | &darr;        | &darr; 
+Pulse Pressure | --               | &darr;          | &darr;        | &darr; 
 Urine output   | >30              | >20             | >5            | 0
 RR             | <20              | <30             | <40           | >40
 Consciousness  | Restless         | Anxious         | Confused      | Lethargic/Coma
 IV Fluid       | Crystalloid      | Cry/Col         | Col/Blood     | Colloid/Blood
-Skin           | Normal           | Clammy          | **H** CRT     | Pale/Cold
+Skin           | Normal           | Clammy          | &uarr; CRT   	| Pale/Cold
 
 ## Indications for Swan Ganz Catheter (i.e. CVP != LA pressure; 8)
 - Valvular Heart Disease (VHD)
@@ -314,14 +314,14 @@ SVC Obstruction   	| —
                     	|                                   	|
 ------------------------|---------------------------------------|
 Respiratory distress 	| Tracheal deviation away from side
-**H** JVP            	| Ipsilateral decreased breath sounds
+&uarr; JVP            	| Ipsilateral decreased breath sounds
 EMD arrest           	| Ipsilateral hyPER-resonance
 
 - EMD = Electromechanical disassociation
 
 ## Features of Cardiac Tamponade -- first 3 known as _Beck's Triad_ (5)
-- **H** JVP
-- **L** BP
+- &uarr; JVP
+- &darr; BP
 - Muffled heart sounds
 - Kussmaul's sign
 - EMD arrest
@@ -392,9 +392,9 @@ PT prolonged (s)   | >4   | 4–6      | >6
     				 		|   							|
 ----------------------------|-------------------------------|
 DM                   		| More wound infections         
-IHD                  		| **H** DVT/PE     			  
-Atelectasis          		| **H** Dissection/tissue trauma
-**H** Risk of aspiration	| Longer duration of surgery    
+IHD                  		| &uarr; DVT/PE     			  
+Atelectasis          		| &uarr; Dissection/tissue trauma
+&uarr; Risk of aspiration	| Longer duration of surgery    
 Difficult intubation 		| Larger wounds                 
 
 ## Feed Types (8)
@@ -412,9 +412,9 @@ Parenteral (TPN} | Peripheral line
 
 ## Advantages of Enteral Nutrition (EN) over Total Parenteral Nutrition (TPN; 8)
 - Cheaper
-- **H** gut bloodflow
-- **L** gut translocation
-- **L** stress ulceration
+- &uarr; gut bloodflow
+- &darr; gut translocation
+- &darr; stress ulceration
 - Maintains gallbladder function
 - More effective energy usage by portal system
 - Fewer infections
@@ -437,7 +437,7 @@ Mineral | Zinc         | RNA/DNA synthesis, metalloproteases, antibacterial
 ## Complications of EN (2, 9)
 
 Type         |                    |                  	| 
--------------|------------------------------------------|
+-------------|--------------------|---------------------|
 Tube-related | Misplacement       | Leakage  		  
 			 | Displacement  	  | Blockage          
 Feed-related | Diarrhoea          | Nausea/Vomiting   
@@ -446,23 +446,23 @@ Feed-related | Diarrhoea          | Nausea/Vomiting
 
 ## Complications of TPN (2, 20)
 
-Type         |                               |                         | 
--------------|-------------------------------|-------------------------|
-Line-related | Sepsis/infective endocarditis | Thoracic duct injury    |
-		     | Thrombophebitis 			  	 | Chylothorax 			   |
-		     | Pneumothorax 			 	 | Embolism 			   |
-		     | Haemothorax  			 	 | Lost guide wire 		   |
-		     | Nerve injury              	 | Arrhythmia      		   |
-		     | Vascular injury/haematoma 	 | Perforated right atrium |
-Feed-related | **H**/**L** Glucose, Na, K, H | **Fatty liver**		   |
-			 | **H** Ca, Cl					 | Abnormal LFTs		   |
-			 | **L** Folate, Zn, PO4, Mg 	 | Gall bladder stasis	   |
-			 | Fluid overload 			  	 | Refeeding syndrome	   |
+Type         |                               	|                         | 
+-------------|----------------------------------|-------------------------|
+Line-related | Sepsis/infective endocarditis 	| Thoracic duct injury   
+		     | Thrombophebitis 			  	 	| Chylothorax
+		     | Pneumothorax 			 	 	| Embolism
+		     | Haemothorax  			 	 	| Lost guide wire
+		     | Nerve injury              	 	| Arrhythmia
+		     | Vascular injury/haematoma 	 	| Perforated right atrium
+Feed-related | &uarr;/&darr; Glucose, Na, K, H 	| **Fatty liver**
+			 | &uarr; Ca, Cl					| Abnormal LFTs
+			 | &darr; Folate, Zn, PO4, Mg 	 	| Gall bladder stasis
+			 | Fluid overload 			  	 	| Refeeding syndrome
 
 ## Steroid Equivalence (6)
 
 Steroid            | Dosage (mg)	|
--------------------|---------------:|
+-------------------|:--------------:|
 Hydrocortisone     | 20
 Prednisolone       | 5
 Methylprednisolone | 4
@@ -608,10 +608,13 @@ Squamous cell papilloma			| —								|
 
 ## Acute Abdomen in HIV (6)
 - Bacterial enteritis
-- Megacolon: 2º to Cytomegalovirus (CMV)
-- Haemorrhage: 2º to GI involvement by Kaposi's sarcoma, lymphoma
-- Pancreatitis: 2º to anti-retroviral therapy
-- Tuberculous disease of the GI tract
+- Megacolon
+	- 2º to Cytomegalovirus (CMV)
+- Haemorrhage
+	- 2º to GI involvement by Kaposi's sarcoma, lymphoma
+- Pancreatitis
+	- 2º to anti-retroviral therapy
+- Tuberculous disease of GI tract
 - Normal surgical disease in HIV POS patient
 
 ## Toxins (6 x 2)
