@@ -31,7 +31,7 @@ Malignant	| Basal Cell Carcinoma (BCC)	| Squamous Cell Carcinoma (SCC)
 
 ## Risk Factors for Melanoma (8)
 
-.					|							|
+					|							|
 --------------------|---------------------------|
 Fair skin			| FHx of Dysplastic Naevi
 Redhead				| Albinism
@@ -40,7 +40,7 @@ Intermittent UVB	| Light exposure
 
 ## Poor Prognosis in Melanoma (8)
 
-.			|					|
+			|					|
 ------------|-------------------|
 Male		| Breslow > 0.75mm
 Trunk		| Vascular invasion
@@ -49,7 +49,7 @@ Regression	| High mitotic rate
 
 ## Features of Malignancy in Melanoma (11)
 
-. 					|							|
+ 					|							|
 --------------------|---------------------------|
 Change in size		| Loss of surface marking
 Change in colour	| Ulceration/inflammation
@@ -65,7 +65,7 @@ Satellite lesion	| --
 
 ## Complications of Burns (12)
 
-.									| 												|
+									| 												|
 ------------------------------------|-----------------------------------------------|
 Death (fluid loss and infection)	| Burn diabetes
 Septicaemia							| Hypercatabolic state
@@ -76,7 +76,7 @@ Circumferential burn (eschar)		| CO poisoning
 
 ## Closure of a Wound/Defect (7)
 
-.						|				|
+						|				|
 ------------------------|---------------|
 Primary closure			| Random flap
 Secondary intention		| Axial flap
@@ -85,7 +85,7 @@ Full-thickness graft	| --
 
 ## Complications of Tracheostomy (18)
 
-.						|					|
+						|					|
 ------------------------|-------------------|
 Haemorrhage				| Displacement
 Nerve injury			| Blockage
@@ -161,7 +161,7 @@ Extracranial	| Otitis media						| Surgery
 
 ## Features of Malignancy in Parotid Tumours (7)
 
-. 									| 							|
+									| 							|
 ------------------------------------|---------------------------|
 Facial Nerve (CN VII) involvement	| Hard
 Rapid growth						| Fixed
@@ -205,7 +205,7 @@ Multiple	| Multinodular goitre		| Physiological
 4. Medullary: from calcitonin-secreting parafollicular C cells
 5. Lymphoma: particularly in Hashimoto's thyroiditis
 
-## Indications for Thyroid Surgery: "5Cs" - TODO
+## Indications for Thyroid Surgery: "5Cs" - LEARN
 1. Failed medical treatment
 2. Compression
 3. Carcinoma
@@ -213,7 +213,7 @@ Multiple	| Multinodular goitre		| Physiological
 
 ## Complications of Thyroidectomy (9)
 
-.									| 								|
+									| 								|
 ------------------------------------|-------------------------------|
 Hameatoma							| HyPOthyroidism
 Respiratory obstruction				| HyPOparathyroidism
