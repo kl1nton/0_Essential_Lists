@@ -94,7 +94,7 @@ Earlier mobilisation          	|
 
 - Glucagon (pancreatic G-cells)
     - Gluconeogenesis
-    - *L* Insulin secretion
+    - &darr; Insulin secretion
 
 ## Suxamethonium Side Effects (6)
 
@@ -105,12 +105,13 @@ Bradycardia  | HyPO / HyPERtension
 Bronchospasm | Malignant HyPERpyrexia
 
 ## Complications of General Anaesthesia (8)
-                      |                                      |
-----------------------|--------------------------------------|
-Aspiration            | Atelectasis
-*H* Sputum production | Segmental collapse (V/Q mismatching)
-*L* Cough reflexes    | *H* CO2
-*L* Ciliary activity  | ARDS
+
+                      		|                                      |
+----------------------------|--------------------------------------|
+Aspiration            		| Atelectasis
+&uarr; Sputum production 	| Segmental collapse (V/Q mismatching)
+&darr; Cough reflexes    	| &uarr; CO2
+&darr; Ciliary activity  	| ARDS
 
 ## Complications of Ventilation (6)
 - Barotrauma
