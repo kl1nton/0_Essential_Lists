@@ -23,9 +23,9 @@ Essential Lists: 3 Orthopaedics and Neurology
 
 ### Secondary (4)
 
-Class		| Description																	|
-------------|-------------------------------------------------------------------------------|
-Endocrine	| Addison's Dx, Cushing's Dx, HyPERparathyroidism, Thyroid Dx, DM, HyPOgonadism
+Class		| Description																|
+------------|---------------------------------------------------------------------------|
+Endocrine	| Addison's, Cushing's, HyPERparathyroidism, Thyroid Dx, DM, HyPOgonadism
 Neoplasm	| Pituitary tumour, Myeloma, Carcinomatosis
 Drugs		| Steroids, Heparin, Chemmotherapy, Antiepileptics
 Dietary		| Vitamin C+D deficiency, Malnutrition, Alcoholism, Malabsorbtion
@@ -57,14 +57,14 @@ Synostosis				| Renal stones
 Subluxation/dislocation	| Osteoporosis
 Skin necrosis			| Psychological
 Pressure sore			| Economic
-Contracture				|
-Re-fracture				|
-Avascular necrosis		| 
-Sudeck's atrophy (RSD)	|
-Myositis ossificans		|
-Tendon rupture			|
-Osteomyelitis			|
-Pseudoaneurysm			|
+Contracture				| --
+Re-fracture				| --
+Avascular necrosis		| --
+Sudeck's atrophy (RSD)	| --
+Myositis ossificans		| --
+Tendon rupture			| --
+Osteomyelitis			| --
+Pseudoaneurysm			| --
 
 ## Poor Healing in Bone (7)
 1. Infection
@@ -105,7 +105,7 @@ Advantages 			| Disadvantages			|
 --------------------|-----------------------|
 Early mobilisation	| Needs surgery
 Precise				| Expensive
-**L** Pain			| Soft-tissue damage
+&darr; Pain			| Soft-tissue damage
 --					| Infection
 
 ### External Fixation (11)
@@ -183,12 +183,13 @@ On Examination		| Subluxation			| Heberden's nodes
 
 ## Extra-Articular Disease in Rheumatoid Arthritis (4)
 
-Location			| Disease																							|
---------------------|---------------------------------------------------------------------------------------------------|
+Location			| Disease															|
+--------------------|-------------------------------------------------------------------|
 Eyes				| Sjorgen's syndrome, cataracts, episcleritis
-Chest				| Pericarditis, effusions, lung granuloma, fibrosing aleolitis, nodules, bronchiolitis obliterans
+Chest				| Pericarditis, effusions, lung granuloma, fibrosing aleolitis, 		
+						nodules, bronchiolitis obliterans
 Autoimmune Disease	| Graves' disease, Addison's disease, myasthenia gravis, vitiligo
-General				| Ly,phadenopathy, splenomegaly (Felty's), Carpal Tunnel Syndrome (CTS), vasculitis
+General				| Lymphadenopathy, splenomegaly (Felty's), Carpal Tunnel Syndrome (CTS), vasculitis
 
 ## Dupuytren's Contracture (12)
 1. Familial (AD)
@@ -204,7 +205,7 @@ General				| Ly,phadenopathy, splenomegaly (Felty's), Carpal Tunnel Syndrome (CT
 11. Peyronie's disease
 12. HIV
 
-## Dupuytren's Affects in Order (5)
+## Dupuytren's Affects in Order ("RL-MIT"; 5)
 1. Ring
 2. *Little*
 3. Middle
@@ -231,16 +232,16 @@ C		| Above syndesmosis (syndesmotic injury)
 
 ## Classification of Hip Fracture - Garden (4)
 
-Class	| Fracture	| Displacement 							|
---------|-----------|---------------------------------------|
-I		| IMPACTED	| Undisplaced and incomplete (1 cortex)
-II		| COMPLETE	| Undisplaced (BOTH cortices)
+Class	| Fracture	| Displacement 								|
+--------|-----------|-------------------------------------------|
+I		| IMPACTED	| **Undisplaced** and incomplete (1 cortex)
+II		| COMPLETE	| **Undisplaced** (BOTH cortices)
 III		| COMPLETE	| Partial displacement
 IV		| COMPLETE	| Complete displacement
 
 ## Complications of Total Hip Replacement (THR; 12)
 
-1									| 2								|
+									| 								|
 ------------------------------------|-------------------------------|
 Perforation/Fracture of Acetabulum	| Deep Vein Thrombosis (DVT)
 Recurrent dislocation				| Infection
@@ -260,7 +261,7 @@ Leg-length discrepancy				| Gait problems
 
 Gait			| Cause					| Symptoms						|
 ----------------|-----------------------|-------------------------------|
-Antalgic		| Pain					| **H** Swing phase
+Antalgic		| Pain					| &uarr; Swing phase
 Trendelenberg	| Weak abductors		| 'Hip dip'
 Parkinsonian	| Parkinson's disease	| Shuffling/festinate
 Broad bases		| Cerebellar			| Lurches to one side
@@ -269,23 +270,25 @@ High-stepping	| Foot drop				| No heel strike
 Spastic			| UMN lesion			| Jerky
 Waddling		| Proximal myopathy		| Shifting from side to side
 
-## Causes of Locked Knee
-- Meniscal tear/Discoid meniscus
-- Synovial chondromatosis
-- Cruciate ligament injury
-- Femoral condyle dysplasia (*child*)
-- Loose body
-- Osteocondritis dessicans (*young child*)
-- Fracture
-- Intra-articular tumour (*elderly*)
+## Causes of Locked Knee (8)
+
+								| 											|
+--------------------------------|-------------------------------------------|
+Meniscal tear/Discoid meniscus	| Synovial chondromatosis
+Cruciate ligament injury		| Femoral condyle dysplasia (*child*)
+Loose body 						| Osteocondritis dessicans (*young child*)
+Fracture						| Intra-articular tumour (*elderly*)
 
 ## Types of Intracranial Haematoma
-- Extradural: 		Direct trauma with fracture especially temporal and parietal lobes (*arterial*)
-- Subdural: 		Sheer force tears bridging veins (acute/chronic)
-- Subarachnoid:		Arterial rupture from Berry aneurysm or AVM
-- Intracerebral:	Direct trauma or 2º to Diabetes Mellitus (DM), Hypertension or Trauma
 
-## Skull Foramina (9) - Mnemonic? TODO - LEARN
+Type			| Description 															|
+----------------|-----------------------------------------------------------------------|
+Extradural		| Direct trauma with fracture especially temporal and parietal lobes (*arterial*)
+Subdural		| Sheer force tears bridging veins (acute/chronic)
+Subarachnoid	| Arterial rupture from Berry aneurysm or AVM
+Intracerebral	| Direct trauma or 2º to Diabetes Mellitus (DM), Hypertension or Trauma
+
+## Skull Foramina (9) - Mnemonics? - LEARN
 
 Foramina					| Contents 	            	| CN  	| 
 ----------------------------|---------------------------|-------|
@@ -307,33 +310,22 @@ Lacerum						| Internal Carotid Artery 	| –
 
 ## Cerebral Lobe Functions (4)
 
-### Frontal (4)
-1. Emotion
-2. Personality
-3. Speech (_motor_)
-4. Motor
-
-### Parietal (3)
-1. Sensory
-2. Spatial orientation
-3. Speech (_sensory_)
-
-### Temporal (2)
-1. Memory
-2. Smell
-
-### Occipital (1)
-1. Vision
+Frontal (4)			| Parietal (3) 			| Temporal (2)	| Occipital (1)	|
+--------------------|-----------------------|---------------|---------------|
+Emotion				| Sensory				| Memory		| Vision
+Personality			| Spatial orientation	| Smell			| --
+Speech (_motor_)	| Speech (_sensory_)	| -- 			| --
+Motor				| -- 					| -- 			| --
 
 ## Cushing's Response to Raised ICP (4)
-- **L** Heart Rate (HR)
-- **L** Respiratory Rate (RR)
-- **H** Pulse Pressure (PP)
-- **H** Blood Pressure (BP)
+- &uarr; Blood Pressure (BP)
+- &uarr; Pulse Pressure (PP)
+- &darr; Heart Rate (HR)
+- &darr; Respiratory Rate (RR)
 
 ## Causes of Reduced Glasgow Coma Scale (GCS) (11)
 
-1				| 2				|
+				|  				|
 ----------------|---------------|
 Head injury		| Opiates/BZD
 Alcohol			| Poisons
@@ -344,7 +336,7 @@ Hypoxia			| --
 
 ## Causes of Carpal Tunnel Syndrome (18)
 
-1					| 2						|
+					| 						|
 --------------------|-----------------------|
 Idiopathic			| Menopause
 Occupation			| Pregnancy/OCP
@@ -362,17 +354,17 @@ Tuberculosis (TB)	| Rheumatoid Arthritis
 
 Recovery	| Description											|
 ------------|-------------------------------------------------------|
-Hours/days	| Disruption of conduction due to segment demyelination
+Hrs/Day		| Disruption of conduction due to segment demyelination
 			| No wallerian degeneration
 			| Usually 2º to blunt trauma/compression
 
 ### Axonotmesis
 
-Recovery 		| Description																			|
-----------------|---------------------------------------------------------------------------------------|
-Weeks/months	| Disruption of axon with distal wallerian degeneration **but** an intact endoneurium
-				| Regrowth is at 1 mm/day
-				| Usually 2º to blunt trauma/crush injury
+Recovery 	| Description																			|
+------------|---------------------------------------------------------------------------------------|
+Wks/Mths	| Disruption of axon with distal wallerian degeneration **but** an intact endoneurium
+			| Regrowth is at 1 mm/day
+			| Usually 2º to blunt trauma/crush injury
 
 ### Neurotmesis 
 
@@ -384,27 +376,26 @@ Recovery			| Description																|
 					| Usually 2º to stab injury
 
 ## Features of Tibial Nerve Injuries (5)
-- Paralysis of Ankle & Toe flexion with toe clawing
-- Shuffling gait (impaired take-off)
-- Muscle wasting on the sole
-- Loss of sensation of the sole
-- Flat foot (dysfunction of foot arches)
+1. Paralysis of Ankle & Toe flexion with toe clawing
+2. Shuffling gait (impaired take-off)
+3. Muscle wasting on the sole
+4. Loss of sensation of the sole
+5. Flat foot (dysfunction of foot arches)
 
 ## Features of Peroneal Nerve Injury (4)
-- Paralysis of Anterior & Lateral compartment
-- Loss of dorsiflexion & toe extension (**foot drop**) 
-- High-stepping gait to clear ground
-- Normal-looking foot 
+1. Paralysis of Anterior & Lateral compartment
+2. Loss of dorsiflexion & toe extension (**foot drop**) 
+3. High-stepping gait to clear ground
+4. Normal-looking foot 
 
 ## Reflexes - LEARN
 				
-Reflex				| Innervation	|
---------------------|:-------------:|
-Biceps 				| C5/6
-Brachioradialis 	| C6
-Triceps 			| C7
-Patella 			| L2/3
-Achilles 			| S1/2
-Babinski 			| UMN lesion
+Reflex					| Innervation	|
+------------------------|:-------------:|
+Achilles 				| S1/2
+Patella 				| L2/3
+Biceps/Brachioradialis 	| C5/6
+Triceps 				| C7/8
+Babinski 				| UMN lesion
 
 ---
