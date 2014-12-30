@@ -1031,7 +1031,7 @@ Myelofibrosis							| --
 - Drugs
 	- diuretics, steroids, chemoTx
 - Metabolic
-	- **H** Ca^++^, **H** TG, **H** cortisol, **L** temperature
+	- &uarr; Ca^++^, &uarr; TG, &uarr; cortisol, &darr; temperature
 - Infective
 	- CMV, Mumps, Coxsackie
 - Congenital
